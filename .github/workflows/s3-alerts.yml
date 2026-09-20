@@ -1,0 +1,45 @@
+name: MVG S3 Alerts
+
+on:
+  schedule:
+    # Every 10 minutes. GitHub may delay scheduled runs under load;
+    # tighten/loosen as needed, but keep MVG's "moderate use" policy in mind.
+    - cron: "*/10 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mvg-s3-alerts
+  cancel-in-progress: false
+
+jobs:
+  check-alerts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run S3 alert check
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python main.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add state/
+          if ! git diff --cached --quiet; then
+            git commit -m "Update S3 alert state [skip ci]"
+            git push
+          else
+            echo "No state changes to commit."
+          fi
