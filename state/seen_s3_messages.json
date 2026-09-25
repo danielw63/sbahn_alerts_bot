@@ -24,5 +24,16 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1786399200000,
     "validTo": 1846015140000
+  },
+  "e5adb8f088f0290a": {
+    "description": "<p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
+    "severity": 2,
+    "stations": [
+      "Pasing"
+    ],
+    "title": "Technische Störung an einem Zug - Auf der Stammstrecke kommt es in Richtung Pasing zu Verspätungen von 15 bis 20 Minuten, Zugausfällen und vorzeitigen Zugwenden.",
+    "type": "INCIDENT",
+    "validFrom": 1790347320000,
+    "validTo": 1790352000000
   }
 }
