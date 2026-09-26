@@ -24,5 +24,17 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1786399200000,
     "validTo": 1846015140000
+  },
+  "f8f06841bd2c8320": {
+    "description": "<p></p><p>Es kommt noch zu Folgeverspätungen von bis zu 20 Minuten und vorzeitigen Zugwenden.</p><p>Der Grund hierfür waren unbefugte Personen auf der Strecke.</p>",
+    "severity": 2,
+    "stations": [
+      "Lochhausen",
+      "Pasing"
+    ],
+    "title": "Unbefugte Personen auf der Strecke - Zwischen Pasing und Lochhausen sind  die Zugfahrten wieder möglich.",
+    "type": "INCIDENT",
+    "validFrom": 1790380680000,
+    "validTo": 1790384400000
   }
 }
