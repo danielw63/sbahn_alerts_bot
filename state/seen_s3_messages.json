@@ -24,17 +24,5 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1786399200000,
     "validTo": 1846015140000
-  },
-  "b7114a345d86d823": {
-    "description": "<p>Die unbefugte Person hat die Strecke verlassen.</p>",
-    "severity": 3,
-    "stations": [
-      "Ostbahnhof",
-      "Pasing"
-    ],
-    "title": "Stammstrecke Ostbahnhof ↔ Pasing - Zwischen Ostbahnhof und Pasing kommt es zu keinen Beeinträchtigungen mehr.",
-    "type": "INCIDENT",
-    "validFrom": 1790442120000,
-    "validTo": 1790447400000
   }
 }
