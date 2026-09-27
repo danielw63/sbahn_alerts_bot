@@ -25,11 +25,11 @@
     "validFrom": 1786399200000,
     "validTo": 1846015140000
   },
-  "e397b0abfd7bd6dd": {
-    "description": "<p>❗ Die S-Bahnen kommend von/nach Holzkirchen wenden in Olching.</p><p><strong>Sobald wir weitere Informationen haben, werden wir Sie sofort darüber informieren.</strong></p><p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
+  "9362510942f4beaf": {
+    "description": "<p>Die S-Bahnen wenden in Olching .</p><p><strong>Korrektur</strong>:‼️ <strong>Wir arbeiten an der Einrichtung eines Ersatzverkehrs zwischen Olching und Mammendorf, warten aber noch auf die Bestätigung unserer Partner.</strong>‼️</p><p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
     "severity": 1,
     "stations": [
-      "Holzkirchen",
+      "Mammendorf",
       "Maisach",
       "Olching"
     ],
