@@ -42,14 +42,5 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1786399200000,
     "validTo": 1846015140000
-  },
-  "b3c830b83452e926": {
-    "description": "<p>Das Fahrgastaufkommen hat sich normalisiert.</p>",
-    "severity": 3,
-    "stations": [],
-    "title": "Stammstrecke - Auf der Stammstrecke kommt es zu keinen nennenswerten Beeinträchtigungen mehr.",
-    "type": "INCIDENT",
-    "validFrom": 1790619720000,
-    "validTo": 1790623800000
   }
 }
