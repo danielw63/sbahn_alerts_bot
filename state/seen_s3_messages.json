@@ -42,16 +42,5 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1786399200000,
     "validTo": 1846015140000
-  },
-  "9dcdd42379a7845b": {
-    "description": "<p>Die Reparatur an einer Weiche wurde beendet.</p>",
-    "severity": 3,
-    "stations": [
-      "Giesing"
-    ],
-    "title": "S 3, S 5 Giesing - Im Bereich Giesing kommt es zu keinen Beeinträchtigungen mehr.",
-    "type": "INCIDENT",
-    "validFrom": 1790689020000,
-    "validTo": 1790697600000
   }
 }
