@@ -30,6 +30,17 @@
     "validFrom": 1786399200000,
     "validTo": 1851371940000
   },
+  "5c3754006dcd67c1": {
+    "description": "<p>Die technische Störung am Zug wurde behoben.</p>",
+    "severity": 2,
+    "stations": [
+      "Pasing"
+    ],
+    "title": "Stammstrecke - Auf der Stammstrecke kommt es in Richtung Pasing zu keinen Beeinträchtigungen mehr.",
+    "type": "INCIDENT",
+    "validFrom": 1790683800000,
+    "validTo": 1790686800000
+  },
   "778f6e77eda6e9ec": {
     "description": "Ab dem 25. August 2026 ist aufgrund von Bauarbeiten am Bahnhof Laim bis Mitte 2028 mit Änderungen bei den Fahrten in Richtung Münchner Innenstadt zu rechnen. Diese Änderungen betreffen ausschließlich die Fahrten in Richtung Innenstadt. Bei den Fahrten aus der Stadt heraus halten alle S-Bahn-Züge weiterhin wie gewohnt in Laim. Fahrgäste, die aus Richtung Pasing kommen und mit den Linien S3, S4, S6 oder S8 nach Laim fahren: Diese Linien halten in Richtung Stadtzentrum nicht mehr am Bahnhof Laim. Fahrgäste, die nach Laim fahren möchten, werden gebeten, mit der S-Bahn bis Hirschgarten weiterzufahren, dort auf demselben Bahnsteig umzusteigen und dann mit der nächsten S-Bahn zurück nach Laim zu fahren.&nbsp; Mit einem für Laim gültigen Fahrschein ist es möglich, bis Hirschgarten weiterzufahren und dann zurück nach Laim zu fahren. Durch den zusätzlichen Umstieg kann sich die Fahrzeit verlängern. Den Fahrgästen wird empfohlen, vor Fahrtantritt die Anschlussinformationen zu überprüfen, die aktuellen Fahrgastinformationen im Zug und am Bahnhof zu beachten und insbesondere zu Beginn des Schuljahres sowie in den ersten Tagen des Betriebs die zusätzliche Fahrzeit einzuplanen. Kurz zusammengefasst:<ul> <li>Bauarbeiten am Bahnhof Laim vom 25.08.2026 bis voraussichtlich Mitte 2028</li> <li>Die Linien S3, S4, S6 und S8 halten stadteinwärts nicht in Laim.</li> <li>Stadtauswärts ergeben sich keine Änderungen.</li> <li>Fahrgäste mit Ziel Laim fahren bitte bis Hirschgarten weiter, steigen dort um und fahren mit der nächsten S-Bahn zurück nach Laim.</li> <li>Kein zusätzliches Ticket erforderlich.</li> <li>Die Linien S1, S2 und S5 sind nicht betroffen und halten weiterhin in beiden Fahrtrichtungen in Laim.</li></ul>",
     "severity": 2,
@@ -42,16 +53,5 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1786399200000,
     "validTo": 1846015140000
-  },
-  "a2a9804e3a7b72be": {
-    "description": "<p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
-    "severity": 2,
-    "stations": [
-      "Pasing"
-    ],
-    "title": "Technische Störung an einem Zug - Auf der Stammstrecke kommt es in Richtung Pasing zu Verspätungen von bis zu 10 Minuten, vorzeitigen Zugwenden und vereinzelten Umleitungen.",
-    "type": "INCIDENT",
-    "validFrom": 1790683800000,
-    "validTo": 1790686800000
   }
 }
