@@ -43,13 +43,13 @@
     "validFrom": 1786399200000,
     "validTo": 1846015140000
   },
-  "bf941eb643196531": {
-    "description": "<p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+  "9dcdd42379a7845b": {
+    "description": "<p>Die Reparatur an einer Weiche wurde beendet.</p>",
     "severity": 3,
     "stations": [
       "Giesing"
     ],
-    "title": "Reparatur an einer Weiche - Im Bereich Giesing kommt es zu Verspätungen von 10 bis 15 Minuten und vereinzelten Teilausfällen.",
+    "title": "S 3, S 5 Giesing - Im Bereich Giesing kommt es zu keinen Beeinträchtigungen mehr.",
     "type": "INCIDENT",
     "validFrom": 1790689020000,
     "validTo": 1790697600000
