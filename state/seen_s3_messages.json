@@ -43,27 +43,15 @@
     "validFrom": 1786399200000,
     "validTo": 1846015140000
   },
-  "d81977fd8810e275": {
-    "description": "<p>Die S-Bahnen verkehren wie folgt:</p><p><strong>S 1 Freising/Flughafen ↔ Leuchtenbergring</strong></p><ul> <li>Die S 1 verkehrt nur <strong>Moosach </strong>↔ <strong>Freising/Flughafen</strong>.</li></ul><p><strong>Alternativen:</strong></p><ul> <li>  <ul>   <li>Moosach ↔ Marienplatz: <strong>U3</strong></li>   <li>Feldmoching ↔ Hauptbahnhof: <strong>U2</strong></li>   <li>Moosach ↔ Pasing: <strong>Bus 162</strong></li>  </ul> </li></ul><p><strong>S 2 Petershausen/Altomünster ↔ Erding</strong></p><ul> <li>Die S2 verkehrt nur <strong>Petershausen/Altomünster</strong> ↔ <strong>Heimeranplatz Gleis 11</strong>.</li> <li>Die S2 verkehrt nur <strong>Erding </strong>↔ <strong>Berg am Laim</strong>.</li></ul><p><strong>Alternativen:</strong></p><ul> <li>  <ul>   <li>Ostbahnhof/Karlsplatz/Hauptbahnhof ↔ Heimeranplatz: <strong>U5</strong></li>   <li>Berg am Laim ↔ Ostbahnhof:<strong> Bus 190/191</strong></li>  </ul> </li></ul><p><strong>S 3 Mammendorf ↔ Holzkirchen</strong></p><ul> <li>Die S3 verkehrt nur <strong>Mammendorf </strong>↔ <strong>Isartor</strong>.</li> <li>Die S3 verkehrt nur <strong>Holzkirchen </strong>↔ <strong>Giesing</strong>.</li></ul><p><strong>S 4 Geltendorf ↔ Trudering</strong></p><ul> <li>Die S4 verkehrt nur <strong>Geltendorf</strong> ↔ <strong>Hauptbahnhof Gleise 27-36</strong>. Der Halt <strong>Hackerbrücke </strong>entfällt.</li></ul><p><strong>S 5 Kreuzstraße ↔ Pasing</strong></p><ul> <li>Die S5 verkehrt nur <strong>Aying</strong>↔ <strong>Giesing</strong>.</li></ul><p><strong>S 6 Tutzing ↔ Ebersberg</strong></p><ul> <li>Die S6 verkehrt nur <strong>Tutzing</strong> ↔ <strong>Hackerbrücke</strong>.</li> <li>Die S6 verkehrt nur <strong>Ebersberg </strong>↔ <strong>Trudering</strong>.</li></ul><p><strong>Alternativen:</strong></p><ul> <li>  <ul>   <li>Hauptbahnhof ↔ Trudering: <strong>U2</strong></li>   <li>Trudering ↔ Berg am Laim: <strong>Bus 185</strong></li>   <li>Berg am Laim ↔ Ostbahnhof:<strong> Bus 190/191</strong></li>  </ul> </li></ul><p><strong>S 7 Wolfratshausen ↔ Hauptbahnhof Gleis 36</strong></p><ul> <li>Die S7 verkehrt auf dem Regelweg <strong>Wolfratshausen ↔ Hauptbahnhof Gleis 36</strong></li></ul><p><strong>S 8 Herrsching ↔ Flughafen</strong></p><ul> <li>Die S8 verkehrt nur <strong>Herrsching </strong>↔ <strong>Pasing</strong>.</li> <li>Die S8 verkehrt nur <strong>Flughafen </strong>↔ <strong>Johanneskirchen / Leuchtenbergring</strong>.</li></ul><p><strong>Alternative:</strong></p><ul> <li>  <ul>   <li>Hauptbahnhof ↔ Arabellapark: <strong>U4;</strong> Arabellapark ↔ Johanneskirchen: <strong>Bus 154</strong></li>  </ul> </li></ul><p></p><p><strong>Alternativen für Giesing ↔ Ostbahnhof ↔ Hauptbahnhof:</strong></p><ul> <li>  <ul>   <li>Hauptbahnhof ↔ Giesing: <strong>U 2</strong></li>   <li>Hauptbahnhof ↔ Karlsplatz ↔ Ostbahnhof ↔ Innsbrucker Ring: <strong>U 5;</strong> Innsbrucker Ring ↔ Giesing: <strong>U 2</strong></li>   <li>Ostbahnhof ↔ Giesing: <strong>Bus 54</strong></li>  </ul> </li></ul><p><strong>Alternativen zwischen Pasing ↔ Ostbahnhof:</strong></p><ul> <li>  <ul>   <li><strong>Tram 16 mit Halten</strong>: Donnersberger Brücke ↔ Hackerbrücke ↔ Hauptbahnhof ↔ Karlsplatz ↔ Isartor</li>   <li><strong>Tram 17 mit Halten</strong>: Donnersberger Brücke ↔ Hackerbrücke ↔ Hauptbahnhof ↔ Karlsplatz</li>   <li><strong>Tram 18 mit Halten</strong>: Hirschgarten(Lautensackstraße) ↔ Donnersbergerbrücke(Trappentreustraße) ↔ Hackerbrücke(Holzapfelstraße) ↔ Hauptbahnhof ↔ Karlsp...</li>  </ul> </li></ul>",
+  "eeec969114eb3798": {
+    "description": "<p>Es kommt jedoch noch zu Folgeverspätungen und Teilausfällen.</p><p>Die Linie S 1 verkehrt weiterhin nur zwischen Moosach und Freising / Flughafen.</p><p>Die Linie S 5 verkehrt nur zwischen Aying und Ostbahnhof.</p><p>Der Grund dafür war ein Notarzteinsatz auf der Strecke.</p>",
     "severity": 3,
     "stations": [
-      "Donnersbergerbrücke",
-      "Hirschgarten",
-      "Hackerbrücke",
-      "München Hbf",
-      "Marienplatz",
-      "Holzkirchen",
-      "Mammendorf",
-      "Karlsplatz (Stachus)",
-      "Ostbahnhof",
-      "Isartor",
-      "Giesing",
-      "Pasing",
-      "Laim"
+      "Ostbahnhof"
     ],
-    "title": "Notarzteinsatz auf der Strecke - Der Ostbahnhof ist komplett für den S-Bahn- und Regionalverkehr gesperrt und die Züge verkehren abweichend der Linienführung. Es kommt zu Verspätungen und Teilausfällen. Der Grund hierfür ist ein Notarzteinsatz auf der Strecke.",
+    "title": "Notarzteinsatz auf der Strecke beendet - Der Ostbahnhof ist nicht mehr gesperrt und die Züge verkehren wieder.",
     "type": "INCIDENT",
     "validFrom": 1790752260000,
-    "validTo": 1790762400000
+    "validTo": 1790771400000
   }
 }
