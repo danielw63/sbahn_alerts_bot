@@ -42,16 +42,5 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1786399200000,
     "validTo": 1846015140000
-  },
-  "eeec969114eb3798": {
-    "description": "<p>Es kommt jedoch noch zu Folgeverspätungen und Teilausfällen.</p><p>Die Linie S 1 verkehrt weiterhin nur zwischen Moosach und Freising / Flughafen.</p><p>Die Linie S 5 verkehrt nur zwischen Aying und Ostbahnhof.</p><p>Der Grund dafür war ein Notarzteinsatz auf der Strecke.</p>",
-    "severity": 3,
-    "stations": [
-      "Ostbahnhof"
-    ],
-    "title": "Notarzteinsatz auf der Strecke beendet - Der Ostbahnhof ist nicht mehr gesperrt und die Züge verkehren wieder.",
-    "type": "INCIDENT",
-    "validFrom": 1790752260000,
-    "validTo": 1790771400000
   }
 }
