@@ -2,7 +2,10 @@
 
 Überwacht die Münchner S-Bahn-Linie S3 über die (inoffizielle) MVG-API
 (`https://www.mvg.de/api/bgw-pt/v3/messages`) und postet Störungs-/Wartungsmeldungen
-per Discord-Webhook — automatisiert als GitHub Action.
+per Discord-Webhook — automatisiert als GitHub Action. Sobald eine Störung
+behoben ist, wird ihre ursprüngliche Nachricht wieder **gelöscht**, statt
+den Kanal mit einer zusätzlichen "Behoben"-Meldung zu füllen — der Kanal
+zeigt so im Idealfall nur die gerade aktiven Störungen.
 
 ## Kategorien
 
@@ -59,7 +62,7 @@ um erneut alle aktuell aktiven Meldungen zu posten.
 | `DISCORD_WEBHOOK_URL` | *(erforderlich)* | Ziel-Webhook |
 | `LINE` | `S3` | Beobachtete Linie |
 | `STATE_FILE` | `state/seen_s3_messages.json` | Pfad der Zustandsdatei |
-| `NOTIFY_RESOLVED` | `true` | Auch "Behoben"-Meldungen posten, wenn eine Meldung verschwindet |
+| `DELETE_RESOLVED` | `true` | Bei "false": behobene Meldungen werden nur vergessen statt ihre Discord-Nachricht zu löschen (sie bleibt dauerhaft im Kanal stehen) |
 
 ## Hinweise / Einschränkungen
 
@@ -73,3 +76,10 @@ um erneut alle aktuell aktiven Meldungen zu posten.
   Titel/der Beschreibung der Meldung. Formuliert MVG eine Meldung
   untypisch (z. B. nur mit einer km-Angabe statt Stationsnamen), greift
   der Fallback auf 🚨 Große Warnung.
+- **Löschen behobener Meldungen**: Jede neue Meldung wird als eigene
+  Discord-Nachricht verschickt (nicht gebündelt), damit Discord deren
+  Message-ID zurückgibt — die wird in `state/` mitgespeichert. Sobald
+  eine Meldung aus der MVG-API verschwindet, wird genau diese Nachricht
+  per Webhook-API wieder gelöscht. Schlägt das Löschen fehl (z. B.
+  Netzwerkfehler), bleibt der Eintrag im State für einen erneuten
+  Versuch beim nächsten Lauf erhalten, statt verloren zu gehen.

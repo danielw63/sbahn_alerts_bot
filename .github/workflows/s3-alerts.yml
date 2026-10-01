@@ -1,6 +1,10 @@
 name: MVG S3 Alerts
 
 on:
+  #schedule:
+  # Every 10 minutes. GitHub may delay scheduled runs under load;
+  # tighten/loosen as needed, but keep MVG's "moderate use" policy in mind.
+  #- cron: "*/10 * * * *"
   workflow_dispatch: {}
 
 permissions:
