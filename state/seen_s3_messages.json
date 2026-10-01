@@ -42,18 +42,5 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1786399200000,
     "validTo": 1846015140000
-  },
-  "9cf57af8b79cac31": {
-    "description": "<p>Ab den folgenden Fahrten werden die Züge der Linie S 8 umgeleitet.</p><p><strong>S 8 Herrsching ↔ Flughafen</strong></p><p><strong>S 8 Flughafen Abfahrt 14:04 Uhr → Daglfing 14:29 Uhr → Ostbahnhof 14:35 Uhr → Pasing 14:55 Uhr → Herrsching Ankunft 15:35 Uhr</strong></p><ul> <li>Die S8 wird zwischen<strong> Daglfing </strong>→ <strong>Ostbahnhof Gleis 7-13 (Fernbahn) → Pasing </strong>umgeleitet und die Stammstrecke wird nicht angefahren. Der Halt <strong>Leuchtenbergring </strong>entfällt.&nbsp;</li> <li>Die S8 verkehrt zwischen <strong>Pasing </strong>→ <strong>Ostbahnhof </strong>→ <strong>Daglfing </strong>auf dem Regelweg durch die Stammstrecke mit allen geplanten Halten.</li></ul><p><strong>Alternativen:</strong></p><ul> <li>Ostbahnhof ↔ Leuchtenbergring: <strong>S2</strong>, <strong>S4, S6</strong></li></ul><p></p><p>Der Grund hierfür ist eine Reparatur an einem Signal am Karlsplatz.</p>",
-    "severity": 3,
-    "stations": [
-      "Karlsplatz (Stachus)",
-      "Ostbahnhof",
-      "Pasing"
-    ],
-    "title": "Reparatur an einem Signal - ‼️Die S-Bahnen der Linie S 8 werden umgeleitet. ‼️ Zwischen Ostbahnhof und Pasing kommt es in Richtung Pasing zu Verspätungen von 10 bis 15 Minuten und vereinzelten vorzeitigen Zugwenden auf den Außenästen.",
-    "type": "SCHEDULE_CHANGE",
-    "validFrom": 1790857200000,
-    "validTo": 1790861400000
   }
 }
