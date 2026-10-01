@@ -30,19 +30,6 @@
     "validFrom": 1786399200000,
     "validTo": 1851371940000
   },
-  "73f2b0c55edb6c41": {
-    "description": "<p>Der Grund hierfür ist eine Reparatur an einem Signal am Karlsplatz.</p>",
-    "severity": 3,
-    "stations": [
-      "Karlsplatz (Stachus)",
-      "Ostbahnhof",
-      "Pasing"
-    ],
-    "title": "Reparatur an einem Signal - Zwischen Ostbahnhof und Pasing kommt es in Richtung Pasing zu Verspätungen von 10 bis 15 Minuten und Zugausfällen.",
-    "type": "INCIDENT",
-    "validFrom": 1790857200000,
-    "validTo": 1790861400000
-  },
   "778f6e77eda6e9ec": {
     "description": "Ab dem 25. August 2026 ist aufgrund von Bauarbeiten am Bahnhof Laim bis Mitte 2028 mit Änderungen bei den Fahrten in Richtung Münchner Innenstadt zu rechnen. Diese Änderungen betreffen ausschließlich die Fahrten in Richtung Innenstadt. Bei den Fahrten aus der Stadt heraus halten alle S-Bahn-Züge weiterhin wie gewohnt in Laim. Fahrgäste, die aus Richtung Pasing kommen und mit den Linien S3, S4, S6 oder S8 nach Laim fahren: Diese Linien halten in Richtung Stadtzentrum nicht mehr am Bahnhof Laim. Fahrgäste, die nach Laim fahren möchten, werden gebeten, mit der S-Bahn bis Hirschgarten weiterzufahren, dort auf demselben Bahnsteig umzusteigen und dann mit der nächsten S-Bahn zurück nach Laim zu fahren.&nbsp; Mit einem für Laim gültigen Fahrschein ist es möglich, bis Hirschgarten weiterzufahren und dann zurück nach Laim zu fahren. Durch den zusätzlichen Umstieg kann sich die Fahrzeit verlängern. Den Fahrgästen wird empfohlen, vor Fahrtantritt die Anschlussinformationen zu überprüfen, die aktuellen Fahrgastinformationen im Zug und am Bahnhof zu beachten und insbesondere zu Beginn des Schuljahres sowie in den ersten Tagen des Betriebs die zusätzliche Fahrzeit einzuplanen. Kurz zusammengefasst:<ul> <li>Bauarbeiten am Bahnhof Laim vom 25.08.2026 bis voraussichtlich Mitte 2028</li> <li>Die Linien S3, S4, S6 und S8 halten stadteinwärts nicht in Laim.</li> <li>Stadtauswärts ergeben sich keine Änderungen.</li> <li>Fahrgäste mit Ziel Laim fahren bitte bis Hirschgarten weiter, steigen dort um und fahren mit der nächsten S-Bahn zurück nach Laim.</li> <li>Kein zusätzliches Ticket erforderlich.</li> <li>Die Linien S1, S2 und S5 sind nicht betroffen und halten weiterhin in beiden Fahrtrichtungen in Laim.</li></ul>",
     "severity": 2,
@@ -55,5 +42,18 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1786399200000,
     "validTo": 1846015140000
+  },
+  "9cf57af8b79cac31": {
+    "description": "<p>Ab den folgenden Fahrten werden die Züge der Linie S 8 umgeleitet.</p><p><strong>S 8 Herrsching ↔ Flughafen</strong></p><p><strong>S 8 Flughafen Abfahrt 14:04 Uhr → Daglfing 14:29 Uhr → Ostbahnhof 14:35 Uhr → Pasing 14:55 Uhr → Herrsching Ankunft 15:35 Uhr</strong></p><ul> <li>Die S8 wird zwischen<strong> Daglfing </strong>→ <strong>Ostbahnhof Gleis 7-13 (Fernbahn) → Pasing </strong>umgeleitet und die Stammstrecke wird nicht angefahren. Der Halt <strong>Leuchtenbergring </strong>entfällt.&nbsp;</li> <li>Die S8 verkehrt zwischen <strong>Pasing </strong>→ <strong>Ostbahnhof </strong>→ <strong>Daglfing </strong>auf dem Regelweg durch die Stammstrecke mit allen geplanten Halten.</li></ul><p><strong>Alternativen:</strong></p><ul> <li>Ostbahnhof ↔ Leuchtenbergring: <strong>S2</strong>, <strong>S4, S6</strong></li></ul><p></p><p>Der Grund hierfür ist eine Reparatur an einem Signal am Karlsplatz.</p>",
+    "severity": 3,
+    "stations": [
+      "Karlsplatz (Stachus)",
+      "Ostbahnhof",
+      "Pasing"
+    ],
+    "title": "Reparatur an einem Signal - ‼️Die S-Bahnen der Linie S 8 werden umgeleitet. ‼️ Zwischen Ostbahnhof und Pasing kommt es in Richtung Pasing zu Verspätungen von 10 bis 15 Minuten und vereinzelten vorzeitigen Zugwenden auf den Außenästen.",
+    "type": "SCHEDULE_CHANGE",
+    "validFrom": 1790857200000,
+    "validTo": 1790861400000
   }
 }
