@@ -42,5 +42,17 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1786399200000,
     "validTo": 1846015140000
+  },
+  "e43edb07a679a16a": {
+    "description": "<p>Ein Ersatzverkehr ist in Planung.</p><p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Der Grund dafür ist ein defektes Stellwerk.</p><p>Sobald wir weitere Informationen haben, werden wir Sie sofort darüber informieren.</p>",
+    "severity": 1,
+    "stations": [
+      "Mammendorf",
+      "Lochhausen"
+    ],
+    "title": "Defektes Stellwerk - Aktuell ist kein S-Bahnverkehr zwischen Lochhausen und Mammendorf möglich.",
+    "type": "INCIDENT",
+    "validFrom": 1790849100000,
+    "validTo": 1790857800000
   }
 }
