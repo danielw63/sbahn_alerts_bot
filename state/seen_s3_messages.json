@@ -42,5 +42,18 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1786399200000,
     "validTo": 1846015140000
+  },
+  "c26fcff005e740e2": {
+    "description": "<p>Ab den folgenden Fahrten fahren die Züge der Linie S 8 wieder auf dem Regelweg mit allen Halten durch die Stammstrecke.</p><p><strong>S 8 Herrsching ↔ Flughafen</strong></p><ul> <li><strong>S 8 Flughafen Abfahrt 14:44 Uhr → Daglfing 15:09 Uhr → Ostbahnhof 15:15 Uhr → Pasing 15:35 Uhr → Herrsching Ankunft 16:15 Uhr</strong></li></ul><p></p><p></p><p>Der Grund hierfür war eine Reparatur an einem Signal am Karlsplatz.</p>",
+    "severity": 3,
+    "stations": [
+      "Karlsplatz (Stachus)",
+      "Ostbahnhof",
+      "Pasing"
+    ],
+    "title": "Reparatur an einem Signal - ‼️Die Linie S 8 verkehrt wieder auf dem Regelweg mit allen Halten durch die Stammstrecke. ‼️ Zwischen Ostbahnhof und Pasing kommt es in Richtung Pasing noch zu Folgeverspätungen von bis zu 10 Minuten und vereinzelten vorzeitigen Zugwenden auf den Außenästen.",
+    "type": "INCIDENT",
+    "validFrom": 1790857200000,
+    "validTo": 1790861400000
   }
 }
