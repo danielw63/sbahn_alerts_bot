@@ -17,14 +17,14 @@
     "validFrom": 1790623200000,
     "validTo": 1791859200000
   },
-  "435a40459b79f457": {
-    "description": "<p>Wir haben für Sie einen Ersatzverkehr mit Bussen und Taxis zwischen Olching und Lochhausen eingerichtet.</p><p>Nutzen Sie hierfür bitte nur die Fahrzeuge mit der speziell gekennzeichneten EV Beschilderung.</p><p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Der Grund dafür ist ein defektes Stellwerk.</p><p>Sobald wir weitere Informationen haben, werden wir Sie sofort darüber informieren.</p>",
+  "25dd90201c4d801b": {
+    "description": "<p>Es kommt noch zu Folgeverspätungen und Teilausfällen.</p><p>Der Grund dafür war ein defektes Stellwerk.</p>",
     "severity": 1,
     "stations": [
       "Lochhausen",
       "Olching"
     ],
-    "title": "Defektes Stellwerk - Aktuell ist kein S-Bahnverkehr zwischen Olching und Lochhausen möglich.",
+    "title": "Defektes Stellwerk beendet - Der S-Bahnverkehr zwischen Olching und Lochhausen ist wieder möglich.",
     "type": "INCIDENT",
     "validFrom": 1790849100000,
     "validTo": 1790857800000
