@@ -17,6 +17,23 @@
     "validFrom": 1790623200000,
     "validTo": 1791859200000
   },
+  "185a02e089fd3234": {
+    "description": "Auf Grund von Instandhaltungsarbeiten ist die Stammstrecke zwischen Pasing und Ostbahnhof/Giesing/Leuchtenbergring von Freitag, 16.10.2026, ca. 22:20 Uhr, bis Montag, 19.10.2026, ca. 04:40 Uhr, gesperrt. Zwischen Pasing und Hauptbahnhof besteht Ersatzverkehr mit Bussen, zwischen Hauptbahnhof und Ostbahnhof/Giesing/Leuchtenbergring sind die übrigen Verkehrsmittel des MVV zu nutzen.\n\n- S1: Züge von/nach Freising/Flughafen beginnen bzw. enden am Hauptbahnhof (oben) und fahren zwischen Moosach und Hauptbahnhof ohne Halt, teilweise beginnen bzw. enden die Züge bereits in Moosach. In der Nacht 17./18.10. entfällt die Fahrt ab Hauptbahnhof um 23:48 Uhr, stattdessen verkehrt ein Zug um 00:08 Uhr.\n- S2: Züge von/nach Petershausen beginnen bzw. enden am Heimeranplatz Gleis 11 und fahren zwischen Obermenzing und Heimeranplatz ohne Halt; es besteht ein 30-Minuten-Takt. Die Züge von/nach Altomünster verkehren zwischen Dachau und Altomünster planmäßig. Züge von/nach Erding beginnen bzw. enden am Leuchtenbergring; zwischen Markt Schwaben und Erding besteht Ersatzverkehr mit Bussen.\n- S3: Züge von/nach Holzkirchen beginnen bzw. enden in Giesing. Züge von/nach Mammendorf beginnen bzw. enden in Pasing.\n- S4: Züge von/nach Geltendorf beginnen bzw. enden in Pasing. Züge von/nach Trudering fallen zwischen Pasing und Trudering aus.\n- S5: Züge von/nach Kreuzstraße beginnen bzw. enden in Giesing. Züge von/nach Pasing fallen zwischen Giesing und Pasing aus.\n- S6: Züge von/nach Ebersberg beginnen bzw. enden am Leuchtenbergring. Züge von/nach Tutzing beginnen bzw. enden am Hauptbahnhof (oben) und fahren zwischen Pasing und Hauptbahnhof ohne Halt. Zwischen Grafing Bahnhof und Ebersberg besteht zusätzlich Ersatzverkehr mit Bussen.\n- S8: Züge zum Flughafen fahren zwischen Pasing und Ostbahnhof ohne Halt, der Halt Leuchtenbergring entfällt. Züge nach Herrsching halten nicht am Leuchtenbergring und verkehren zwischen Ostbahnhof und Pasing ohne Halt.",
+    "message_id": "1555678482674221077",
+    "severity": 3,
+    "stations": [
+      "München Hbf",
+      "Holzkirchen",
+      "Mammendorf",
+      "Ostbahnhof",
+      "Giesing",
+      "Pasing"
+    ],
+    "title": "Zugausfälle und Ersatzverkehr zwischen Pasing und Ostbahnhof/Giesing/Leuchtenbergring (16.-19.10.2026 Durchgehend)",
+    "type": "SCHEDULE_CHANGE",
+    "validFrom": 1790972400000,
+    "validTo": 1792377600000
+  },
   "441d28d2578b0004": {
     "description": "Ab dem 25. August 2026 ist aufgrund von Bauarbeiten am Bahnhof Laim bis Mitte 2028 mit Änderungen bei den Fahrten in Richtung Münchner Innenstadt zu rechnen. Diese Änderungen betreffen ausschließlich die Fahrten in Richtung Innenstadt. Bei den Fahrten aus der Stadt heraus halten alle S-Bahn-Züge weiterhin wie gewohnt in Laim. Fahrgäste, die aus Richtung Pasing kommen und mit den Linien S3, S4, S6 oder S8 nach Laim fahren: Diese Linien halten in Richtung Stadtzentrum nicht mehr am Bahnhof Laim. Fahrgäste, die nach Laim fahren möchten, werden gebeten, mit der S-Bahn bis Hirschgarten weiterzufahren, dort auf demselben Bahnsteig umzusteigen und dann mit der nächsten S-Bahn zurück nach Laim zu fahren.  Mit einem für Laim gültigen Fahrschein ist es möglich, bis Hirschgarten weiterzufahren und dann zurück nach Laim zu fahren. Durch den zusätzlichen Umstieg kann sich die Fahrzeit verlängern. Den Fahrgästen wird empfohlen, vor Fahrtantritt die Anschlussinformationen zu überprüfen, die aktuellen Fahrgastinformationen im Zug und am Bahnhof zu beachten und insbesondere zu Beginn des Schuljahres sowie in den ersten Tagen des Betriebs die zusätzliche Fahrzeit einzuplanen. Kurz zusammengefasst:\n\n- Bauarbeiten am Bahnhof Laim vom 25.08.2026 bis voraussichtlich Mitte 2028\n- Die Linien S3, S4, S6 und S8 halten stadteinwärts nicht in Laim.\n- Stadtauswärts ergeben sich keine Änderungen.\n- Fahrgäste mit Ziel Laim fahren bitte bis Hirschgarten weiter, steigen dort um und fahren mit der nächsten S-Bahn zurück nach Laim.\n- Kein zusätzliches Ticket erforderlich.\n- Die Linien S1, S2 und S5 sind nicht betroffen und halten weiterhin in beiden Fahrtrichtungen in Laim.",
     "severity": 2,
