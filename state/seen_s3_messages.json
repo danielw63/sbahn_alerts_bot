@@ -45,7 +45,6 @@
   },
   "b203a53d3cd51eaa": {
     "description": "Der Grund dafür war eine ärztliche Versorgung eines Fahrgastes.",
-    "message_id": "1555474705136357447",
     "severity": 3,
     "stations": [],
     "title": "Ärztliche Versorgung eines Fahrgastes beendet - Es kommt noch zu Folgeverspätungen und Teilausfällen.",
