@@ -42,14 +42,5 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1786399200000,
     "validTo": 1846015140000
-  },
-  "b203a53d3cd51eaa": {
-    "description": "Der Grund dafür war eine ärztliche Versorgung eines Fahrgastes.",
-    "severity": 3,
-    "stations": [],
-    "title": "Ärztliche Versorgung eines Fahrgastes beendet - Es kommt noch zu Folgeverspätungen und Teilausfällen.",
-    "type": "INCIDENT",
-    "validFrom": 1790923020000,
-    "validTo": 1790928000000
   }
 }
