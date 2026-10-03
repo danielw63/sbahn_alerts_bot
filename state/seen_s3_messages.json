@@ -58,14 +58,5 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1786399200000,
     "validTo": 1846015140000
-  },
-  "e9891607f6e2675a": {
-    "description": "Bitte treten Sie die Heimreise an.\n\nThe fairground is overcrowded. Please return home.",
-    "severity": 3,
-    "stations": [],
-    "title": "Festgelände ist überfüllt - Das Festgelände ist überfüllt.",
-    "type": "INCIDENT",
-    "validFrom": 1791033900000,
-    "validTo": 1791050400000
   }
 }
