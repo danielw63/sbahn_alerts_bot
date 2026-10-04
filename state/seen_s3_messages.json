@@ -1,16 +1,4 @@
 {
-  "0d57b707171de52e": {
-    "description": "Es kommt noch zu Folgeverspätungen von bis zu 10 Minuten und vereinzelten Teilausfällen.\n\nDie unbefugte Person hat die Strecke verlassen.",
-    "severity": 1,
-    "stations": [
-      "Gröbenzell",
-      "Esting"
-    ],
-    "title": "S 3 Gröbenzell ↔ Esting - Zwischen Gröbenzell und Esting sind die Zugfahrten wieder uneingeschränkt möglich.",
-    "type": "INCIDENT",
-    "validFrom": 1791134160000,
-    "validTo": 1791136800000
-  },
   "116401f5c046beeb": {
     "description": "Auf Grund von Bauarbeiten zur 2. Stammstrecke kommt es in der Nacht von Montag auf Dienstag, 12./13.10.2026, von 21:20 Uhr bis 04:40 Uhr zu umfangreichen Einschränkungen im S-Bahn-Netz. Zwischen Ostbahnhof und Trudering besteht ein Ersatzverkehr mit Bussen.\n\n- S1: Züge Richtung Freising/Flughafen beginnen und enden am Hauptbahnhof (Gleis 27-35), der Halt Hackerbrücke entfällt.\n- S2: Züge Richtung Erding beginnen und enden am Ostbahnhof und fahren von bzw. bis Riem ohne Halt. Züge Richtung Petershausen/Altomünster beginnen und enden am Isartor.\n- S3: Züge Richtung Holzkirchen beginnen und enden in Giesing, Züge Richtung Mammendorf beginnen und enden in Pasing.\n- S4: Züge aus Richtung Trudering fallen zwischen Trudering und Pasing aus, Züge Richtung Geltendorf beginnen und enden am Heimeranplatz Gleis 11.\n- S5: Züge Richtung Kreuzstraße beginnen und enden in Giesing. Zwischen Aying und Kreuzstraße besteht zusätzlicher Bus-Ersatzverkehr. Züge Richtung Pasing fallen zwischen Giesing und Pasing aus.\n- S6/S8: Züge Richtung Ebersberg beginnen und enden in Trudering, zwischen Trudering und Ostbahnhof verkehren Ersatzbusse. Züge Richtung Herrsching beginnen und enden in Pasing. Züge aus Richtung Tutzing fahren zum Flughafen, Züge aus Richtung Flughafen fahren nach Tutzing.\n\nAuf der Stammstrecke verkehrt während der Bauarbeiten lediglich eine Linie zwischen Ostbahnhof und Pasing. Die S7 fährt planmäßig zwischen Hauptbahnhof und Wolfratshausen.",
     "severity": 3,
