@@ -58,5 +58,18 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1786399200000,
     "validTo": 1846015140000
+  },
+  "e123dee63e857eb2": {
+    "description": "Der Grund hierfür ist ein Polizeieinsatz am Halt Marienplatz.",
+    "message_id": "1556637345577439323",
+    "severity": 3,
+    "stations": [
+      "Marienplatz",
+      "Ostbahnhof"
+    ],
+    "title": "Polizeieinsatz - Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von bis zu 20 Minuten und zu Teilausfällen.",
+    "type": "SCHEDULE_CHANGE",
+    "validFrom": 1791200700000,
+    "validTo": 1791204300000
   }
 }
