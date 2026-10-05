@@ -12,6 +12,8 @@ from __future__ import annotations
 
 import hashlib
 import json
+import time
+from datetime import datetime, timezone
 from typing import Any, Iterable
 
 import requests
@@ -71,6 +73,38 @@ def message_text(message: dict[str, Any]) -> str:
         message.get("description") or message.get("text") or message.get("details") or "",
     ]
     return " \n ".join(p for p in parts if p)
+
+
+def is_expired(message: dict[str, Any]) -> bool:
+    """
+    Whether a message's own validTo timestamp has already passed.
+
+    MVG's API often keeps a message listed for a while after its stated
+    end time instead of removing it immediately, which would otherwise
+    make our bot treat it as "still active" forever (and never delete
+    its Discord message). Filtering these out ourselves makes them look
+    "gone" to the rest of the pipeline, which reuses the normal
+    resolved -> delete logic.
+
+    A missing/unparseable validTo is treated as "not expired" (i.e. an
+    open-ended / until-further-notice message), never as a reason to
+    delete something we're unsure about.
+    """
+    valid_to = message.get("validTo") or message.get("toTime")
+    if valid_to in (None, "", 0):
+        return False
+    try:
+        if isinstance(valid_to, (int, float)):
+            seconds = valid_to / 1000 if valid_to > 10_000_000_000 else valid_to
+            return seconds < time.time()
+        if isinstance(valid_to, str):
+            dt = datetime.fromisoformat(valid_to.replace("Z", "+00:00"))
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt.timestamp() < time.time()
+    except (ValueError, OSError, OverflowError):
+        return False
+    return False
 
 
 def message_type(message: dict[str, Any]) -> str:

@@ -10,10 +10,12 @@ Entry point for the GitHub Action. On every run it:
   3. Compares against state/seen_s3_messages.json to find:
        - newly appeared messages -> each sent as its own Discord message,
          whose message id is stored in the state file
-       - previously-seen messages that are no longer active -> their
-         original Discord message gets DELETED again (unless disabled
-         via DELETE_RESOLVED=false), so the channel only ever shows
-         currently-active disruptions instead of growing forever
+       - previously-seen messages that are no longer active (either
+         gone from the API entirely, OR still listed but past their own
+         validTo) -> their original Discord message gets DELETED again
+         (unless disabled via DELETE_RESOLVED=false), so the channel
+         only ever shows currently-active disruptions instead of
+         growing forever
   4. Writes the updated state back to disk (the workflow commits it).
 
 Required environment variables:
@@ -37,7 +39,7 @@ import sys
 
 from discord_notify import build_embed, delete_message, send_new_alert
 from html_utils import html_to_discord_text
-from mvg_client import fetch_messages, filter_by_line, message_id, message_type
+from mvg_client import fetch_messages, filter_by_line, is_expired, message_id, message_type
 from segments import classify
 from state import load_state, save_state
 
@@ -66,6 +68,14 @@ def main() -> int:
         return 1
 
     line_messages = filter_by_line(all_messages, line)
+
+    # MVG often keeps a message listed in the API well past its own
+    # validTo. We filter those out ourselves so they're treated exactly
+    # like a disappeared/resolved message below (-> their Discord message
+    # gets deleted), instead of lingering in the channel until MVG itself
+    # gets around to removing them.
+    expired_count = sum(1 for m in line_messages if is_expired(m))
+    line_messages = [m for m in line_messages if not is_expired(m)]
 
     # id -> classified message info
     current: dict[str, dict] = {}
@@ -143,7 +153,8 @@ def main() -> int:
     save_state(state_file, final_state)
 
     print(
-        f"Line {line}: {len(current)} active message(s), "
+        f"Line {line}: {len(current)} active message(s) "
+        f"({expired_count} filtered out as expired), "
         f"{sent_count} new sent, {deleted_count} resolved deleted, "
         f"{error_count} error(s)."
     )
