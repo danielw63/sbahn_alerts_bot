@@ -1,7 +1,6 @@
 {
   "0c8de8a22d2e73ae": {
     "description": "Auf Grund von Instandhaltungsbauarbeiten zwischen Lochhausen und Mammendorf kommt es in der Nacht Dienstag/Mittwoch, 20./21.10.2026, von 21:45 Uhr bis 03:15 Uhr zu Fahrplanänderungen auf der S3. Zwischen Lochhausen und Maisach verkehren die S-Bahnen nur im 60-Minuten-Takt, dabei fahren die Züge in Richtung Maisach mit geänderten Abfahrtszeiten. Zwischen Maisach und Mammendorf besteht Ersatzverkehr mit Bussen. Zusätzlich wird ein ergänzender Ersatzverkehr zwischen Lochhausen und Maisach eingerichtet. Bitte beachten Sie, dass sich die Ersatzhaltestelle in Lochhausen in der Langwieder Hauptstraße an der Haltestelle der Buslinie 159 befindet.",
-    "message_id": "1557120536436281406",
     "severity": 1,
     "stations": [
       "Mammendorf",
