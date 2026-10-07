@@ -72,5 +72,18 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1786399200000,
     "validTo": 1846015140000
+  },
+  "9b6cbf017a0eac4b": {
+    "description": "Grund hierfür war ein Polizeieinsatz am Halt Hackerbrücke",
+    "message_id": "1557271543740895293",
+    "severity": 3,
+    "stations": [
+      "Hackerbrücke",
+      "Ostbahnhof"
+    ],
+    "title": "Polizeieinsatz am Halt Hackerbrücke - Auf der Stammstrecke kommt es in Richtung Ostbahnhof noch zu Folgeverspätungen von 10 bis 15 Minuten und zu Teilausfällen.",
+    "type": "INCIDENT",
+    "validFrom": 1791351000000,
+    "validTo": 1791354600000
   }
 }
