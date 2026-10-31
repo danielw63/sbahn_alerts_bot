@@ -1,13 +1,4 @@
 {
-  "49644dee23e21f7f": {
-    "description": "Der Grund hierfür ist die vorangegangene ärztliche Versorgung eines Fahrgastes.",
-    "severity": 3,
-    "stations": [],
-    "title": "Ärztliche Versorgung eines Fahrgastes - Auf der Stammstrecke kommt es in beiden Richtungen zu Verspätungen von bis zu 20 Minuten sowie auf den Außenästen zu vorzeitigen Zugwenden..",
-    "type": "INCIDENT",
-    "validFrom": 1793393340000,
-    "validTo": 1793397600000
-  },
   "54d53743425e240d": {
     "description": "Auf Grund von Weichenbauarbeiten kommt es zwischen Ostbahnhof/Deisenhofen und Holzkirchen in den Nächten Mittwoch/Donnerstag, 18./19. November, und Donnerstag/Freitag, 19./20. November 2026, jeweils von 22:05 Uhr bis 3:30 Uhr sowie in den Nächten Samstag/Sonntag, 21./22. November, und Sonntag/Montag, 22./23. November 2026, jeweils von 19:50 Uhr bis 3:40 Uhr zu Zugausfällen und einem 60-Minuten-Takt. Zusätzlich besteht Ersatzverkehr mit Bussen.",
     "severity": 3,
