@@ -11,5 +11,21 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1793221500000,
     "validTo": 1795401600000
+  },
+  "814a022a11f59c8c": {
+    "description": "In diesem Bereich fahren die Züge mit verminderter Geschwindigkeit.\n\n‼️ Folgende Züge der Linie S3 des 10-Minuten-Taktes entfallen:\n\n**S 3 Ostbahnhof / Deisenhofen → Maisach**\n\n- S 3 Deisenhofen Abfahrt 16:40 Uhr → Ostbahnhof Ankunft 16:55 Uhr / Abfahrt 16:57 Uhr → Maisach Ankunft 17:38 Uhr\n- S 3 Deisenhofen Abfahrt 17:00 Uhr → Ostbahnhof Ankunft 17:15 Uhr / Abfahrt 17:17 Uhr → Maisach Ankunft 17:58 Uhr\n\n**S 3 Maisach → Deisenhofen**\n\n- S 3 Maisach Abfahrt 18:00 Uhr → Ostbahnhof Ankunft 18:39 Uhr / Abfahrt 18:42 Uhr → Deisenhofen Ankunft 19:01 Uhr\n- S 3 Maisach Abfahrt 18:20 Uhr → Ostbahnhof Ankunft 18:59 Uhr / Abfahrt 19:02 Uhr → Deisenhofen Ankunft 19:21 Uhr ‼️\n\nDer Grund hierfür ist eine Reparatur an der Strecke.",
+    "message_id": "1566844598888829110",
+    "severity": 3,
+    "stations": [
+      "Unterhaching",
+      "Taufkirchen",
+      "Deisenhofen",
+      "Ostbahnhof",
+      "Maisach"
+    ],
+    "title": "Reparatur an der Strecke - Zwischen Taufkirchen und Unterhaching kommt es zu Verspätungen von 10 bis 15 Minuten und vereinzelten vorzeitigen Zugwenden auf den Außenästen.",
+    "type": "INCIDENT",
+    "validFrom": 1793633460000,
+    "validTo": 1793638800000
   }
 }
