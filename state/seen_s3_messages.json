@@ -1,4 +1,17 @@
 {
+  "35f49ca0a3b513f0": {
+    "description": "Es kommt zu keinen Beeinträchtigungen mehr.\n\nDie ärztliche Versorgung eines Fahrgastes wurde beendet.",
+    "message_id": "1566776599687200791",
+    "severity": 1,
+    "stations": [
+      "Deisenhofen",
+      "Holzkirchen"
+    ],
+    "title": "S 3 Deisenhofen ↔ Holzkirchen - Die Züge können wieder zwischen Deisenhofen und Holzkirchen fahren.",
+    "type": "SCHEDULE_CHANGE",
+    "validFrom": 1793616660000,
+    "validTo": 1793620800000
+  },
   "54d53743425e240d": {
     "description": "Auf Grund von Weichenbauarbeiten kommt es zwischen Ostbahnhof/Deisenhofen und Holzkirchen in den Nächten Mittwoch/Donnerstag, 18./19. November, und Donnerstag/Freitag, 19./20. November 2026, jeweils von 22:05 Uhr bis 3:30 Uhr sowie in den Nächten Samstag/Sonntag, 21./22. November, und Sonntag/Montag, 22./23. November 2026, jeweils von 19:50 Uhr bis 3:40 Uhr zu Zugausfällen und einem 60-Minuten-Takt. Zusätzlich besteht Ersatzverkehr mit Bussen.",
     "severity": 3,
