@@ -11,5 +11,21 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1793221500000,
     "validTo": 1795401600000
+  },
+  "714bcfe2e4a55ca4": {
+    "description": "Die S-Bahnen fahren wie folgt:\n\n**S1 Freising/Flughafen ↔ Leuchtenbergring (Beginn der Abweichungen erst am 03.11. ab ca. 14 Uhr):**\n\n- Züge in/aus Richtung **Freising**/**Flughafen** beginnen/enden am **Hauptbahnhof** Gl. 26-35, ohne Halt an der **Hackerbrücke**\n- Züge der S1 fallen zwischen **Hauptbahnhof** und **Leuchtenbergring** aus.\n\n**S2 Petershausen/Altomünster ↔ Markt Schwaben:**\n\n- Züge in/aus Richtung **Petershausen** beginnen/enden am **Heimeranplatz** Gl. 11 und fahren von/bis **Obermenzing** ohne Halt\n- Zwischen **Altomünster** und **Erdweg/Dachau** besteht wegen anderer Bauarbeiten Ersatzverkehr mit **Bussen. I**n **Dachau** ist ein Umstieg von/zur **S2** möglich.\n- Züge in/aus Richtung **Markt Schwaben** beginnen/enden am **Ostbahnhof** Gl. 6-13 und fahren von/bis **Riem** ohne Halt. Beachten Sie den zwischen **Markt Schwaben** und **Erding** bestehenden Ersatzverkehr mit Bussen wegen anderer Bauarbeiten.\n\n**S4 Geltendorf ↔ Trudering/Zorneding:**\n\n- Züge in/aus Richtung **Geltendorf** beginnen/enden in **Pasing.**\n- Züge in/aus Richtung **Zorneding/Trudering** fallen zwischen **Pasing** und **Trudering/Zorneding** aus.\n\n**S6 Tutzing ↔ Ebersberg:**\n\n- Züge in/aus Richtung **Tutzing** beginnen/enden in Gauting. Beachten sie den **Pasing** und **Gauting** bestehenden **Ersatzverkehr** mit Bussen wegen anderer Bauarbeiten.\n- Züge in/aus Richtung **Ebersberg** beginnen/enden in **Trudering.**\n- Züge der S6 fallen zwischen **Trudering** und **Gauting** aus.\n\n**S8 Herrsching ↔ Flughafen (Beginn der Abweichungen erst am 03.11. ab ca.. 14 Uhr):**\n\n- Züge in/aus Richtung **Herrsching** beginnen/enden in **Deisenhofen** (zwischen **21** und **3 Uhr** entfällt die **S8** zwischen **Pasing** und **Deisenhofen**!).\n- Züge in/aus Richtung **Flughafen/Airport** beginnen/enden in **Johanneskirchen**. Beachten sie den zwischen **Ostbahnhof** und **Johanneskirchen** bestehenden Ersatzverkehr mit Bussen wegen anderer Bauarbeiten.\n\n**S20 Pasing ↔ Höllriegelskreuth**\n\n- Züge der Linie S20 fallen aus.\n\n**Hinweis:**\n\n**🔴Aufgrund des reduzierten Angebots auf der Stammstrecke kann es in den Stoßzeiten voll werden. Bitte nutzen Sie auch alternative MVV-Verbindungen oder fahren Sie, wenn möglich, außerhalb der Hauptverkehrszeiten.**\n\nFernverkehrsfahrkarten der Deutschen Bahn und Fahrkarten nach dem Deutschland-Tarif gelten auch in den MVG-Verkehrsmitteln zur Fahrt zum nächsten Bahnhof.",
+    "message_id": "1566897394778513569",
+    "severity": 3,
+    "stations": [
+      "Hackerbrücke",
+      "München Hbf",
+      "Deisenhofen",
+      "Ostbahnhof",
+      "Pasing"
+    ],
+    "title": "Wegen Bauarbeiten zur 2. Stammstrecke am Leuchtenbergring kommt es zwischen Pasing ↔ Ostbahnhof/Trudering/Leuchtenbergring/Riem von Dienstag, 3. November, ab 4:00 Uhr, durchgehend bis Freitag, 6. November 2026, 3:30 Uhr zu Änderungen im Fahrplan.",
+    "type": "SCHEDULE_CHANGE",
+    "validFrom": 1793646000000,
+    "validTo": 1793932200000
   }
 }
