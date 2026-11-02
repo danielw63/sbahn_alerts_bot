@@ -1,7 +1,6 @@
 {
   "034c21594b26e32d": {
     "description": "In diesem Bereich fahren die Züge mit verminderter Geschwindigkeit.\n\n‼️ **Folgende Züge der Linie S3 des 10-Minuten-Taktes entfallen zwischen Deisenhofen und Pasing.**\n\n**S 3 Ostbahnhof / Deisenhofen → Maisach**\n\n- S 3 Deisenhofen Abfahrt 17:20 Uhr → Pasing Ankunft 17:55 Uhr\n- S 3 Deisenhofen Abfahrt 17:40 Uhr → Pasing Ankunft 18:15 Uhr\n- S 3 Deisenhofen Abfahrt 18:00 Uhr → Pasing Ankunft 18:35 Uhr\n\nBitte beachten Sie, dass es heute Nachmittag auf der Linie S 3 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann. ‼️\n\nDer Grund hierfür ist eine Reparatur an der Strecke.",
-    "message_id": "1566859689558417520",
     "severity": 3,
     "stations": [
       "Unterhaching",
