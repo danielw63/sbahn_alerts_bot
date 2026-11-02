@@ -1,20 +1,4 @@
 {
-  "034c21594b26e32d": {
-    "description": "In diesem Bereich fahren die Züge mit verminderter Geschwindigkeit.\n\n‼️ **Folgende Züge der Linie S3 des 10-Minuten-Taktes entfallen zwischen Deisenhofen und Pasing.**\n\n**S 3 Ostbahnhof / Deisenhofen → Maisach**\n\n- S 3 Deisenhofen Abfahrt 17:20 Uhr → Pasing Ankunft 17:55 Uhr\n- S 3 Deisenhofen Abfahrt 17:40 Uhr → Pasing Ankunft 18:15 Uhr\n- S 3 Deisenhofen Abfahrt 18:00 Uhr → Pasing Ankunft 18:35 Uhr\n\nBitte beachten Sie, dass es heute Nachmittag auf der Linie S 3 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann. ‼️\n\nDer Grund hierfür ist eine Reparatur an der Strecke.",
-    "severity": 3,
-    "stations": [
-      "Unterhaching",
-      "Taufkirchen",
-      "Deisenhofen",
-      "Ostbahnhof",
-      "Maisach",
-      "Pasing"
-    ],
-    "title": "Reparatur an der Strecke - Zwischen Taufkirchen und Unterhaching kommt es zu Verspätungen von 10 bis 15 Minuten und vereinzelten vorzeitigen Zugwenden auf den Außenästen.",
-    "type": "INCIDENT",
-    "validFrom": 1793633460000,
-    "validTo": 1793642400000
-  },
   "54d53743425e240d": {
     "description": "Auf Grund von Weichenbauarbeiten kommt es zwischen Ostbahnhof/Deisenhofen und Holzkirchen in den Nächten Mittwoch/Donnerstag, 18./19. November, und Donnerstag/Freitag, 19./20. November 2026, jeweils von 22:05 Uhr bis 3:30 Uhr sowie in den Nächten Samstag/Sonntag, 21./22. November, und Sonntag/Montag, 22./23. November 2026, jeweils von 19:50 Uhr bis 3:40 Uhr zu Zugausfällen und einem 60-Minuten-Takt. Zusätzlich besteht Ersatzverkehr mit Bussen.",
     "severity": 3,
