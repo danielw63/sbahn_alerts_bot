@@ -11,5 +11,17 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1793221500000,
     "validTo": 1795401600000
+  },
+  "7f03d1a65070e0ff": {
+    "description": "Der Grund hierfür ist die Verspätung eines vorausfahrenden Zuges.",
+    "message_id": "1566731301820825641",
+    "severity": 2,
+    "stations": [
+      "Pasing"
+    ],
+    "title": "Verspätung vorausfahrender Zug - Auf der Stammstrecke kommt es in Richtung Pasing zu Verspätungen von bis zu 10 Minuten.",
+    "type": "INCIDENT",
+    "validFrom": 1793599920000,
+    "validTo": 1793611800000
   }
 }
