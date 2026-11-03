@@ -27,9 +27,9 @@
     "validFrom": 1793221500000,
     "validTo": 1795401600000
   },
-  "89df36f06fdf5767": {
+  "ff3041bf5d7eed15": {
     "description": "Die S-Bahnen wenden in Deisenhofen.\n\nWir haben für Sie einen Ersatzverkehr mit Großraumtaxis zwischen Deisenhofen und Holzkirchen eingerichtet.\n\n❗ Ersatzverkehr mit Taxis ist auf dem Weg und wird ab ca. 14:20 Uhr vor Ort sein. ❗Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.\n\nEs kommt zu Verspätungen und Teilausfällen.\n\nDer Grund hierfür ist eine Reparatur an der Oberleitung.",
-    "message_id": "1567169196968779909",
+    "message_id": "1567176782140936195",
     "severity": 1,
     "stations": [
       "Deisenhofen",
@@ -38,6 +38,6 @@
     "title": "Reparatur an der Oberleitung - Zwischen Holzkirchen und Deisenhofen sind keine Zugfahrten möglich.",
     "type": "INCIDENT",
     "validFrom": 1793709780000,
-    "validTo": 1793714400000
+    "validTo": 1793718000000
   }
 }
