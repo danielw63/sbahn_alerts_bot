@@ -16,7 +16,6 @@
   },
   "4e1e7061296b411c": {
     "description": "Ab dem 25. August 2026 ist aufgrund von Bauarbeiten am Bahnhof Laim bis Mitte 2028 mit Änderungen bei den Fahrten in Richtung Münchner Innenstadt zu rechnen. Diese Änderungen betreffen ausschließlich die Fahrten in Richtung Innenstadt. Bei den Fahrten aus der Stadt heraus halten alle S-Bahn-Züge weiterhin wie gewohnt in Laim. Fahrgäste, die aus Richtung Pasing kommen und mit den Linien S3, S4, S6 oder S8 nach Laim fahren: Diese Linien halten in Richtung Stadtzentrum nicht mehr am Bahnhof Laim. Fahrgäste, die nach Laim fahren möchten, werden gebeten, mit der S-Bahn bis Hirschgarten weiterzufahren, dort auf demselben Bahnsteig umzusteigen und dann mit der nächsten S-Bahn zurück nach Laim zu fahren.  Mit einem für Laim gültigen Fahrschein ist es möglich, bis Hirschgarten weiterzufahren und dann zurück nach Laim zu fahren. Durch den zusätzlichen Umstieg kann sich die Fahrzeit verlängern. Den Fahrgästen wird empfohlen, vor Fahrtantritt die Anschlussinformationen zu überprüfen, die aktuellen Fahrgastinformationen im Zug und am Bahnhof zu beachten und insbesondere zu Beginn des Schuljahres sowie in den ersten Tagen des Betriebs die zusätzliche Fahrzeit einzuplanen. Kurz zusammengefasst: Bauarbeiten am Bahnhof Laim vom 25.08.2026 bis voraussichtlich Mitte 2028 Die Linien S3, S4, S6 und S8 halten stadteinwärts nicht in Laim. Stadtauswärts ergeben sich keine Änderungen. Fahrgäste mit Ziel Laim fahren bitte bis Hirschgarten weiter, steigen dort um und fahren mit der nächsten S-Bahn zurück nach Laim. Kein zusätzliches Ticket erforderlich. Die Linien S1, S2 und S5 sind nicht betroffen und halten weiterhin in beiden Fahrtrichtungen in Laim.",
-    "message_id": "1567222083216212189",
     "severity": 2,
     "stations": [
       "Hirschgarten",
@@ -43,7 +42,6 @@
   },
   "59dd1532ebcdce77": {
     "description": "Ab dem 25. August 2026 ist aufgrund von Bauarbeiten am Bahnhof Laim bis Mitte 2028 mit Änderungen bei den Fahrten in Richtung Münchner Innenstadt zu rechnen. Diese Änderungen betreffen ausschließlich die Fahrten in Richtung Innenstadt. Bei den Fahrten aus der Stadt heraus halten alle S-Bahn-Züge weiterhin wie gewohnt in Laim. Fahrgäste, die aus Richtung Pasing kommen und mit den Linien S3, S4, S6 oder S8 nach Laim fahren: Diese Linien halten in Richtung Stadtzentrum nicht mehr am Bahnhof Laim. Fahrgäste, die nach Laim fahren möchten, werden gebeten, mit der S-Bahn bis Hirschgarten weiterzufahren, dort auf demselben Bahnsteig umzusteigen und dann mit der nächsten S-Bahn zurück nach Laim zu fahren.  Mit einem für Laim gültigen Fahrschein ist es möglich, bis Hirschgarten weiterzufahren und dann zurück nach Laim zu fahren. Durch den zusätzlichen Umstieg kann sich die Fahrzeit verlängern. Den Fahrgästen wird empfohlen, vor Fahrtantritt die Anschlussinformationen zu überprüfen, die aktuellen Fahrgastinformationen im Zug und am Bahnhof zu beachten und insbesondere zu Beginn des Schuljahres sowie in den ersten Tagen des Betriebs die zusätzliche Fahrzeit einzuplanen. Kurz zusammengefasst: Bauarbeiten am Bahnhof Laim vom 25.08.2026 bis voraussichtlich Mitte 2028 Die Linien S3, S4, S6 und S8 halten stadteinwärts nicht in Laim. Stadtauswärts ergeben sich keine Änderungen. Fahrgäste mit Ziel Laim fahren bitte bis Hirschgarten weiter, steigen dort um und fahren mit der nächsten S-Bahn zurück nach Laim. Kein zusätzliches Ticket erforderlich. Die Linien S1, S2 und S5 sind nicht betroffen und halten weiterhin in beiden Fahrtrichtungen in Laim.",
-    "message_id": "1567222081928564869",
     "severity": 2,
     "stations": [
       "Hirschgarten",
@@ -55,23 +53,8 @@
     "validFrom": 1791550800000,
     "validTo": 1851371940000
   },
-  "83a9ec944df0f26a": {
-    "description": "Mit den folgenden Fahrten verkehrt die S3 wieder zwischen Mammendorf und Holzkirchen:\n\n**S 3 Mammendorf ↔ Holzkirchen**\n\n- S 3 Mammendorf Abfahrt 16:44 → Deisenhofen 17:53 Uhr → Holzkirchen Ankunft 18:06 Uhr\n- S3 Holzkirchen Abfahrt 17:55 Uhr → Deisenhofen 18:10 Uhr → Mammendorf Ankunft 19:16 Uhr\n\nDer Ersatzverkehr mit Großraumtaxis wird um 18:30 Uhr eingestellt. Es kann noch zu Folgeverspätungen und Teilausfällen kommen. Der Grund hierfür war eine Reparatur an der Oberleitung.",
-    "message_id": "1567222078896214017",
-    "severity": 1,
-    "stations": [
-      "Deisenhofen",
-      "Holzkirchen",
-      "Mammendorf"
-    ],
-    "title": "Reparatur an der Oberleitung - Die Züge können wieder zwischen Holzkirchen und Deisenhofen fahren.",
-    "type": "INCIDENT",
-    "validFrom": 1793709780000,
-    "validTo": 1793726100000
-  },
   "9b9bb84cd0583c03": {
     "description": "Wegen Oberleitungsarbeiten kommt es in verschiedenen Nächten zwischen dem 26.10. und 10.12.26 zu Ersatzzügen und einem 60-Minuten-Takt.\n\nBetroffen sind die Nächte Montag/Dienstag, 26./27.10. und Dienstag/Mittwoch, 27./28.10.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Mittwoch/Donnerstag, 28./29.10. und Donnerstag/Freitag, 29./30.10.2026 (jeweils 0:45 bis 3:30 Uhr), Nächte Montag/Dienstag, 2./3.11 bis Donnerstag/Freitag, 5./6.11.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Montag/Dienstag, 9./10.11. bis Donnerstag/Freitag, 12./13.11.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Dienstag/Mittwoch, 17./18.11. und Mittwoch/Donnerstag, 18./19.11.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Dienstag/Mittwoch, 24./25.11. und Mittwoch/Donnerstag, 25./26.11.2026 (jeweils 21:45 bis 3:30 Uhr) zwischen Ostbahnhof/Giesing und Holzkirchen, Nächte Montag/Dienstag, 30.11./1.12. bis Donnerstag/Freitag, 3./4.12.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Montag/Dienstag, 7./8.12. bis Donnerstag/Freitag, 10./11.12.2026 (jeweils 21:45 bis 3:30 Uhr).\n\nZusätzlich besteht in den Nächten 23./24.11., 25./26.11. und 26./27.11. jeweils von 21:45 Uhr bis 3:30 Uhr Ersatzverkehr mit Bussen zwischen Deisenhofen und Holzkirchen. Bitte beachten Sie dazu die gesonderten Informationen.",
-    "message_id": "1567222080628465700",
     "severity": 3,
     "stations": [
       "Deisenhofen",
@@ -87,7 +70,6 @@
   },
   "d4be2f0d45d85324": {
     "description": "Wegen Maßnahmen zur Betriebsstabilisierung nach Bauarbeiten mit stark eingeschränkter Infrastruktur entfallen am Freitag, 06.11.26, ganztägig die Taktverstärker des 10-Minuten-Taktes zwischen Deisenhofen und Maisach.",
-    "message_id": "1567222084483158127",
     "severity": 1,
     "stations": [
       "Deisenhofen",
@@ -100,7 +82,6 @@
   },
   "d86e876417a04d47": {
     "description": "Wegen Instandhaltungsarbeiten besteht in den Nächten von Montag/Dienstag, 09./10.11., bis Mittwoch/Donnerstag, 11./12.11.26, jeweils von 21:45 Uhr bis 3 Uhr Ersatzverkehr mit Bussen zwischen Maisach und Mammendorf.",
-    "message_id": "1567222085288468572",
     "severity": 1,
     "stations": [
       "Mammendorf",
