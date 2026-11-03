@@ -26,5 +26,18 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1793221500000,
     "validTo": 1795401600000
+  },
+  "b2b431735f6a728c": {
+    "description": "Die S-Bahnen wenden in Deisenhofen.\n\nEin Ersatzverkehr zwischen Deisenhofen und Holzkirchen ist in Planung.\n\nEs kommt zu Verspätungen und Teilausfällen.\n\nDer Grund hierfür ist eine Reparatur an der Oberleitung.",
+    "message_id": "1567161679689683065",
+    "severity": 1,
+    "stations": [
+      "Deisenhofen",
+      "Holzkirchen"
+    ],
+    "title": "Reparatur an der Oberleitung - Zwischen Holzkirchen und Deisenhofen sind keine Zugfahrten möglich.",
+    "type": "INCIDENT",
+    "validFrom": 1793709780000,
+    "validTo": 1793714400000
   }
 }
