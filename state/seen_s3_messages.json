@@ -29,7 +29,6 @@
   },
   "6b9e5d6bc2fb2449": {
     "description": "Die S-Bahnen wenden in Deisenhofen.\n\nWir haben für Sie einen Ersatzverkehr mit Großraumtaxis zwischen Deisenhofen und Holzkirchen eingerichtet.\n\nErsatzverkehr mit Taxis ist auf dem Weg und wird ab ca. 14:20 Uhr vor Ort sein. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.\n\n**‼️ Alterantive:**\n\n- Der Regionalzug RB 55 (BRB) in Richtung stadteinwärts hält zusätzlich in Otterfing, Sauerlach und Deisenhofen. ‼️\n\nEs kommt zu Verspätungen und Teilausfällen.\n\nDer Grund hierfür ist eine Reparatur an der Oberleitung.",
-    "message_id": "1567206981989695519",
     "severity": 1,
     "stations": [
       "Deisenhofen",
