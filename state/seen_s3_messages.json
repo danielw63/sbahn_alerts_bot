@@ -1,19 +1,4 @@
 {
-  "4cdaf918c8243152": {
-    "description": "Die S-Bahnen fahren wie folgt:\n\n**S1 Freising/Flughafen ↔ Leuchtenbergring (Beginn der Abweichungen erst am 03.11. ab ca. 14 Uhr):**\n\n- Züge in/aus Richtung **Freising**/**Flughafen** beginnen/enden am **Hauptbahnhof** Gl. 26-35, ohne Halt an der **Hackerbrücke**\n- Züge der S1 fallen zwischen **Hauptbahnhof** und **Leuchtenbergring** aus.\n\n**S2 Petershausen/Altomünster ↔ Markt Schwaben:**\n\n- Züge in/aus Richtung **Petershausen** beginnen/enden am **Heimeranplatz** Gl. 11 und fahren von/bis **Obermenzing** ohne Halt\n- Zwischen **Altomünster** und **Erdweg/Dachau** besteht wegen anderer Bauarbeiten Ersatzverkehr mit **Bussen. I**n **Dachau** ist ein Umstieg von/zur **S2** möglich.\n- Züge in/aus Richtung **Markt Schwaben** beginnen/enden am **Ostbahnhof** Gl. 6-13 und fahren von/bis **Riem** ohne Halt. Beachten Sie den zwischen **Markt Schwaben** und **Erding** bestehenden Ersatzverkehr mit Bussen wegen anderer Bauarbeiten.\n\n**S4 Geltendorf ↔ Trudering/Zorneding:**\n\n- Züge in/aus Richtung **Geltendorf** beginnen/enden in **Pasing.**\n- Züge in/aus Richtung **Zorneding/Trudering** fallen zwischen **Pasing** und **Trudering/Zorneding** aus.\n\n**S6 Tutzing ↔ Ebersberg:**\n\n- Züge in/aus Richtung **Tutzing** beginnen/enden in Gauting. Beachten sie den **Pasing** und **Gauting** bestehenden **Ersatzverkehr** mit Bussen wegen anderer Bauarbeiten.\n- Züge in/aus Richtung **Ebersberg** beginnen/enden in **Trudering.**\n- Züge der S6 fallen zwischen **Trudering** und **Gauting** aus.\n\n**S8 Herrsching ↔ Flughafen (Beginn der Abweichungen erst am 03.11. ab ca.. 14 Uhr):**\n\n- Züge in/aus Richtung **Herrsching** beginnen/enden in **Deisenhofen** (zwischen **21** und **3 Uhr** entfällt die **S8** zwischen **Pasing** und **Deisenhofen**!).\n- Züge in/aus Richtung **Flughafen/Airport** beginnen/enden in **Johanneskirchen**. Beachten sie den zwischen **Ostbahnhof** und **Johanneskirchen** bestehenden Ersatzverkehr mit Bussen wegen anderer Bauarbeiten.\n\n**S20 Pasing ↔ Höllriegelskreuth**\n\n- Züge der Linie S20 fallen aus.\n\n**Hinweis:**\n\n**🔴Aufgrund des reduzierten Angebots auf der Stammstrecke kann es in den Stoßzeiten voll werden. Bitte nutzen Sie auch alternative MVV-Verbindungen oder fahren Sie, wenn möglich, außerhalb der Hauptverkehrszeiten.**\n\nWegen **Bauarbeiten** zur **U5** ist der **Fahrradtunnel (Wolkentunnel)** in **Pasing** vom **2.11. - 23.12.26,** und vom **4.1. - 6.2.27, gesperrt.** Der **Zugang** zu den **Bahnsteigen** ist **von Norden** weiterhin **möglich.**",
-    "severity": 3,
-    "stations": [
-      "Hackerbrücke",
-      "München Hbf",
-      "Deisenhofen",
-      "Ostbahnhof",
-      "Pasing"
-    ],
-    "title": "Wegen Bauarbeiten zur 2. Stammstrecke am Leuchtenbergring kommt es zwischen Pasing ↔ Ostbahnhof/Trudering/Leuchtenbergring/Riem von Dienstag, 3. November, ab 4:00 Uhr, durchgehend bis Freitag, 6. November 2026, 3:30 Uhr zu Änderungen im Fahrplan.",
-    "type": "SCHEDULE_CHANGE",
-    "validFrom": 1793674800000,
-    "validTo": 1793932200000
-  },
   "4e1e7061296b411c": {
     "description": "Ab dem 25. August 2026 ist aufgrund von Bauarbeiten am Bahnhof Laim bis Mitte 2028 mit Änderungen bei den Fahrten in Richtung Münchner Innenstadt zu rechnen. Diese Änderungen betreffen ausschließlich die Fahrten in Richtung Innenstadt. Bei den Fahrten aus der Stadt heraus halten alle S-Bahn-Züge weiterhin wie gewohnt in Laim. Fahrgäste, die aus Richtung Pasing kommen und mit den Linien S3, S4, S6 oder S8 nach Laim fahren: Diese Linien halten in Richtung Stadtzentrum nicht mehr am Bahnhof Laim. Fahrgäste, die nach Laim fahren möchten, werden gebeten, mit der S-Bahn bis Hirschgarten weiterzufahren, dort auf demselben Bahnsteig umzusteigen und dann mit der nächsten S-Bahn zurück nach Laim zu fahren.  Mit einem für Laim gültigen Fahrschein ist es möglich, bis Hirschgarten weiterzufahren und dann zurück nach Laim zu fahren. Durch den zusätzlichen Umstieg kann sich die Fahrzeit verlängern. Den Fahrgästen wird empfohlen, vor Fahrtantritt die Anschlussinformationen zu überprüfen, die aktuellen Fahrgastinformationen im Zug und am Bahnhof zu beachten und insbesondere zu Beginn des Schuljahres sowie in den ersten Tagen des Betriebs die zusätzliche Fahrzeit einzuplanen. Kurz zusammengefasst: Bauarbeiten am Bahnhof Laim vom 25.08.2026 bis voraussichtlich Mitte 2028 Die Linien S3, S4, S6 und S8 halten stadteinwärts nicht in Laim. Stadtauswärts ergeben sich keine Änderungen. Fahrgäste mit Ziel Laim fahren bitte bis Hirschgarten weiter, steigen dort um und fahren mit der nächsten S-Bahn zurück nach Laim. Kein zusätzliches Ticket erforderlich. Die Linien S1, S2 und S5 sind nicht betroffen und halten weiterhin in beiden Fahrtrichtungen in Laim.",
     "severity": 2,
@@ -67,6 +52,22 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1790932440000,
     "validTo": 1796956200000
+  },
+  "a301d448ae082b0a": {
+    "description": "Die S-Bahnen fahren wie folgt:\n\n**S1 Freising/Flughafen ↔ Leuchtenbergring :**\n\n- Züge in/aus Richtung **Freising**/**Flughafen** beginnen/enden am **Hauptbahnhof** Gl. 26-35, ohne Halt an der **Hackerbrücke**\n- Züge der S1 fallen zwischen **Hauptbahnhof** und **Leuchtenbergring** aus.\n\n**S2 Petershausen/Altomünster ↔ Markt Schwaben:**\n\n- Züge in/aus Richtung **Petershausen** beginnen/enden am **Heimeranplatz** Gl. 11 und fahren von/bis **Obermenzing** ohne Halt\n- Zwischen **Altomünster** und **Erdweg/Dachau** besteht wegen anderer Bauarbeiten Ersatzverkehr mit **Bussen. I**n **Dachau** ist ein Umstieg von/zur **S2** möglich.\n- Züge in/aus Richtung **Markt Schwaben** beginnen/enden am **Ostbahnhof** Gl. 6-13 und fahren von/bis **Riem** ohne Halt. Beachten Sie den zwischen **Markt Schwaben** und **Erding** bestehenden Ersatzverkehr mit Bussen wegen anderer Bauarbeiten.\n\n**S4 Geltendorf ↔ Trudering/Zorneding:**\n\n- Züge in/aus Richtung **Geltendorf** beginnen/enden in **Pasing.**\n- Züge in/aus Richtung **Zorneding/Trudering** fallen zwischen **Pasing** und **Trudering/Zorneding** aus.\n\n**S6 Tutzing ↔ Ebersberg:**\n\n- Züge in/aus Richtung **Tutzing** beginnen/enden in Gauting. Beachten sie den **Pasing** und **Gauting** bestehenden **Ersatzverkehr** mit Bussen wegen anderer Bauarbeiten.\n- Züge in/aus Richtung **Ebersberg** beginnen/enden in **Trudering.**\n- Züge der S6 fallen zwischen **Trudering** und **Gauting** aus.\n\n**S8 Herrsching ↔ Flughafen:**\n\n- Züge in/aus Richtung **Herrsching** beginnen/enden in **Deisenhofen** (zwischen **21** und **3 Uhr** entfällt die **S8** zwischen **Pasing** und **Deisenhofen**!).\n- Züge in/aus Richtung **Flughafen/Airport** beginnen/enden in **Johanneskirchen**. Beachten sie den zwischen **Ostbahnhof** und **Johanneskirchen** bestehenden Ersatzverkehr mit Bussen wegen anderer Bauarbeiten.\n\n**S20 Pasing ↔ Höllriegelskreuth**\n\n- Züge der Linie S20 fallen aus.\n\n**Hinweis:**\n\n**🔴Aufgrund des reduzierten Angebots auf der Stammstrecke kann es in den Stoßzeiten voll werden. Bitte nutzen Sie auch alternative MVV-Verbindungen oder fahren Sie, wenn möglich, außerhalb der Hauptverkehrszeiten.**\n\nWegen **Bauarbeiten** zur **U5** ist der **Fahrradtunnel (Wolkentunnel)** in **Pasing** vom **2.11. - 23.12.26,** und vom **4.1. - 6.2.27, gesperrt.** Der **Zugang** zu den **Bahnsteigen** ist **von Norden** weiterhin **möglich.** Details dazu ➡️ Baustellen mit Verkehrseinschränkungen – Landeshauptstadt München",
+    "message_id": "1567433457515364373",
+    "severity": 3,
+    "stations": [
+      "Hackerbrücke",
+      "München Hbf",
+      "Deisenhofen",
+      "Ostbahnhof",
+      "Pasing"
+    ],
+    "title": "Wegen Bauarbeiten zur 2. Stammstrecke am Leuchtenbergring kommt es zwischen Pasing ↔ Ostbahnhof/Trudering/Leuchtenbergring/Riem von Dienstag, 3. November, ab 4:00 Uhr, durchgehend bis Freitag, 6. November 2026, 3:30 Uhr zu Änderungen im Fahrplan.",
+    "type": "SCHEDULE_CHANGE",
+    "validFrom": 1793674800000,
+    "validTo": 1793932200000
   },
   "d4be2f0d45d85324": {
     "description": "Wegen Maßnahmen zur Betriebsstabilisierung nach Bauarbeiten mit stark eingeschränkter Infrastruktur entfallen am Freitag, 06.11.26, ganztägig die Taktverstärker des 10-Minuten-Taktes zwischen Deisenhofen und Maisach.",
