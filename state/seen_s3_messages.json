@@ -51,14 +51,14 @@
     "validFrom": 1791550800000,
     "validTo": 1851371940000
   },
-  "688fed777e2633a5": {
-    "description": "Der Grund hierfür ist ein Polizeieinsatz am Ostbahnhof.",
-    "message_id": "1567576846231670817",
+  "658a2f5b14ff37df": {
+    "description": "Am Ostbahnhof sind die Gleise nur eingeschränkt verfügbar.\n\nBeachten sie mögliche kurzfristige Gleisänderungen am Ostbahnhof und achten dazu auch auf die örtlichen Durchsagen.\n\nDer Grund hierfür ist ein Polizeieinsatz am Ostbahnhof.",
+    "message_id": "1567584477121871955",
     "severity": 3,
     "stations": [
       "Ostbahnhof"
     ],
-    "title": "Polizeieinsatz - Auf der Stammstrecke kommt es in beiden Richtungen zu Verspätungen von bis zu 20 Minuten und vorzeitigen Zugwenden im S-Bahn Gesamtnetz..",
+    "title": "Polizeieinsatz - Auf der Stammstrecke kommt es in beiden Richtungen zu Verspätungen von bis zu 20 Minuten und vorzeitigen Zugwenden im S-Bahn Gesamtnetz.",
     "type": "INCIDENT",
     "validFrom": 1793808780000,
     "validTo": 1793815200000
