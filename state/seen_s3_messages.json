@@ -51,17 +51,17 @@
     "validFrom": 1791550800000,
     "validTo": 1851371940000
   },
-  "76b0d02f2f3044a0": {
+  "64bc539d2b0d6db2": {
     "description": "Die Gleise am Ostbahnhof sind wieder regulär anfahrbar.\n\nBeachten sie aber noch vereinzelte mögliche kurzfristige Gleisänderungen am Ostbahnhof und achten dazu auch auf die örtlichen Durchsagen.\n\nDer Polizeieinsatz am Ostbahnhof ist beendet.",
-    "message_id": "1567591942462898177",
+    "message_id": "1567599528398426123",
     "severity": 3,
     "stations": [
       "Ostbahnhof"
     ],
-    "title": "Polizeieinsatz - Auf der Stammstrecke kommt es in beiden Richtungen  zu Folgeverspätungen von bis zu 20 Minuten und vorzeitigen Zugwenden im S-Bahn Gesamtnetz.",
+    "title": "Polizeieinsatz - Auf der Stammstrecke kommt es in beiden Richtungen  zu Folgeverspätungen von bis zu 30 Minuten vereinzelt auch höher und zusätzlich zu vorzeitigen Zugwenden im S-Bahn Gesamtnetz.",
     "type": "INCIDENT",
     "validFrom": 1793808780000,
-    "validTo": 1793815200000
+    "validTo": 1793818800000
   },
   "970172b4fe597894": {
     "description": "Auf Grund von Bauarbeiten in Pasing kommt es in der Nacht 16./17. November 2026 zwischen 22:10 und 4:40 Uhr zwischen Ostbahnhof und Pasing zu folgenden Fahrplanänderungen:\n\n- S1: Die Züge fahren grundsätzlich planmäßig. Die Züge mit planmäßiger Abfahrt um 3:31 und 4:01 Uhr fahren zwischen Leuchtenbergring und Moosach 5 Minuten früher.\n- S2: Die Züge fahren planmäßig.\n- S3: Die Züge in/aus Richtung Holzkirchen beginnen/enden an der Hackerbrücke. Die Züge in/aus Richtung Mammendorf beginnen/enden in Pasing.\n- S4: Die Züge in/aus Richtung Geltendorf beginnen/enden in Pasing. Die Züge in/aus Richtung Trudering fallen zwischen Pasing und Trudering aus.\n- S5: Die Züge in/aus Richtung Kreuzstraße beginnen/enden am Ostbahnhof. Die Züge in/aus Richtung Pasing fallen zwischen Ostbahnhof und Pasing aus.\n- S6: Die Züge in Richtung Tutzing erhalten zwischen Ostbahnhof und Pasing etwa 10 Minuten Verspätung. Die Züge in Richtung Ebersberg fahren planmäßig. Zwischen Pasing und Gauting besteht wegen gleichzeitiger Bauarbeiten Ersatzverkehr mit Bussen.\n- S7: Die Züge fahren planmäßig.\n- S8: Die Züge aus Richtung Flughafen fahren ab Daglfing ohne Halt zum Ostbahnhof und weiter ohne Halt bis Pasing nach Herrsching. Die Züge aus Richtung Herrsching fahren ab Pasing ohne Halt bis Ostbahnhof und weiter ohne Halt bis Daglfing zum Flughafen.",
@@ -95,7 +95,6 @@
   },
   "af19486c3f5611e3": {
     "description": "Die S-Bahnen fahren wie folgt:\n\n**S1 Freising/Flughafen ↔ Leuchtenbergring :**\n\n- Züge in/aus Richtung **Freising**/**Flughafen** beginnen/enden am **Hauptbahnhof** Gl. 26-35, ohne Halt an der **Hackerbrücke**\n- Züge der S1 fallen zwischen **Hauptbahnhof** und **Leuchtenbergring** aus.\n\n**S2 Petershausen/Altomünster ↔ Markt Schwaben:**\n\n- Züge in/aus Richtung **Petershausen** beginnen/enden am **Heimeranplatz** Gl. 11 und fahren von/bis **Obermenzing** ohne Halt\n- Zwischen **Altomünster** und **Erdweg/Dachau** besteht wegen anderer Bauarbeiten Ersatzverkehr mit **Bussen. I**n **Dachau** ist ein Umstieg von/zur **S2** möglich.\n- Züge in/aus Richtung **Markt Schwaben** beginnen/enden am **Ostbahnhof** Gl. 6-13 und fahren von/bis **Riem** ohne Halt. Beachten Sie den zwischen **Markt Schwaben** und **Erding** bestehenden Ersatzverkehr mit Bussen wegen anderer Bauarbeiten.\n\n‼️Bitte beachten sie die zusätzliche Reparatur an einem Signal und die damit verbundene Streckensperrung auf der S2 zwischen Ostbahnhof und Riem. (siehe separate Meldung)‼️\n\n**S4 Geltendorf ↔ Trudering/Zorneding:**\n\n- Züge in/aus Richtung **Geltendorf** beginnen/enden in **Pasing.**\n- Züge in/aus Richtung **Zorneding/Trudering** fallen zwischen **Pasing** und **Trudering/Zorneding** aus.\n\n**S6 Tutzing ↔ Ebersberg:**\n\n- Züge in/aus Richtung **Tutzing** beginnen/enden in Gauting. Beachten sie den **Pasing** und **Gauting** bestehenden **Ersatzverkehr** mit Bussen wegen anderer Bauarbeiten.\n- Züge in/aus Richtung **Ebersberg** beginnen/enden in **Trudering.**\n- Züge der S6 fallen zwischen **Trudering** und **Gauting** aus.\n\n**S8 Herrsching ↔ Flughafen:**\n\n- Züge in/aus Richtung **Herrsching** beginnen/enden in **Deisenhofen** (zwischen **21** und **3 Uhr** entfällt die **S8** zwischen **Pasing** und **Deisenhofen**!).\n- Züge in/aus Richtung **Flughafen/Airport** beginnen/enden in **Johanneskirchen**. Beachten sie den zwischen **Ostbahnhof** und **Johanneskirchen** bestehenden Ersatzverkehr mit Bussen wegen anderer Bauarbeiten.\n\n**S20 Pasing ↔ Höllriegelskreuth**\n\n- Züge der Linie S20 fallen aus.\n\n**Hinweis:**\n\n**🔴Aufgrund des reduzierten Angebots auf der Stammstrecke kann es in den Stoßzeiten voll werden. Bitte nutzen Sie auch alternative MVV-Verbindungen oder fahren Sie, wenn möglich, außerhalb der Hauptverkehrszeiten.**\n\nWegen **Bauarbeiten** zur **U5** ist der **Fahrradtunnel (Wolkentunnel)** in **Pasing** vom **2.11. - 23.12.26,** und vom **4.1. - 6.2.27, gesperrt.** Der **Zugang** zu den **Bahnstei...**",
-    "message_id": "1567591944463450113",
     "severity": 3,
     "stations": [
       "Hackerbrücke",
