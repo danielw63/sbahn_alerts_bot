@@ -53,7 +53,6 @@
   },
   "64bc539d2b0d6db2": {
     "description": "Die Gleise am Ostbahnhof sind wieder regulär anfahrbar.\n\nBeachten sie aber noch vereinzelte mögliche kurzfristige Gleisänderungen am Ostbahnhof und achten dazu auch auf die örtlichen Durchsagen.\n\nDer Polizeieinsatz am Ostbahnhof ist beendet.",
-    "message_id": "1567599528398426123",
     "severity": 3,
     "stations": [
       "Ostbahnhof"
