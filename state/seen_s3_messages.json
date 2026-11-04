@@ -122,7 +122,6 @@
   },
   "e8bace195ca12451": {
     "description": "Die ärztliche Versorgung eines Fahrgastes wurde beendet.",
-    "message_id": "1567644827598721251",
     "severity": 3,
     "stations": [
       "Ostbahnhof"
