@@ -1,7 +1,6 @@
 {
   "0278268054ddbd3d": {
     "description": "Auf Grund von Oberleitungsarbeiten besteht zwischen Ostbahnhof/Deisenhofen und Holzkirchen in den Nächten 15./16. und 16./17. November 2026 jeweils von 21:45 bis 3:30 Uhr ein 60-Minuten-Takt. In der Nacht 16./17. November 2026 finden gleichzeitig Bauarbeiten auf der Stammstrecke statt. Bitte beachten Sie hierzu die gesonderten Informationen.",
-    "message_id": "1567501379478753283",
     "severity": 3,
     "stations": [
       "Deisenhofen",
@@ -51,6 +50,22 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1791550800000,
     "validTo": 1851371940000
+  },
+  "970172b4fe597894": {
+    "description": "Auf Grund von Bauarbeiten in Pasing kommt es in der Nacht 16./17. November 2026 zwischen 22:10 und 4:40 Uhr zwischen Ostbahnhof und Pasing zu folgenden Fahrplanänderungen:\n\n- S1: Die Züge fahren grundsätzlich planmäßig. Die Züge mit planmäßiger Abfahrt um 3:31 und 4:01 Uhr fahren zwischen Leuchtenbergring und Moosach 5 Minuten früher.\n- S2: Die Züge fahren planmäßig.\n- S3: Die Züge in/aus Richtung Holzkirchen beginnen/enden an der Hackerbrücke. Die Züge in/aus Richtung Mammendorf beginnen/enden in Pasing.\n- S4: Die Züge in/aus Richtung Geltendorf beginnen/enden in Pasing. Die Züge in/aus Richtung Trudering fallen zwischen Pasing und Trudering aus.\n- S5: Die Züge in/aus Richtung Kreuzstraße beginnen/enden am Ostbahnhof. Die Züge in/aus Richtung Pasing fallen zwischen Ostbahnhof und Pasing aus.\n- S6: Die Züge in Richtung Tutzing erhalten zwischen Ostbahnhof und Pasing etwa 10 Minuten Verspätung. Die Züge in Richtung Ebersberg fahren planmäßig. Zwischen Pasing und Gauting besteht wegen gleichzeitiger Bauarbeiten Ersatzverkehr mit Bussen.\n- S7: Die Züge fahren planmäßig.\n- S8: Die Züge aus Richtung Flughafen fahren ab Daglfing ohne Halt zum Ostbahnhof und weiter ohne Halt bis Pasing nach Herrsching. Die Züge aus Richtung Herrsching fahren ab Pasing ohne Halt bis Ostbahnhof und weiter ohne Halt bis Daglfing zum Flughafen.",
+    "message_id": "1567508955758862469",
+    "severity": 3,
+    "stations": [
+      "Hackerbrücke",
+      "Holzkirchen",
+      "Mammendorf",
+      "Ostbahnhof",
+      "Pasing"
+    ],
+    "title": "Zugausfälle, Umleitungen und Fahrplanänderungen zwischen Ostbahnhof und Pasing (Nacht 16./17. November 2026)",
+    "type": "SCHEDULE_CHANGE",
+    "validFrom": 1793653800000,
+    "validTo": 1794886800000
   },
   "9b9bb84cd0583c03": {
     "description": "Wegen Oberleitungsarbeiten kommt es in verschiedenen Nächten zwischen dem 26.10. und 10.12.26 zu Ersatzzügen und einem 60-Minuten-Takt.\n\nBetroffen sind die Nächte Montag/Dienstag, 26./27.10. und Dienstag/Mittwoch, 27./28.10.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Mittwoch/Donnerstag, 28./29.10. und Donnerstag/Freitag, 29./30.10.2026 (jeweils 0:45 bis 3:30 Uhr), Nächte Montag/Dienstag, 2./3.11 bis Donnerstag/Freitag, 5./6.11.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Montag/Dienstag, 9./10.11. bis Donnerstag/Freitag, 12./13.11.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Dienstag/Mittwoch, 17./18.11. und Mittwoch/Donnerstag, 18./19.11.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Dienstag/Mittwoch, 24./25.11. und Mittwoch/Donnerstag, 25./26.11.2026 (jeweils 21:45 bis 3:30 Uhr) zwischen Ostbahnhof/Giesing und Holzkirchen, Nächte Montag/Dienstag, 30.11./1.12. bis Donnerstag/Freitag, 3./4.12.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Montag/Dienstag, 7./8.12. bis Donnerstag/Freitag, 10./11.12.2026 (jeweils 21:45 bis 3:30 Uhr).\n\nZusätzlich besteht in den Nächten 23./24.11., 25./26.11. und 26./27.11. jeweils von 21:45 Uhr bis 3:30 Uhr Ersatzverkehr mit Bussen zwischen Deisenhofen und Holzkirchen. Bitte beachten Sie dazu die gesonderten Informationen.",
