@@ -119,16 +119,5 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1792069380000,
     "validTo": 1794448800000
-  },
-  "e8bace195ca12451": {
-    "description": "Die ärztliche Versorgung eines Fahrgastes wurde beendet.",
-    "severity": 3,
-    "stations": [
-      "Ostbahnhof"
-    ],
-    "title": "Ärztliche Versorgung eines Fahrgastes - Auf der Stammstrecke kommt es in Richtung Ostbahnhof noch zu Folgeverspätungen von 15 bis 20 Minuten.",
-    "type": "INCIDENT",
-    "validFrom": 1793824320000,
-    "validTo": 1793828700000
   }
 }
