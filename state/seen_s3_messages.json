@@ -51,6 +51,34 @@
     "validFrom": 1791550800000,
     "validTo": 1851371940000
   },
+  "74c222f1c3c8390a": {
+    "description": "Bitte nutzen Sie zum Ein- oder Ausstieg die Halte Hackerbrücke oder Karlsplatz.\n\nGrund hierfür ist ein Feuerwehreinsatz am Hauptbahnhof.",
+    "message_id": "1568173319050633217",
+    "severity": 2,
+    "stations": [
+      "Hackerbrücke",
+      "München Hbf",
+      "Karlsplatz (Stachus)"
+    ],
+    "title": "Feuerwehreinsatz am Hauptbahnhof - Die S-Bahnen halten derzeit nicht am Hauptbahnhof.",
+    "type": "INCIDENT",
+    "validFrom": 1793950680000,
+    "validTo": 1793953800000
+  },
+  "924d7da3fc5a7182": {
+    "description": "In diesem Bereich fahren die Züge mit verminderter Geschwindigkeit.\n\nDer Grund hierfür ist eine Reparatur an einem Signal bei Otterfing.",
+    "message_id": "1568173316978647083",
+    "severity": 1,
+    "stations": [
+      "Deisenhofen",
+      "Holzkirchen",
+      "Otterfing"
+    ],
+    "title": "Reparatur an einem Signal - Zwischen Holzkirchen und Deisenhofen kommt es zu Verspätungen von 15 bis 20 Minuten und vorzeitigen Zugwenden.",
+    "type": "INCIDENT",
+    "validFrom": 1793951460000,
+    "validTo": 1793955600000
+  },
   "970172b4fe597894": {
     "description": "Auf Grund von Bauarbeiten in Pasing kommt es in der Nacht 16./17. November 2026 zwischen 22:10 und 4:40 Uhr zwischen Ostbahnhof und Pasing zu folgenden Fahrplanänderungen:\n\n- S1: Die Züge fahren grundsätzlich planmäßig. Die Züge mit planmäßiger Abfahrt um 3:31 und 4:01 Uhr fahren zwischen Leuchtenbergring und Moosach 5 Minuten früher.\n- S2: Die Züge fahren planmäßig.\n- S3: Die Züge in/aus Richtung Holzkirchen beginnen/enden an der Hackerbrücke. Die Züge in/aus Richtung Mammendorf beginnen/enden in Pasing.\n- S4: Die Züge in/aus Richtung Geltendorf beginnen/enden in Pasing. Die Züge in/aus Richtung Trudering fallen zwischen Pasing und Trudering aus.\n- S5: Die Züge in/aus Richtung Kreuzstraße beginnen/enden am Ostbahnhof. Die Züge in/aus Richtung Pasing fallen zwischen Ostbahnhof und Pasing aus.\n- S6: Die Züge in Richtung Tutzing erhalten zwischen Ostbahnhof und Pasing etwa 10 Minuten Verspätung. Die Züge in Richtung Ebersberg fahren planmäßig. Zwischen Pasing und Gauting besteht wegen gleichzeitiger Bauarbeiten Ersatzverkehr mit Bussen.\n- S7: Die Züge fahren planmäßig.\n- S8: Die Züge aus Richtung Flughafen fahren ab Daglfing ohne Halt zum Ostbahnhof und weiter ohne Halt bis Pasing nach Herrsching. Die Züge aus Richtung Herrsching fahren ab Pasing ohne Halt bis Ostbahnhof und weiter ohne Halt bis Daglfing zum Flughafen.",
     "severity": 3,
