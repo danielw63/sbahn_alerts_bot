@@ -81,20 +81,6 @@
     "validFrom": 1790932440000,
     "validTo": 1796956200000
   },
-  "d0c1610b63e24959": {
-    "description": "In diesem Bereich fahren die Züge mit verminderter Geschwindigkeit.\n\nDer Grund hierfür ist eine Reparatur an einem Signal bei Otterfing.",
-    "message_id": "1568188412748501003",
-    "severity": 1,
-    "stations": [
-      "Deisenhofen",
-      "Holzkirchen",
-      "Otterfing"
-    ],
-    "title": "Reparatur an einem Signal - Zwischen Holzkirchen und Deisenhofen kommt es nur noch zu geringfügigen Verspätungen.",
-    "type": "INCIDENT",
-    "validFrom": 1793951460000,
-    "validTo": 1793957400000
-  },
   "d4be2f0d45d85324": {
     "description": "Wegen Maßnahmen zur Betriebsstabilisierung nach Bauarbeiten mit stark eingeschränkter Infrastruktur entfallen am Freitag, 06.11.26, ganztägig die Taktverstärker des 10-Minuten-Taktes zwischen Deisenhofen und Maisach.",
     "severity": 1,
