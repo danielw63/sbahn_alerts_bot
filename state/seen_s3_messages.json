@@ -51,31 +51,17 @@
     "validFrom": 1791550800000,
     "validTo": 1851371940000
   },
-  "74c222f1c3c8390a": {
-    "description": "Bitte nutzen Sie zum Ein- oder Ausstieg die Halte Hackerbrücke oder Karlsplatz.\n\nGrund hierfür ist ein Feuerwehreinsatz am Hauptbahnhof.",
-    "message_id": "1568173319050633217",
-    "severity": 2,
-    "stations": [
-      "Hackerbrücke",
-      "München Hbf",
-      "Karlsplatz (Stachus)"
-    ],
-    "title": "Feuerwehreinsatz am Hauptbahnhof - Die S-Bahnen halten derzeit nicht am Hauptbahnhof.",
-    "type": "INCIDENT",
-    "validFrom": 1793950680000,
-    "validTo": 1793953800000
-  },
-  "924d7da3fc5a7182": {
+  "7d37d71c17b712fb": {
     "description": "In diesem Bereich fahren die Züge mit verminderter Geschwindigkeit.\n\nDer Grund hierfür ist eine Reparatur an einem Signal bei Otterfing.",
-    "message_id": "1568173316978647083",
+    "message_id": "1568180825453887499",
     "severity": 1,
     "stations": [
       "Deisenhofen",
       "Holzkirchen",
       "Otterfing"
     ],
-    "title": "Reparatur an einem Signal - Zwischen Holzkirchen und Deisenhofen kommt es zu Verspätungen von 15 bis 20 Minuten und vorzeitigen Zugwenden.",
-    "type": "INCIDENT",
+    "title": "Reparatur an einem Signal - Zwischen Holzkirchen und Deisenhofen kommt es zu Verspätungen von bis zu 10 Minuten und vereinzelt vorzeitigen Zugwenden.",
+    "type": "SCHEDULE_CHANGE",
     "validFrom": 1793951460000,
     "validTo": 1793955600000
   },
