@@ -81,18 +81,6 @@
     "validFrom": 1790932440000,
     "validTo": 1796956200000
   },
-  "d4be2f0d45d85324": {
-    "description": "Wegen Maßnahmen zur Betriebsstabilisierung nach Bauarbeiten mit stark eingeschränkter Infrastruktur entfallen am Freitag, 06.11.26, ganztägig die Taktverstärker des 10-Minuten-Taktes zwischen Deisenhofen und Maisach.",
-    "severity": 1,
-    "stations": [
-      "Deisenhofen",
-      "Maisach"
-    ],
-    "title": "Ausfall der Taktverstärker zwischen Deisenhofen und Maisach (06.11.26)",
-    "type": "SCHEDULE_CHANGE",
-    "validFrom": 1792101600000,
-    "validTo": 1794005940000
-  },
   "d86e876417a04d47": {
     "description": "Wegen Instandhaltungsarbeiten besteht in den Nächten von Montag/Dienstag, 09./10.11., bis Mittwoch/Donnerstag, 11./12.11.26, jeweils von 21:45 Uhr bis 3 Uhr Ersatzverkehr mit Bussen zwischen Maisach und Mammendorf.",
     "severity": 1,
