@@ -12,6 +12,28 @@
     "validFrom": 1793530680000,
     "validTo": 1794882600000
   },
+  "4b942897b9cec1ca": {
+    "description": "Die S-Bahnen fahren wie folgt:\n\n**S 1 Freising/Flughafen ↔ Hauptbahnhof Nord**\n\n- Die S1 verkehrt nur zwischen **Hauptbahnhof Nord Gleis 35** und **Freising/Flughafen** ohne Halt an der **Hackerbrücke**.\n\n**Alternativen:**\n\n - Moosach ↔ Marienplatz: **U3**\n - Feldmoching ↔ Hauptbahnhof: **U2**\n - Moosach ↔ Pasing: **Bus 162**\n - Hauptbahnhof/Karlsplatz ↔ Ostbahnhof: **U5**\n\n**S 2 Dachau ↔ Markt Schwaben**\n\nAb den folgenden Fahrten verkehrt die **S2** in beiden Richtungen **Markt Schwaben ↔ Dachau** zwischen **Ostbahnhof** und **Obermenzing ohne Halt** über die **Fernbahn**. Sowie **ohne Halt** am **Leuchtenbergring, Berg am Laim** und Riem.\n\n- S2 Markt Schwaben Abfahrt 16:36 Uhr Riem 16:50 Uhr → Ostbahnhof 16:59 Uhr → Obermenzing 17:20 Uhr → Dachau Ankunft 17:31 Uhr → **‼️SEV → Altomünster ‼️**\n- S2 Dachau Abfahrt 16:29 Uhr → Obermenzing 16:40 Uhr → Ostbahnhof 16:59 Uhr → Riem 17:09 Uhr → Markt Schwaben Ankunft 17:23\n\n**Alternativen:**\n\n- Berg am Laim ↔ Leuchtenbergring ↔ Ostbahnhof: **S6**\n\n**S 3 Mammendorf ↔ Holzkirchen**\n\n- Die S3 verkehrt nur **Mammendorf** ↔ **Pasing**.\n- Die S3 verkehrt nur **Holzkirchen** ↔ **Ostbahnhof**.\n\n**S 4 Geltendorf ↔ Hauptbahnhof Nord**\n\n- Die S4 verkehrt nur zwischen **Hauptbahnhof Nord** und **Geltendorf** ohne Halt an der Hackerbrücke,jedoch mit zusätzlichem Halt in **Laim** in Richtung **Hauptbahnhof Nord.**\n\n**S 5 Kreuzstraße ↔ Pasing**\n\n- verkehrt nach **Baustellenprogramm** **Ostbahnhof** und **Kreuzstraße.**\n\n**S 6 Tutzing ↔ Ebersberg**\n\nAb den folgenden Fahrten verkehrt die **S6 Ost Ebersberg ↔ Ostbahnhof Gl. 1/2**\n\n- S6 Ebersberg Abfahrt 16:02 Uhr → Ostbahnhof Ankunft 16:40 Uhr\n- Die S6 verkehrt nur **Pasing ↔ SEV ↔ Gauting ↔ Tutzing**\n\n**S 7 Wolfratshausen ↔ Hauptbahnhof Gleis 36**\n\n- Die S7 verkehrt auf dem Regelweg **Wolfratshausen ↔ Hauptbahnhof Gleis 36**\n\n**S 8 Herrsching ↔ Flughafen**\n\nAb den folgenden Fahrten verkehrt die **S8 Ost Pasing Gl. 5↔ Flughafen über die Fernbahn und wegen Bauarbeiten in 40-Min-Takt.**\n\n- S8 Flughafen Abfahrt 16:44 Uhr → Ostbahnhof 17:15 Uhr → Pasing Ankunft 17:33 Uhr\n- S8 West verkehrt nur Herrsching ↔ Harthaus ↔ SEV ↔ Pasing\n\n**Alternativen zwischen Pasing und Ostbahnhof/Berg am Laim/Trudering für beide Richtungen:**\n\n- **Tram 16 mit Halten**: Donnersberger Brücke ↔ Hackerbrücke ↔ Hauptbahnhof ↔ Karlsplatz ↔ Isartor\n- **Tram 17 mit Halten**: Donnersberger Brücke ↔ Hackerbrücke ↔ Hauptbahnhof ↔ Karlsplatz\n- **Tram 18 mit Halten**: Hirsch...",
+    "message_id": "1569026388076527657",
+    "severity": 3,
+    "stations": [
+      "Donnersbergerbrücke",
+      "Hackerbrücke",
+      "München Hbf",
+      "Marienplatz",
+      "Holzkirchen",
+      "Mammendorf",
+      "Karlsplatz (Stachus)",
+      "Ostbahnhof",
+      "Isartor",
+      "Pasing",
+      "Laim"
+    ],
+    "title": "Reparatur an der Strecke - Die Stammstrecke ist aktuell zwischen Hackerbrücke und Ostbahnhof gesperrt und die Züge verkehren abweichend der Linienführung. Es kommt zu großen Einschränkungen, vorzeitigen Wendungen sowie zu Ausfällen. Der Grund hierfür ist eine Reparatur an der Strecke.",
+    "type": "INCIDENT",
+    "validFrom": 1794082980000,
+    "validTo": 1794168000000
+  },
   "4e1e7061296b411c": {
     "description": "Ab dem 25. August 2026 ist aufgrund von Bauarbeiten am Bahnhof Laim bis Mitte 2028 mit Änderungen bei den Fahrten in Richtung Münchner Innenstadt zu rechnen. Diese Änderungen betreffen ausschließlich die Fahrten in Richtung Innenstadt. Bei den Fahrten aus der Stadt heraus halten alle S-Bahn-Züge weiterhin wie gewohnt in Laim. Fahrgäste, die aus Richtung Pasing kommen und mit den Linien S3, S4, S6 oder S8 nach Laim fahren: Diese Linien halten in Richtung Stadtzentrum nicht mehr am Bahnhof Laim. Fahrgäste, die nach Laim fahren möchten, werden gebeten, mit der S-Bahn bis Hirschgarten weiterzufahren, dort auf demselben Bahnsteig umzusteigen und dann mit der nächsten S-Bahn zurück nach Laim zu fahren.  Mit einem für Laim gültigen Fahrschein ist es möglich, bis Hirschgarten weiterzufahren und dann zurück nach Laim zu fahren. Durch den zusätzlichen Umstieg kann sich die Fahrzeit verlängern. Den Fahrgästen wird empfohlen, vor Fahrtantritt die Anschlussinformationen zu überprüfen, die aktuellen Fahrgastinformationen im Zug und am Bahnhof zu beachten und insbesondere zu Beginn des Schuljahres sowie in den ersten Tagen des Betriebs die zusätzliche Fahrzeit einzuplanen. Kurz zusammengefasst: Bauarbeiten am Bahnhof Laim vom 25.08.2026 bis voraussichtlich Mitte 2028 Die Linien S3, S4, S6 und S8 halten stadteinwärts nicht in Laim. Stadtauswärts ergeben sich keine Änderungen. Fahrgäste mit Ziel Laim fahren bitte bis Hirschgarten weiter, steigen dort um und fahren mit der nächsten S-Bahn zurück nach Laim. Kein zusätzliches Ticket erforderlich. Die Linien S1, S2 und S5 sind nicht betroffen und halten weiterhin in beiden Fahrtrichtungen in Laim.",
     "severity": 2,
@@ -50,28 +72,6 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1791550800000,
     "validTo": 1851371940000
-  },
-  "89e1fd552111c71d": {
-    "description": "Die S-Bahnen fahren wie folgt:\n\n**S 1 Freising/Flughafen ↔ Hauptbahnhof Nord**\n\n- Die S1 verkehrt nur zwischen **Hauptbahnhof Nord Gleis 35** und **Freising/Flughafen** ohne Halt an der **Hackerbrücke**.\n\n**Alternativen:**\n\n - Moosach ↔ Marienplatz: **U3**\n - Feldmoching ↔ Hauptbahnhof: **U2**\n - Moosach ↔ Pasing: **Bus 162**\n - Hauptbahnhof/Karlsplatz ↔ Ostbahnhof: **U5**\n\n**S 2 Dachau ↔ Markt Schwaben**\n\nAb den folgenden Fahrten verkehrt die **S2** in beiden Richtungen **Markt Schwaben ↔ Dachau** zwischen **Ostbahnhof** und **Obermenzing ohne Halt** über die **Fernbahn**. Sowie **ohne Halt** am **Leuchtenbergring, Berg am Laim** und Riem.\n\n- S2 Markt Schwaben Abfahrt 16:36 Uhr Riem 16:50 Uhr → Ostbahnhof 16:59 Uhr → Obermenzing 17:20 Uhr → Dachau Ankunft 17:31 Uhr\n- S2 Dachau Abfahrt 16:29 Uhr → Obermenzing 16:40 Uhr → Ostbahnhof 16:59 Uhr → Riem 17:09 Uhr → Markt Schwaben Ankunft 17:23\n\n**Alternativen:**\n\n- Berg am Laim ↔ Leuchtenbergring ↔ Ostbahnhof: **S6**\n\n**S 3 Mammendorf ↔ Holzkirchen**\n\n- Die S3 verkehrt nur **Mammendorf** ↔ **Pasing**.\n- Die S3 verkehrt nur **Holzkirchen** ↔ **Ostbahnhof**.\n\n**S 4 Geltendorf ↔ Hauptbahnhof Nord**\n\n- Die S4 verkehrt nur zwischen **Hauptbahnhof Nord** und **Geltendorf** ohne Halt an der Hackerbrücke,jedoch mit zusätzlichem Halt in **Laim** in Richtung **Hauptbahnhof Nord.**\n\n**S 5 Kreuzstraße ↔ Pasing**\n\n- verkehrt nach **Baustellenprogramm** **Ostbahnhof** und **Kreuzstraße.**\n\n**S 6 Tutzing ↔ Ebersberg**\n\nAb den folgenden Fahrten verkehrt die **S6 Ost Ebersberg ↔ Ostbahnhof Gl. 1/2**\n\n- S6 Ebersberg Abfahrt 16:02 Uhr → Ostbahnhof Ankunft 16:40 Uhr\n- Die S6 verkehrt nur **Pasing ↔ SEV ↔ Gauting ↔ Tutzing**\n\n**S 7 Wolfratshausen ↔ Hauptbahnhof Gleis 36**\n\n- Die S7 verkehrt auf dem Regelweg **Wolfratshausen ↔ Hauptbahnhof Gleis 36**\n\n**S 8 Herrsching ↔ Flughafen**\n\nAb den folgenden Fahrten verkehrt die **S8 Ost Pasing Gl. 5↔ Flughafen über die Fernbahn und wegen Bauarbeiten in 40-Min-Takt.**\n\n- S8 Flughafen Abfahrt 16:44 Uhr → Ostbahnhof 17:15 Uhr → Pasing Ankunft 17:33 Uhr\n- S8 West verkehrt nur Herrsching ↔ Harthaus ↔ SEV ↔ Pasing\n\n**Alternativen zwischen Pasing und Ostbahnhof/Berg am Laim/Trudering für beide Richtungen:**\n\n- **Tram 16 mit Halten**: Donnersberger Brücke ↔ Hackerbrücke ↔ Hauptbahnhof ↔ Karlsplatz ↔ Isartor\n- **Tram 17 mit Halten**: Donnersberger Brücke ↔ Hackerbrücke ↔ Hauptbahnhof ↔ Karlsplatz\n- **Tram 18 mit Halten**: Hirschgarten(Lautensackstraße) ↔ Donnersbergerbrücke(Trap...",
-    "severity": 3,
-    "stations": [
-      "Donnersbergerbrücke",
-      "Hirschgarten",
-      "Hackerbrücke",
-      "München Hbf",
-      "Marienplatz",
-      "Holzkirchen",
-      "Mammendorf",
-      "Karlsplatz (Stachus)",
-      "Ostbahnhof",
-      "Isartor",
-      "Pasing",
-      "Laim"
-    ],
-    "title": "Reparatur an der Strecke - Die Stammstrecke ist ab 17 Uhr zwischen Hackerbrücke und Ostbahnhof gesperrt und die Züge verkehren abweichend der Linienführung. Es kommt zu Verspätungen, Umleitungen und Ausfällen. Der Grund hierfür ist eine Reparatur an der Strecke.",
-    "type": "SCHEDULE_CHANGE",
-    "validFrom": 1794082980000,
-    "validTo": 1794168000000
   },
   "970172b4fe597894": {
     "description": "Auf Grund von Bauarbeiten in Pasing kommt es in der Nacht 16./17. November 2026 zwischen 22:10 und 4:40 Uhr zwischen Ostbahnhof und Pasing zu folgenden Fahrplanänderungen:\n\n- S1: Die Züge fahren grundsätzlich planmäßig. Die Züge mit planmäßiger Abfahrt um 3:31 und 4:01 Uhr fahren zwischen Leuchtenbergring und Moosach 5 Minuten früher.\n- S2: Die Züge fahren planmäßig.\n- S3: Die Züge in/aus Richtung Holzkirchen beginnen/enden an der Hackerbrücke. Die Züge in/aus Richtung Mammendorf beginnen/enden in Pasing.\n- S4: Die Züge in/aus Richtung Geltendorf beginnen/enden in Pasing. Die Züge in/aus Richtung Trudering fallen zwischen Pasing und Trudering aus.\n- S5: Die Züge in/aus Richtung Kreuzstraße beginnen/enden am Ostbahnhof. Die Züge in/aus Richtung Pasing fallen zwischen Ostbahnhof und Pasing aus.\n- S6: Die Züge in Richtung Tutzing erhalten zwischen Ostbahnhof und Pasing etwa 10 Minuten Verspätung. Die Züge in Richtung Ebersberg fahren planmäßig. Zwischen Pasing und Gauting besteht wegen gleichzeitiger Bauarbeiten Ersatzverkehr mit Bussen.\n- S7: Die Züge fahren planmäßig.\n- S8: Die Züge aus Richtung Flughafen fahren ab Daglfing ohne Halt zum Ostbahnhof und weiter ohne Halt bis Pasing nach Herrsching. Die Züge aus Richtung Herrsching fahren ab Pasing ohne Halt bis Ostbahnhof und weiter ohne Halt bis Daglfing zum Flughafen.",
