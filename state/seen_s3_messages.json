@@ -66,7 +66,7 @@
       "Laim"
     ],
     "title": "Reparatur an der Strecke - Die Zugfahrten zwischen Hackerbrücke und Ostbahnhof sind nur eingeschränkt möglich. Die Züge verkehren abweichend der Linienführung. Es kommt zu Verspätungen, Umleitungen und Ausfällen. Der Grund hierfür ist eine Reparatur an der Strecke.",
-    "type": "INCIDENT",
+    "type": "SCHEDULE_CHANGE",
     "validFrom": 1794082980000,
     "validTo": 1794146400000
   },
