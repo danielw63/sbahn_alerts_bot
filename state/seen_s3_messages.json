@@ -92,21 +92,5 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1792069380000,
     "validTo": 1794448800000
-  },
-  "f323fdaac6b8b128": {
-    "description": "**Die S-Bahnen in Richtung Ostbahnhof ↔ Pasing:**\n\nS1 Ostbahnhof Abfahrt → 22:12 → Laim Abfahrt 22:32 → Neufahrn Abfahrt 22:56 Uhr → Freising Ankunft 23:04 Uhr S2 Markt Schwaben Abfahrt →21:01 Uhr → Ostbahnhof Abfahrt 21:27 Uhr → Petershausen Ankunft 22:11 Uhr S4 Ostbahnhof Abfahrt → 22:11 Uhr → Buchenau S4 Trudering Abfahrt 22:20 Uhr → Geltendorf Ankunft 23:34 Uhr S3 Pasing Abfahrt 22:07 Uhr → Maisach Ankunft 22:28 Uhr\n\n**Die S-Bahnen in Richtung Pasing ↔ Ostbahnhof:**\n\nS1 Laim Abfahrt 21:50 Uhr→ Ostbahnhof Ankunft 22:07 Uhr S3 Maisach Abfahrt 21:30 Uhr → Ostbahnhof Ankunft 22→ Holzkirchen Ankunft 22:46 Uhr S8 Abfahrt Pasing 21:23 Uhr→ Ankunft Flughafen 22:15 Uhr S4 Geltendorf Abfahrt 23:08 → Pasing Abfahrt 23:47 Uhr → Ostbahnhof Ankunft 00:06 Uhr\n\nDie Reparatur an der Strecke wurde beendet.",
-    "message_id": "1569101909678100634",
-    "severity": 3,
-    "stations": [
-      "Holzkirchen",
-      "Ostbahnhof",
-      "Maisach",
-      "Pasing",
-      "Laim"
-    ],
-    "title": "Ersatzprogramm Stammstrecke/Gesamtnetz - Die S-Bahnen verkehren wieder auf Regelweg mit allen Halten. \nFolgeverspätungen von 10 bis zu 15 Minuten und Teilausfällen.",
-    "type": "INCIDENT",
-    "validFrom": 1794082980000,
-    "validTo": 1794175200000
   }
 }
