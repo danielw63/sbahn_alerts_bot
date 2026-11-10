@@ -106,16 +106,5 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1792069380000,
     "validTo": 1794448800000
-  },
-  "dc86f7c1f90072fc": {
-    "description": "Die ärztliche Versorgung eines Fahrgastes wurde beendet.",
-    "severity": 2,
-    "stations": [
-      "Pasing"
-    ],
-    "title": "Ärztliche Versorgung eines Fahrgastes - Auf der Stammstrecke kommt es in Richtung Pasing noch zu Folgeverspätungen von 15 bis zu 20 Minuten, sowie zu Teilausfällen.",
-    "type": "INCIDENT",
-    "validFrom": 1794292440000,
-    "validTo": 1794297600000
   }
 }
