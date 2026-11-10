@@ -14,7 +14,6 @@
   },
   "13c921a6b309e556": {
     "description": "- S3 Maisach Abfahrt 06:20 Uhr - Deisenhofen Ankunft 07:21 Uhr\n- S3 Maisach Abfahrt 09:00 Uhr - Ostbahnhof Ankunft 09:39 Uhr\n\n- S3 Deisenhofen Abfahrt 07:40 Uhr - Maisach Ankunft 08:38 Uhr\n\n**Bitte beachten Sie, dass es heute Früh auf der Linie S3 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.**",
-    "message_id": "1569607779461767199",
     "severity": 3,
     "stations": [
       "Deisenhofen",
@@ -110,7 +109,6 @@
   },
   "dc86f7c1f90072fc": {
     "description": "Die ärztliche Versorgung eines Fahrgastes wurde beendet.",
-    "message_id": "1569607777930711051",
     "severity": 2,
     "stations": [
       "Pasing"
