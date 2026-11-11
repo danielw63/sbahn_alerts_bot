@@ -14,7 +14,6 @@
   },
   "2fcd619ddfbc4bb9": {
     "description": "Die Reparatur an einer Weiche wurde beendet.",
-    "message_id": "1570136264680673415",
     "severity": 3,
     "stations": [
       "Ostbahnhof",
@@ -27,7 +26,6 @@
   },
   "3965c6416eea0431": {
     "description": "Der Grund hierfür ist eine Reparatur an einem Signal.",
-    "message_id": "1570136262009167879",
     "severity": 1,
     "stations": [
       "Deisenhofen",
@@ -131,5 +129,15 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1792069380000,
     "validTo": 1794448800000
+  },
+  "e5fd0b46a53d3d0a": {
+    "description": "Der Grund hierfür ist die Reparatur an einer Weiche.",
+    "message_id": "1570143766256291921",
+    "severity": 3,
+    "stations": [],
+    "title": "Reparatur an einer Weiche - Auf der Stammstrecke kommt es in beiden Richtungen zu Verspätungen von 15 bis 20 Minuten und Teilausfällen.",
+    "type": "INCIDENT",
+    "validFrom": 1794421080000,
+    "validTo": 1794425400000
   }
 }
