@@ -12,6 +12,19 @@
     "validFrom": 1793530680000,
     "validTo": 1794882600000
   },
+  "2debc90411ef110b": {
+    "description": "Der Grund hierfür ist eine Reparatur an einem Signal.",
+    "message_id": "1570113579380908096",
+    "severity": 1,
+    "stations": [
+      "Deisenhofen",
+      "Holzkirchen"
+    ],
+    "title": "Reparatur an einem Signal - Zwischen Deisenhofen und Holzkirchen kommt es zu Verspätungen von bis zu 10 Minuten und vereinzelten Teilausfällen.",
+    "type": "INCIDENT",
+    "validFrom": 1794409020000,
+    "validTo": 1794418200000
+  },
   "4e1e7061296b411c": {
     "description": "Ab dem 25. August 2026 ist aufgrund von Bauarbeiten am Bahnhof Laim bis Mitte 2028 mit Änderungen bei den Fahrten in Richtung Münchner Innenstadt zu rechnen. Diese Änderungen betreffen ausschließlich die Fahrten in Richtung Innenstadt. Bei den Fahrten aus der Stadt heraus halten alle S-Bahn-Züge weiterhin wie gewohnt in Laim. Fahrgäste, die aus Richtung Pasing kommen und mit den Linien S3, S4, S6 oder S8 nach Laim fahren: Diese Linien halten in Richtung Stadtzentrum nicht mehr am Bahnhof Laim. Fahrgäste, die nach Laim fahren möchten, werden gebeten, mit der S-Bahn bis Hirschgarten weiterzufahren, dort auf demselben Bahnsteig umzusteigen und dann mit der nächsten S-Bahn zurück nach Laim zu fahren.  Mit einem für Laim gültigen Fahrschein ist es möglich, bis Hirschgarten weiterzufahren und dann zurück nach Laim zu fahren. Durch den zusätzlichen Umstieg kann sich die Fahrzeit verlängern. Den Fahrgästen wird empfohlen, vor Fahrtantritt die Anschlussinformationen zu überprüfen, die aktuellen Fahrgastinformationen im Zug und am Bahnhof zu beachten und insbesondere zu Beginn des Schuljahres sowie in den ersten Tagen des Betriebs die zusätzliche Fahrzeit einzuplanen. Kurz zusammengefasst: Bauarbeiten am Bahnhof Laim vom 25.08.2026 bis voraussichtlich Mitte 2028 Die Linien S3, S4, S6 und S8 halten stadteinwärts nicht in Laim. Stadtauswärts ergeben sich keine Änderungen. Fahrgäste mit Ziel Laim fahren bitte bis Hirschgarten weiter, steigen dort um und fahren mit der nächsten S-Bahn zurück nach Laim. Kein zusätzliches Ticket erforderlich. Die Linien S1, S2 und S5 sind nicht betroffen und halten weiterhin in beiden Fahrtrichtungen in Laim.",
     "severity": 2,
@@ -40,7 +53,6 @@
   },
   "56e110b43a01a8a2": {
     "description": "Wir werden Ihnen umgehend mitteilen, wenn uns nähere Informationen vorliegen.\n\nAlle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen",
-    "message_id": "1570106740228362334",
     "severity": 3,
     "stations": [
       "Hackerbrücke",
@@ -94,6 +106,19 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1790932440000,
     "validTo": 1796956200000
+  },
+  "a8f1e2d915daa70d": {
+    "description": "Der Grund hierfür ist eine Reparatur an einem Signal.",
+    "message_id": "1570113581381460109",
+    "severity": 3,
+    "stations": [
+      "Ostbahnhof",
+      "Giesing"
+    ],
+    "title": "Reparatur an einem Signal - Zwischen Ostbahnhof und Giesing kommt es zusätzlich zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
+    "type": "INCIDENT",
+    "validFrom": 1794409800000,
+    "validTo": 1794418200000
   },
   "d86e876417a04d47": {
     "description": "Wegen Instandhaltungsarbeiten besteht in den Nächten von Montag/Dienstag, 09./10.11., bis Mittwoch/Donnerstag, 11./12.11.26, jeweils von 21:45 Uhr bis 3 Uhr Ersatzverkehr mit Bussen zwischen Maisach und Mammendorf.",
