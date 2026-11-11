@@ -12,9 +12,21 @@
     "validFrom": 1793530680000,
     "validTo": 1794882600000
   },
+  "28088f16f68c0b2f": {
+    "description": "Die Reparatur an einem Signal wurde beendet.",
+    "message_id": "1570121159779950607",
+    "severity": 3,
+    "stations": [
+      "Ostbahnhof",
+      "Giesing"
+    ],
+    "title": "S3 / S5 Ostbahnhof ↔ Giesing - Zwischen Ostbahnhof und Giesing kommt es zu keinen Beeinträchtigungen mehr.",
+    "type": "INCIDENT",
+    "validFrom": 1794409800000,
+    "validTo": 1794418200000
+  },
   "2debc90411ef110b": {
     "description": "Der Grund hierfür ist eine Reparatur an einem Signal.",
-    "message_id": "1570113579380908096",
     "severity": 1,
     "stations": [
       "Deisenhofen",
@@ -106,19 +118,6 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1790932440000,
     "validTo": 1796956200000
-  },
-  "a8f1e2d915daa70d": {
-    "description": "Der Grund hierfür ist eine Reparatur an einem Signal.",
-    "message_id": "1570113581381460109",
-    "severity": 3,
-    "stations": [
-      "Ostbahnhof",
-      "Giesing"
-    ],
-    "title": "Reparatur an einem Signal - Zwischen Ostbahnhof und Giesing kommt es zusätzlich zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
-    "type": "INCIDENT",
-    "validFrom": 1794409800000,
-    "validTo": 1794418200000
   },
   "d86e876417a04d47": {
     "description": "Wegen Instandhaltungsarbeiten besteht in den Nächten von Montag/Dienstag, 09./10.11., bis Mittwoch/Donnerstag, 11./12.11.26, jeweils von 21:45 Uhr bis 3 Uhr Ersatzverkehr mit Bussen zwischen Maisach und Mammendorf.",
