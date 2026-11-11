@@ -53,14 +53,13 @@
   },
   "71b01e90f64c1255": {
     "description": "Der Grund hierfür ist eine Reparatur an einem Signal.",
-    "message_id": "1570091019926642729",
     "severity": 1,
     "stations": [
       "Deisenhofen",
       "Holzkirchen"
     ],
     "title": "Reparatur an einem Signal - Zwischen Deisenhofen und Holzkirchen kommt es zu Verspätungen von bis zu 10 Minuten und vereinzelten Teilausfällen.",
-    "type": "SCHEDULE_CHANGE",
+    "type": "INCIDENT",
     "validFrom": 1794409020000,
     "validTo": 1794412800000
   },
@@ -105,5 +104,18 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1792069380000,
     "validTo": 1794448800000
+  },
+  "ddceda7ed179911c": {
+    "description": "Der Grund hierfür ist eine Reparatur an einem Signal.",
+    "message_id": "1570098477797613599",
+    "severity": 3,
+    "stations": [
+      "Ostbahnhof",
+      "Giesing"
+    ],
+    "title": "Reparatur an einem Signal - Zwischen Ostbahnhof und Giesing kommt es zusätzlich zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
+    "type": "INCIDENT",
+    "validFrom": 1794409800000,
+    "validTo": 1794412800000
   }
 }
