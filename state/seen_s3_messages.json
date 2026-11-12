@@ -14,7 +14,6 @@
   },
   "0ff31e1a6c0de48e": {
     "description": "**Die Linie S 8 verkehrt als einzige Linie auf dem Regelweg durch die Stammstrecke (Pasing ↔ Ostbahnhof).**\n\nDie S-Bahnen fahren wie folgt:\n\n**S 1 Freising/Flughafen ↔ Leuchtenbergring**\n\n- Die S1 verkehrt nur **Hauptbahnhof** ↔ **Freising/Flughafen**. Die Halte **zwischen Hauptbahnhof ↔ Moosach** entfallen.\n\n**2 Petershausen/Altomünster ↔ Erding**\n\n- Die S2 wird zwischen **Obermenzing** ↔ **Ostbahnhof Gleis 7-13 (Fernbahn)** in beide Richtungen umgeleitet und die Stammstrecke wird nicht angefahren. Die Halte **Leuchtenbergring** und **Berg am Laim** entfallen.\n\n**Alternativen:**\n\n- Ostbahnhof ↔ Leuchtenbergring: **S8**\n- Ostbahnhof ↔ Berg am Laim: **S6**\n\n**Information:** Baustellenbedingter Ersatzverkehr mit Bussen zwischen Mark Schwaben und Erding\n\n**S 3 Mammendorf ↔ Holzkirchen**\n\n- Die S3 verkehrt nur **Mammendorf** ↔ **Pasing**.\n- Die S3 verkehrt nur **Holzkirchen** ↔ **Ostbahnhof**.\n\n**S 4 Geltendorf ↔ Trudering**\n\n- Die S4 verkehrt nur **Geltendorf** ↔ **Hauptbahnhof Gleise 27-36**. Ohne Halt zwischen **Pasing** ↔ **Hauptbahnhof.**\n\n**S 5 Kreuzstraße ↔ Pasing**\n\n- Die S5 verkehrt nur **Kreuzstraße** ↔ **Ostbahnhof**.\n\n**S 6 Tutzing ↔ Ebersberg**\n\n- Die S6 verkehrt nur **Tutzing** ↔ **Pasing**.\n- Die S6 verkehrt nur **Ebersberg** ↔ **Ostbahnhof**\n\n**Information:** Baustellenbedingter Ersatzverkehr mit Bussen zwischen Pasing und Gauting\n\n**S 7 Wolfratshausen ↔ Hauptbahnhof Gleis 36**\n\n- Die S7 verkehrt auf dem Regelweg zwischen **Wolfratshausen ↔ Hauptbahnhof Gleis 36**\n\n**S 8 Herrsching ↔ Flughafen**\n\n- **Die S8 verkehrt auf dem Regelweg durch die Stammstrecke mit allen geplanten Halten.**\n\nInformieren Sie sich wegen Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.\n\nBitte beachten Sie für mögliche Gleisänderungen die Ansagen und Anzeigen am Bahnsteig.\n\nDB-Fahrscheine werden für die Dauer der Störung in den Verkehrsmitteln der MVG (U-Bahn, Bus, Tram) anerkannt.",
-    "message_id": "1570521267705225257",
     "severity": 3,
     "stations": [
       "München Hbf",
@@ -97,17 +96,5 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1790932440000,
     "validTo": 1796956200000
-  },
-  "9fd077b6c4c4c191": {
-    "description": "Es kommt noch zu Folgeverspätungen und Teilausfällen.\n\nDie ärztliche Versorgung eines Fahrgastes wurde beendet.",
-    "severity": 1,
-    "stations": [
-      "Mammendorf",
-      "Lochhausen"
-    ],
-    "title": "S 3 Lochhausen in Richtung Mammendorf - Die Züge können wieder im Bereich Lochhausen in Richtung Mammendorf fahren.",
-    "type": "INCIDENT",
-    "validFrom": 1794504780000,
-    "validTo": 1794513600000
   }
 }
