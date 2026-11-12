@@ -93,29 +93,5 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1790932440000,
     "validTo": 1796956200000
-  },
-  "d86e876417a04d47": {
-    "description": "Wegen Instandhaltungsarbeiten besteht in den Nächten von Montag/Dienstag, 09./10.11., bis Mittwoch/Donnerstag, 11./12.11.26, jeweils von 21:45 Uhr bis 3 Uhr Ersatzverkehr mit Bussen zwischen Maisach und Mammendorf.",
-    "severity": 1,
-    "stations": [
-      "Mammendorf",
-      "Maisach"
-    ],
-    "title": "Ersatzverkehr zwischen Maisach und Mammendorf (Nächte 09./10. bis 11./12.11.26)",
-    "type": "SCHEDULE_CHANGE",
-    "validFrom": 1792069380000,
-    "validTo": 1794448800000
-  },
-  "fd6a923a347b6b0d": {
-    "description": "Der Grund hierfür ist eine Reparatur an der Strecke.",
-    "severity": 1,
-    "stations": [
-      "Deisenhofen",
-      "Holzkirchen"
-    ],
-    "title": "S3 Deisenhofen ↔ Holzkirchen: Reparatur an der Strecke - Zwischen Deisenhofen und Holzkirchen kommt es zu Verspätungen von bis zu 10 Minuten und vereinzelten Teilausfällen.",
-    "type": "INCIDENT",
-    "validFrom": 1794409020000,
-    "validTo": 1794437940000
   }
 }
