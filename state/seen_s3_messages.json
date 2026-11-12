@@ -93,5 +93,19 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1790932440000,
     "validTo": 1796956200000
+  },
+  "d9698141d952e2a4": {
+    "description": "Der Grund hierfür ist die ärztliche Versorgung eines Fahrgastes im ICE bei Lochhausen.",
+    "message_id": "1570498658195996804",
+    "severity": 2,
+    "stations": [
+      "Mammendorf",
+      "Lochhausen",
+      "Pasing"
+    ],
+    "title": "Ärztliche Versorgung eines Fahrgastes - Zwischen Pasing und Mammendorf kommt es zu Verspätungen und Umleitungen .",
+    "type": "INCIDENT",
+    "validFrom": 1794504780000,
+    "validTo": 1794510000000
   }
 }
