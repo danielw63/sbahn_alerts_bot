@@ -93,5 +93,18 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1790932440000,
     "validTo": 1796956200000
+  },
+  "cf10d2c7ae8d078d": {
+    "description": "Es kommt noch zu Folgeverspätungen von 10 bis 15 Minuten.\n\nDie unbefugte Person hat die Strecke verlassen.",
+    "message_id": "1570370248731918378",
+    "severity": 3,
+    "stations": [
+      "Ostbahnhof",
+      "Pasing"
+    ],
+    "title": "Stammstrecke Ostbahnhof ↔ Pasing - Die Züge können wieder zwischen Ostbahnhof und Pasing fahren.",
+    "type": "INCIDENT",
+    "validFrom": 1794474060000,
+    "validTo": 1794477600000
   }
 }
