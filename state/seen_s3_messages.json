@@ -12,19 +12,6 @@
     "validFrom": 1793530680000,
     "validTo": 1794882600000
   },
-  "40f4588ec875e03c": {
-    "description": "Wir werden Ihnen umgehend mitteilen, wenn uns nähere Informationen vorliegen.\n\nAlle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen",
-    "severity": 3,
-    "stations": [
-      "Hackerbrücke",
-      "Ostbahnhof",
-      "Pasing"
-    ],
-    "title": "wegen kurzfristigen Bauarbeiten am Herzstück einer Weiche an der Hackerbrücke kommt es zwischen Ostbahnhof und Pasing in der Nacht vom 12. auf 13. November 2026 von 00:30 Uhr bis 04:30 Uhr zu Fahrplanänderungen mit Änderungen in der Linienführung, Verspätungen und Teilausfällen.",
-    "type": "SCHEDULE_CHANGE",
-    "validFrom": 1794485460000,
-    "validTo": 1794508200000
-  },
   "4e1e7061296b411c": {
     "description": "Ab dem 25. August 2026 ist aufgrund von Bauarbeiten am Bahnhof Laim bis Mitte 2028 mit Änderungen bei den Fahrten in Richtung Münchner Innenstadt zu rechnen. Diese Änderungen betreffen ausschließlich die Fahrten in Richtung Innenstadt. Bei den Fahrten aus der Stadt heraus halten alle S-Bahn-Züge weiterhin wie gewohnt in Laim. Fahrgäste, die aus Richtung Pasing kommen und mit den Linien S3, S4, S6 oder S8 nach Laim fahren: Diese Linien halten in Richtung Stadtzentrum nicht mehr am Bahnhof Laim. Fahrgäste, die nach Laim fahren möchten, werden gebeten, mit der S-Bahn bis Hirschgarten weiterzufahren, dort auf demselben Bahnsteig umzusteigen und dann mit der nächsten S-Bahn zurück nach Laim zu fahren.  Mit einem für Laim gültigen Fahrschein ist es möglich, bis Hirschgarten weiterzufahren und dann zurück nach Laim zu fahren. Durch den zusätzlichen Umstieg kann sich die Fahrzeit verlängern. Den Fahrgästen wird empfohlen, vor Fahrtantritt die Anschlussinformationen zu überprüfen, die aktuellen Fahrgastinformationen im Zug und am Bahnhof zu beachten und insbesondere zu Beginn des Schuljahres sowie in den ersten Tagen des Betriebs die zusätzliche Fahrzeit einzuplanen. Kurz zusammengefasst: Bauarbeiten am Bahnhof Laim vom 25.08.2026 bis voraussichtlich Mitte 2028 Die Linien S3, S4, S6 und S8 halten stadteinwärts nicht in Laim. Stadtauswärts ergeben sich keine Änderungen. Fahrgäste mit Ziel Laim fahren bitte bis Hirschgarten weiter, steigen dort um und fahren mit der nächsten S-Bahn zurück nach Laim. Kein zusätzliches Ticket erforderlich. Die Linien S1, S2 und S5 sind nicht betroffen und halten weiterhin in beiden Fahrtrichtungen in Laim.",
     "severity": 2,
@@ -64,6 +51,18 @@
     "validFrom": 1791550800000,
     "validTo": 1851371940000
   },
+  "7c533079aa3a5769": {
+    "description": "Die S-Bahnen werden derzeit zurückgehalten.\n\nEs kommt zu Verspätungen und Umleitungen .\n\nDer Grund hierfür ist die ärztliche Versorgung eines Fahrgastes im ICE bei Lochhausen.",
+    "message_id": "1570506156353392712",
+    "severity": 1,
+    "stations": [
+      "Lochhausen"
+    ],
+    "title": "Ärztliche Versorgung eines Fahrgastes - Im Bereich Lochhausen sind keine Zugfahrten möglich.",
+    "type": "INCIDENT",
+    "validFrom": 1794504780000,
+    "validTo": 1794510000000
+  },
   "970172b4fe597894": {
     "description": "Auf Grund von Bauarbeiten in Pasing kommt es in der Nacht 16./17. November 2026 zwischen 22:10 und 4:40 Uhr zwischen Ostbahnhof und Pasing zu folgenden Fahrplanänderungen:\n\n- S1: Die Züge fahren grundsätzlich planmäßig. Die Züge mit planmäßiger Abfahrt um 3:31 und 4:01 Uhr fahren zwischen Leuchtenbergring und Moosach 5 Minuten früher.\n- S2: Die Züge fahren planmäßig.\n- S3: Die Züge in/aus Richtung Holzkirchen beginnen/enden an der Hackerbrücke. Die Züge in/aus Richtung Mammendorf beginnen/enden in Pasing.\n- S4: Die Züge in/aus Richtung Geltendorf beginnen/enden in Pasing. Die Züge in/aus Richtung Trudering fallen zwischen Pasing und Trudering aus.\n- S5: Die Züge in/aus Richtung Kreuzstraße beginnen/enden am Ostbahnhof. Die Züge in/aus Richtung Pasing fallen zwischen Ostbahnhof und Pasing aus.\n- S6: Die Züge in Richtung Tutzing erhalten zwischen Ostbahnhof und Pasing etwa 10 Minuten Verspätung. Die Züge in Richtung Ebersberg fahren planmäßig. Zwischen Pasing und Gauting besteht wegen gleichzeitiger Bauarbeiten Ersatzverkehr mit Bussen.\n- S7: Die Züge fahren planmäßig.\n- S8: Die Züge aus Richtung Flughafen fahren ab Daglfing ohne Halt zum Ostbahnhof und weiter ohne Halt bis Pasing nach Herrsching. Die Züge aus Richtung Herrsching fahren ab Pasing ohne Halt bis Ostbahnhof und weiter ohne Halt bis Daglfing zum Flughafen.",
     "severity": 3,
@@ -93,19 +92,5 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1790932440000,
     "validTo": 1796956200000
-  },
-  "d9698141d952e2a4": {
-    "description": "Der Grund hierfür ist die ärztliche Versorgung eines Fahrgastes im ICE bei Lochhausen.",
-    "message_id": "1570498658195996804",
-    "severity": 2,
-    "stations": [
-      "Mammendorf",
-      "Lochhausen",
-      "Pasing"
-    ],
-    "title": "Ärztliche Versorgung eines Fahrgastes - Zwischen Pasing und Mammendorf kommt es zu Verspätungen und Umleitungen .",
-    "type": "INCIDENT",
-    "validFrom": 1794504780000,
-    "validTo": 1794510000000
   }
 }
