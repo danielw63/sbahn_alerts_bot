@@ -51,6 +51,20 @@
     "validFrom": 1791550800000,
     "validTo": 1851371940000
   },
+  "5c372b6ca2d2b1ac": {
+    "description": "**Die S-Bahn Station Berg am Laim wird während der Baustelle nicht angefahren. Bitte fahren Sie mit den anderen Verkehrsmitteln des MVV (Richtung Ostbahnhof:** **Tram 21****, Richtung Riem: Bus 190, Richtung Trudering: Bus 185).**\n\n**Änderung im Fahrplan:**\n\n**S1:**\n\n- **Züge** in/aus Richtung **Freising/Flughafen** beginnen/enden am **Ostbahnhof** und **fallen** zwischen **Ostbahnhof** und **Leuchtenbergring aus**\n\n**S2:**\n\n- **Züge** in/aus Richtung **Erding** beginnen/enden am **Ostbahnhof Gl. 6-13** und fahren von/bis **Riem ohne Halt.** **Zwischen Markt Schwaben und Erding besteht wegen anderer Bauarbeiten Ersatzverkehr mit Bus** (siehe gesonderte Plakate)\n- **Züge** in/aus Richtung **Petershausen/Altomünster** beginnen/enden am **Ostbahnhof**\n\n**S4:**\n\n- **Züge** in/aus Richtung **Geltendorf** beginnen/enden in **Pasing**\n- **Züge** in/aus Richtung **Zorneding/Trudering fallen** zwischen **Pasing** und **Trudering/Zorneding aus**\n\n**S6:**\n\n- **Züge** in/aus Richtung **Ebersberg** beginnen/enden in **Trudering**\n- **Züge** in/aus Richtung **Tutzing** beginnen/enden in **Gauting**. **Zwischen Pasing und Gauting besteht wegen anderer Bauarbeiten Ersatzverkehr mit Bus** (siehe gesonderte Plakate).\n- **Züge** der **S6 fallen** zwischen **Trudering** und **Gauting aus**\n\n**S8:**\n\n- **Züge** aus Richtung **Flughafen** nach **Herrsching** fahren abweichend am **Leuchtenbergring** von **Gleis 4**\n\n**Hinweis:**\n\nWegen **Bauarbeiten** zur **U5** ist der **Fahrradtunnel (Wolkentunnel)** in **Pasing** vom **2.11.-23.12.26,** und vom **4.1.-6.2.27, gesperrt.** Der **Zugang** zu den **Bahnsteigen** ist **von Norden** weiterhin **möglich.** Details dazu ➡️ Baustellen mit Verkehrseinschränkungen – Landeshauptstadt München",
+    "message_id": "1570883644057198593",
+    "severity": 3,
+    "stations": [
+      "Ostbahnhof",
+      "Pasing",
+      "Laim"
+    ],
+    "title": "Wegen Bauarbeiten zur 2. Stammstrecke am Leuchtenbergring kommt es zwischen Pasing ↔ Ostbahnhof/Trudering/Leuchtenbergring/Riem von Freitag, 13.11., ab 22:10 Uhr, durchgehend bis Montag, 16.11.2026, 4:40 Uhr zu Fahrplanänderungen mit Umleitungen und Haltausfällen.",
+    "type": "SCHEDULE_CHANGE",
+    "validFrom": 1794596400000,
+    "validTo": 1794800400000
+  },
   "970172b4fe597894": {
     "description": "Auf Grund von Bauarbeiten in Pasing kommt es in der Nacht 16./17. November 2026 zwischen 22:10 und 4:40 Uhr zwischen Ostbahnhof und Pasing zu folgenden Fahrplanänderungen:\n\n- S1: Die Züge fahren grundsätzlich planmäßig. Die Züge mit planmäßiger Abfahrt um 3:31 und 4:01 Uhr fahren zwischen Leuchtenbergring und Moosach 5 Minuten früher.\n- S2: Die Züge fahren planmäßig.\n- S3: Die Züge in/aus Richtung Holzkirchen beginnen/enden an der Hackerbrücke. Die Züge in/aus Richtung Mammendorf beginnen/enden in Pasing.\n- S4: Die Züge in/aus Richtung Geltendorf beginnen/enden in Pasing. Die Züge in/aus Richtung Trudering fallen zwischen Pasing und Trudering aus.\n- S5: Die Züge in/aus Richtung Kreuzstraße beginnen/enden am Ostbahnhof. Die Züge in/aus Richtung Pasing fallen zwischen Ostbahnhof und Pasing aus.\n- S6: Die Züge in Richtung Tutzing erhalten zwischen Ostbahnhof und Pasing etwa 10 Minuten Verspätung. Die Züge in Richtung Ebersberg fahren planmäßig. Zwischen Pasing und Gauting besteht wegen gleichzeitiger Bauarbeiten Ersatzverkehr mit Bussen.\n- S7: Die Züge fahren planmäßig.\n- S8: Die Züge aus Richtung Flughafen fahren ab Daglfing ohne Halt zum Ostbahnhof und weiter ohne Halt bis Pasing nach Herrsching. Die Züge aus Richtung Herrsching fahren ab Pasing ohne Halt bis Ostbahnhof und weiter ohne Halt bis Daglfing zum Flughafen.",
     "severity": 3,
