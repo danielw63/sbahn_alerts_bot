@@ -12,22 +12,6 @@
     "validFrom": 1793530680000,
     "validTo": 1794882600000
   },
-  "0ff31e1a6c0de48e": {
-    "description": "**Die Linie S 8 verkehrt als einzige Linie auf dem Regelweg durch die Stammstrecke (Pasing ↔ Ostbahnhof).**\n\nDie S-Bahnen fahren wie folgt:\n\n**S 1 Freising/Flughafen ↔ Leuchtenbergring**\n\n- Die S1 verkehrt nur **Hauptbahnhof** ↔ **Freising/Flughafen**. Die Halte **zwischen Hauptbahnhof ↔ Moosach** entfallen.\n\n**2 Petershausen/Altomünster ↔ Erding**\n\n- Die S2 wird zwischen **Obermenzing** ↔ **Ostbahnhof Gleis 7-13 (Fernbahn)** in beide Richtungen umgeleitet und die Stammstrecke wird nicht angefahren. Die Halte **Leuchtenbergring** und **Berg am Laim** entfallen.\n\n**Alternativen:**\n\n- Ostbahnhof ↔ Leuchtenbergring: **S8**\n- Ostbahnhof ↔ Berg am Laim: **S6**\n\n**Information:** Baustellenbedingter Ersatzverkehr mit Bussen zwischen Mark Schwaben und Erding\n\n**S 3 Mammendorf ↔ Holzkirchen**\n\n- Die S3 verkehrt nur **Mammendorf** ↔ **Pasing**.\n- Die S3 verkehrt nur **Holzkirchen** ↔ **Ostbahnhof**.\n\n**S 4 Geltendorf ↔ Trudering**\n\n- Die S4 verkehrt nur **Geltendorf** ↔ **Hauptbahnhof Gleise 27-36**. Ohne Halt zwischen **Pasing** ↔ **Hauptbahnhof.**\n\n**S 5 Kreuzstraße ↔ Pasing**\n\n- Die S5 verkehrt nur **Kreuzstraße** ↔ **Ostbahnhof**.\n\n**S 6 Tutzing ↔ Ebersberg**\n\n- Die S6 verkehrt nur **Tutzing** ↔ **Pasing**.\n- Die S6 verkehrt nur **Ebersberg** ↔ **Ostbahnhof**\n\n**Information:** Baustellenbedingter Ersatzverkehr mit Bussen zwischen Pasing und Gauting\n\n**S 7 Wolfratshausen ↔ Hauptbahnhof Gleis 36**\n\n- Die S7 verkehrt auf dem Regelweg zwischen **Wolfratshausen ↔ Hauptbahnhof Gleis 36**\n\n**S 8 Herrsching ↔ Flughafen**\n\n- **Die S8 verkehrt auf dem Regelweg durch die Stammstrecke mit allen geplanten Halten.**\n\nInformieren Sie sich wegen Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.\n\nBitte beachten Sie für mögliche Gleisänderungen die Ansagen und Anzeigen am Bahnsteig.\n\nDB-Fahrscheine werden für die Dauer der Störung in den Verkehrsmitteln der MVG (U-Bahn, Bus, Tram) anerkannt.",
-    "severity": 3,
-    "stations": [
-      "München Hbf",
-      "Holzkirchen",
-      "Mammendorf",
-      "Ostbahnhof",
-      "Pasing",
-      "Laim"
-    ],
-    "title": "Wegen kurzfristigen Bauarbeiten am Herzstück einer Weiche kommt es zwischen Ostbahnhof und Pasing in der Nacht vom 12. auf 13. November 2026 von 00:30 Uhr bis 04:30 zu Fahrplanänderungen mit Änderungen in der Linienführung und Verspätungen .",
-    "type": "SCHEDULE_CHANGE",
-    "validFrom": 1794510000000,
-    "validTo": 1794540600000
-  },
   "4e1e7061296b411c": {
     "description": "Ab dem 25. August 2026 ist aufgrund von Bauarbeiten am Bahnhof Laim bis Mitte 2028 mit Änderungen bei den Fahrten in Richtung Münchner Innenstadt zu rechnen. Diese Änderungen betreffen ausschließlich die Fahrten in Richtung Innenstadt. Bei den Fahrten aus der Stadt heraus halten alle S-Bahn-Züge weiterhin wie gewohnt in Laim. Fahrgäste, die aus Richtung Pasing kommen und mit den Linien S3, S4, S6 oder S8 nach Laim fahren: Diese Linien halten in Richtung Stadtzentrum nicht mehr am Bahnhof Laim. Fahrgäste, die nach Laim fahren möchten, werden gebeten, mit der S-Bahn bis Hirschgarten weiterzufahren, dort auf demselben Bahnsteig umzusteigen und dann mit der nächsten S-Bahn zurück nach Laim zu fahren.  Mit einem für Laim gültigen Fahrschein ist es möglich, bis Hirschgarten weiterzufahren und dann zurück nach Laim zu fahren. Durch den zusätzlichen Umstieg kann sich die Fahrzeit verlängern. Den Fahrgästen wird empfohlen, vor Fahrtantritt die Anschlussinformationen zu überprüfen, die aktuellen Fahrgastinformationen im Zug und am Bahnhof zu beachten und insbesondere zu Beginn des Schuljahres sowie in den ersten Tagen des Betriebs die zusätzliche Fahrzeit einzuplanen. Kurz zusammengefasst: Bauarbeiten am Bahnhof Laim vom 25.08.2026 bis voraussichtlich Mitte 2028 Die Linien S3, S4, S6 und S8 halten stadteinwärts nicht in Laim. Stadtauswärts ergeben sich keine Änderungen. Fahrgäste mit Ziel Laim fahren bitte bis Hirschgarten weiter, steigen dort um und fahren mit der nächsten S-Bahn zurück nach Laim. Kein zusätzliches Ticket erforderlich. Die Linien S1, S2 und S5 sind nicht betroffen und halten weiterhin in beiden Fahrtrichtungen in Laim.",
     "severity": 2,
