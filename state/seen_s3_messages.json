@@ -93,20 +93,5 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1790932440000,
     "validTo": 1796956200000
-  },
-  "b31d1f626c59cbe2": {
-    "description": "Die S-Bahnen werden derzeit zurückgehalten. Züge der Linie S5 sind nicht betroffen.\n\n**Alternative:**\n\n- Expressbus: X204 Unterhaching – Candidplatz (U1)\n- Bus: 221 Unterhaching - Ottobrunn\n- Bus: 222 Deisenhofen(O) – Höllriegelskreuth\n- Bus 241 Taufkirchen(W) - Ottobrunn-Haar\n\nEs kommt zu Verspätungen und Teilausfällen.\n\nWeitere Infos folgen.\n\nDer Grund hierfür sind behördliche Maßnahmen.",
-    "message_id": "1571253602532593665",
-    "severity": 3,
-    "stations": [
-      "Unterhaching",
-      "Taufkirchen",
-      "Deisenhofen",
-      "Giesing"
-    ],
-    "title": "Behördliche Maßnahme - Zwischen Giesing und Deisenhofen sind keine Zugfahrten möglich.",
-    "type": "INCIDENT",
-    "validFrom": 1794685440000,
-    "validTo": 1794690000000
   }
 }
