@@ -51,19 +51,6 @@
     "validFrom": 1791550800000,
     "validTo": 1851371940000
   },
-  "5a77b2b009991c31": {
-    "description": "ℹ️ **Zwischen dem Ostbahnhof und Giesing** nutzen Sie bitte den **Bus 54** oder die **U5** bis **Innsbrucker Ring** und dann die **U2** nach **Giesing.**\n\nGrund für diese Beeinträchtigungen ist ein Polizeieinsatz.",
-    "message_id": "1571540498454413366",
-    "severity": 3,
-    "stations": [
-      "Ostbahnhof",
-      "Giesing"
-    ],
-    "title": "Giesing: Polizeieinsatz  - Im Bereich Giesing sind bis auf weiteres keine Zugfahrten möglich.",
-    "type": "INCIDENT",
-    "validFrom": 1794753000000,
-    "validTo": 1794756600000
-  },
   "5c372b6ca2d2b1ac": {
     "description": "**Die S-Bahn Station Berg am Laim wird während der Baustelle nicht angefahren. Bitte fahren Sie mit den anderen Verkehrsmitteln des MVV (Richtung Ostbahnhof:** **Tram 21****, Richtung Riem: Bus 190, Richtung Trudering: Bus 185).**\n\n**Änderung im Fahrplan:**\n\n**S1:**\n\n- **Züge** in/aus Richtung **Freising/Flughafen** beginnen/enden am **Ostbahnhof** und **fallen** zwischen **Ostbahnhof** und **Leuchtenbergring aus**\n\n**S2:**\n\n- **Züge** in/aus Richtung **Erding** beginnen/enden am **Ostbahnhof Gl. 6-13** und fahren von/bis **Riem ohne Halt.** **Zwischen Markt Schwaben und Erding besteht wegen anderer Bauarbeiten Ersatzverkehr mit Bus** (siehe gesonderte Plakate)\n- **Züge** in/aus Richtung **Petershausen/Altomünster** beginnen/enden am **Ostbahnhof**\n\n**S4:**\n\n- **Züge** in/aus Richtung **Geltendorf** beginnen/enden in **Pasing**\n- **Züge** in/aus Richtung **Zorneding/Trudering fallen** zwischen **Pasing** und **Trudering/Zorneding aus**\n\n**S6:**\n\n- **Züge** in/aus Richtung **Ebersberg** beginnen/enden in **Trudering**\n- **Züge** in/aus Richtung **Tutzing** beginnen/enden in **Gauting**. **Zwischen Pasing und Gauting besteht wegen anderer Bauarbeiten Ersatzverkehr mit Bus** (siehe gesonderte Plakate).\n- **Züge** der **S6 fallen** zwischen **Trudering** und **Gauting aus**\n\n**S8:**\n\n- **Züge** aus Richtung **Flughafen** nach **Herrsching** fahren abweichend am **Leuchtenbergring** von **Gleis 4**\n\n**Hinweis:**\n\nWegen **Bauarbeiten** zur **U5** ist der **Fahrradtunnel (Wolkentunnel)** in **Pasing** vom **2.11.-23.12.26,** und vom **4.1.-6.2.27, gesperrt.** Der **Zugang** zu den **Bahnsteigen** ist **von Norden** weiterhin **möglich.** Details dazu ➡️ Baustellen mit Verkehrseinschränkungen – Landeshauptstadt München",
     "severity": 3,
