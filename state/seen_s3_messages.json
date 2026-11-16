@@ -80,5 +80,17 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1790932440000,
     "validTo": 1796956200000
+  },
+  "f29fae2fb5c9bb3f": {
+    "description": "Der Grund hierfür ist die ärztliche Versorgung eines Fahrgastes.",
+    "message_id": "1571789609862434927",
+    "severity": 3,
+    "stations": [
+      "Ostbahnhof"
+    ],
+    "title": "Ärztliche Versorgung eines Fahrgastes - Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von 5 bis 10 Minuten und Teilausfällen .",
+    "type": "INCIDENT",
+    "validFrom": 1794812460000,
+    "validTo": 1794816000000
   }
 }
