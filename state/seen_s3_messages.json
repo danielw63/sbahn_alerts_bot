@@ -17,7 +17,7 @@
     "severity": 3,
     "stations": [],
     "title": "-  Ab heute Abend, ca. 20 Uhr, kommt es wegen kurzfristig erforderlicher Bauarbeiten zu erheblichen Einschränkungen auf der Stammstrecke.",
-    "type": "SCHEDULE_CHANGE",
+    "type": "INCIDENT",
     "validFrom": 1794845460000,
     "validTo": 1794852000000
   },
