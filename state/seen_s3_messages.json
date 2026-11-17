@@ -1,24 +1,4 @@
 {
-  "4acb5347741c85fb": {
-    "description": "**Die S-Bahnen verkehren abweichend der regulären Linienführung wie folgt:**\n\n**Die S 1** entfällt zwischen **Leuchtenbergring** ↔ **Hauptbahnhof** und fährt abweichend der regulären Linienführung wie folgt:\n\n**S 1 Freising/Flughafen -> Hauptbahnhof (Gleise 27-36)**\n\n- Verkehrt von **Freising/Flughafen** -> **ohne Halt an der Hackerbrücke** → **Hauptbahnhof (Gleise 27-36).**\n- **Hauptbahnhof (Gleise 27-36) → Freising/Flughafen ohne Halt bis Moosach !!**\n\n**Alternativen:**\n\n - Moosach ↔ Marienplatz: **U3**\n - Feldmoching ↔ Hauptbahnhof: **U2**\n - Moosach ↔ Pasing: **Bus 162**\n\n**S 2 Petershausen/Altomünster ↔ Markt Schwaben**\n\n - Die Linie **S2** verkehrt in Richtung → **Markt Schwaben auf Regelweg** ab Markt Schwaben → Ersatzverkehr → Erding .\n - **S 2 Markt Schwaben → Petershausen** wird zwischen Riem und Obermenzing über den Ostbahnhof Gleis 7 - 13 (Fernbahn) umgeleitet und die Stammstrecke nicht angefahren. Die Halte Berg am Laim und Leuchtenbergring entfallen.\n - ℹ️ Beachten Sie die aktuellen **Bauarbeiten zwischen Dachau und Altomünster.** Zwischen **Erdweg und Altomünster** besteht **Ersatzverkehr** mit Bussen\n\n**S 3 Mammendorf ↔ Holzkirchen**\n\n- **Die Linie S 3 verkehrt auf dem Regelweg. Die S-Bahnen des 10-Minuten-Takts entfallen❗**\n\n**S 4 Geltendorf ↔ Trudering**\n\n- **Die Linie S 4 verkehrt auf dem Regelweg.**\n\n**S 5 Kreuzstraße ↔ Ostbahnhof**\n\n- Verkehrt nur **Kreuzstraße** ↔ **Ostbahnhof.**\n\n**Alternative:**\n\n - Giesing ↔ Pasing: **S 3** Richtung **Mammendorf**\n - Pasing ↔ Weßling: **S 8** Richtung **Herrsching**\n\n**S 6 Tutzing ↔ Gauting ↔ Ersatzverkehr ↔ Pasing**\n\n**Ostbahnhof ↔ Ebersberg**\n\n- Die S6 verkehrt nur **Tutzing** ↔ **Gauting**. Zwischen Gauting ↔ Pasing besteht wegen Bauarbeiten Ersatzverkehr mit Bussen.\n- Die S6 verkehrt nur **Ebersberg** ↔ **Ostbahnhof.**\n\n**S 7 Wolfratshausen ↔ Hauptbahnhof Gleis 36**\n\n- Die **S7** verkehrt auf dem Regelweg **Wolfratshausen ↔ Hauptbahnhof Gleis 36**\n\n**S 8 Herrsching ↔ Flughafen**\n\n- **Die Linie S 8 verkehrt auf dem Regelweg.**\n\n**S 20 Höllriegelskreuth ↔ Pasing**\n\n- **Die Linie S 20 verkehrt auf dem Regelweg.**\n\n**Bitte beachten Sie für mögliche Gleisänderungen die Ansagen und Anzeigen am Bahnsteig.**\n\n**Informieren Sie sich wegen eventueller Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.**",
-    "message_id": "1572265303138893826",
-    "severity": 3,
-    "stations": [
-      "Hackerbrücke",
-      "München Hbf",
-      "Marienplatz",
-      "Holzkirchen",
-      "Mammendorf",
-      "Ostbahnhof",
-      "Giesing",
-      "Pasing",
-      "Laim"
-    ],
-    "title": "Reparatur an der Strecke - wegen einer Reparatur an der Strecke kommt es auf der Stammstrecke bis voraussichtlich 18. November 2026, 10 Uhr, zu erheblichen Einschränkungen.\nAb 20 Uhr sind Bauarbeiten zur Behebung in Planung. Rechnen Sie mit Verspätungen und Zugausfällen.",
-    "type": "INCIDENT",
-    "validFrom": 1794884400000,
-    "validTo": 1794942000000
-  },
   "4e1e7061296b411c": {
     "description": "Ab dem 25. August 2026 ist aufgrund von Bauarbeiten am Bahnhof Laim bis Mitte 2028 mit Änderungen bei den Fahrten in Richtung Münchner Innenstadt zu rechnen. Diese Änderungen betreffen ausschließlich die Fahrten in Richtung Innenstadt. Bei den Fahrten aus der Stadt heraus halten alle S-Bahn-Züge weiterhin wie gewohnt in Laim. Fahrgäste, die aus Richtung Pasing kommen und mit den Linien S3, S4, S6 oder S8 nach Laim fahren: Diese Linien halten in Richtung Stadtzentrum nicht mehr am Bahnhof Laim. Fahrgäste, die nach Laim fahren möchten, werden gebeten, mit der S-Bahn bis Hirschgarten weiterzufahren, dort auf demselben Bahnsteig umzusteigen und dann mit der nächsten S-Bahn zurück nach Laim zu fahren.  Mit einem für Laim gültigen Fahrschein ist es möglich, bis Hirschgarten weiterzufahren und dann zurück nach Laim zu fahren. Durch den zusätzlichen Umstieg kann sich die Fahrzeit verlängern. Den Fahrgästen wird empfohlen, vor Fahrtantritt die Anschlussinformationen zu überprüfen, die aktuellen Fahrgastinformationen im Zug und am Bahnhof zu beachten und insbesondere zu Beginn des Schuljahres sowie in den ersten Tagen des Betriebs die zusätzliche Fahrzeit einzuplanen. Kurz zusammengefasst: Bauarbeiten am Bahnhof Laim vom 25.08.2026 bis voraussichtlich Mitte 2028 Die Linien S3, S4, S6 und S8 halten stadteinwärts nicht in Laim. Stadtauswärts ergeben sich keine Änderungen. Fahrgäste mit Ziel Laim fahren bitte bis Hirschgarten weiter, steigen dort um und fahren mit der nächsten S-Bahn zurück nach Laim. Kein zusätzliches Ticket erforderlich. Die Linien S1, S2 und S5 sind nicht betroffen und halten weiterhin in beiden Fahrtrichtungen in Laim.",
     "severity": 2,
