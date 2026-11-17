@@ -1,21 +1,4 @@
 {
-  "4a196e14f11ad595": {
-    "description": "**ℹ️ Zwischen Pasing (Carossastraße) und Laimer Platz (Bushaltestelle 57), haben wir einen Ersatzverkehr mit Bussen eingerichtet.**\n\n**Ab Laimer Platz besteht Anschluss zur U-Bahnlinie 5 zum Ostbahnhof.**\n\n**Die S-Bahnen verkehren abweichend der regulären Linienführung wie folgt:**\n\n**S 1 Freising / Flughafen**\n\nDie S-Bahnen verkehren in beide Richtungen **OHNE HALT** zwischen Moosach und Hauptbahnhof Gleis 32.\n\n**S 2 Petershausen / Altomünster - Markt Schwaben**\n\nDie S-Bahnen werden in beide Richtungen zwischen Riem und Obermenzing über den Ostbahnhof Gleis 7 - 13 (Fernbahn) umgeleitet und die Stammstrecke nicht angefahren. Die Halte Berg am Laim und Leuchtenbergring entfallen.\n\n**S 3 Mammendorf**\n\nDie S-Bahnen beginnen/enden in Pasing auf Gleis 7.\n\n**S 3 Holzkirchen**\n\nDie S-Bahnen beginnen/enden am Ostbahnhof.\n\n**S 4 Geltendorf**\n\nDie S-Bahnen beginnen/enden am Hauptbahnhof Gleis 35 ohne Halt zwischen Pasing und Hauptbahnhof.\n\n**S5 Kreuzstraße – Pasing**\n\nDie S-Bahnen zwischen Pasing und Ostbahnhof fallen aus.\n\n**S 6 Tutzing**\n\nDie S-Bahnen beginnen/enden in Gauting, und fahren nach Baustellenfahrplan.\n\n**S 6 Ebersberg**\n\nDie S-Bahnen beginnen/enden am Ostbahnhof Gleis 1 oder 2.\n\n**S 7 Wolfratshausen**\n\nDie S-Bahnen verkehren auf dem Regelweg.\n\n**S 8 Herrsching - Flughafen**\n\nDie S-Bahnen werden vom Ostbahnhof (Gleis 7 - 13) in Richtung Pasing umgeleitet und die Stammstrecke wird nicht angefahren. Der Halt Leuchtenbergring entfällt.\n\nVon Herrsching in Richtung Flughafen fahren die S-Bahnen auf Regelweg.\n\n**Die S-Bahnen des 10-Minuten-Takts entfallen morgen Früh (18.11.26)**\n\n**Bitte beachten Sie für mögliche Gleisänderungen die Ansagen und Anzeigen am Bahnsteig.**\n\n**Informieren sie sich über ihre Alternativen unter https://www.s-bahn-muenchen.de/fahren/betriebslage und im München Navigator.**",
-    "message_id": "1572302999131259052",
-    "severity": 3,
-    "stations": [
-      "München Hbf",
-      "Holzkirchen",
-      "Mammendorf",
-      "Ostbahnhof",
-      "Pasing",
-      "Laim"
-    ],
-    "title": "Kurzfristige Bauarbeiten auf der Stammstrecke in der Nacht vom 17.11.26 auf den 18.11.26 - Ab heute Abend, ca. 20 Uhr, kommt es wegen kurzfristig erforderlicher Bauarbeiten zu erheblichen Einschränkungen auf der Stammstrecke. Es ist mit umfangreichen Änderungen bei den Linienführungen und weiteren Abweichungen sowie mit hohen Verspätungen und Zugausfällen zu rechnen. Die Auswirkungen werden voraussichtlich auch am Mittwoch, 18. November 2026, während des morgendlichen Berufsverkehrs noch spürbar sein. Auch dann kann es weiterhin zu Einschränkungen, Taktlücken, Verspätungen und vereinzelten Zugausfällen kommen.  Fahrgäste sollten sich vor Fahrtantritt über Ihre Verbindung informieren und mehr Reisezeit einplanen. Die S-Bahn empfiehlt, auch MVG-Verkehrsmittel zu nutzen und am Vormittag, den 18. November 2026 auf vermeidbare Fahrten zu verzichten.",
-    "type": "SCHEDULE_CHANGE",
-    "validFrom": 1794936540000,
-    "validTo": 1794978000000
-  },
   "4e1e7061296b411c": {
     "description": "Ab dem 25. August 2026 ist aufgrund von Bauarbeiten am Bahnhof Laim bis Mitte 2028 mit Änderungen bei den Fahrten in Richtung Münchner Innenstadt zu rechnen. Diese Änderungen betreffen ausschließlich die Fahrten in Richtung Innenstadt. Bei den Fahrten aus der Stadt heraus halten alle S-Bahn-Züge weiterhin wie gewohnt in Laim. Fahrgäste, die aus Richtung Pasing kommen und mit den Linien S3, S4, S6 oder S8 nach Laim fahren: Diese Linien halten in Richtung Stadtzentrum nicht mehr am Bahnhof Laim. Fahrgäste, die nach Laim fahren möchten, werden gebeten, mit der S-Bahn bis Hirschgarten weiterzufahren, dort auf demselben Bahnsteig umzusteigen und dann mit der nächsten S-Bahn zurück nach Laim zu fahren.  Mit einem für Laim gültigen Fahrschein ist es möglich, bis Hirschgarten weiterzufahren und dann zurück nach Laim zu fahren. Durch den zusätzlichen Umstieg kann sich die Fahrzeit verlängern. Den Fahrgästen wird empfohlen, vor Fahrtantritt die Anschlussinformationen zu überprüfen, die aktuellen Fahrgastinformationen im Zug und am Bahnhof zu beachten und insbesondere zu Beginn des Schuljahres sowie in den ersten Tagen des Betriebs die zusätzliche Fahrzeit einzuplanen. Kurz zusammengefasst: Bauarbeiten am Bahnhof Laim vom 25.08.2026 bis voraussichtlich Mitte 2028 Die Linien S3, S4, S6 und S8 halten stadteinwärts nicht in Laim. Stadtauswärts ergeben sich keine Änderungen. Fahrgäste mit Ziel Laim fahren bitte bis Hirschgarten weiter, steigen dort um und fahren mit der nächsten S-Bahn zurück nach Laim. Kein zusätzliches Ticket erforderlich. Die Linien S1, S2 und S5 sind nicht betroffen und halten weiterhin in beiden Fahrtrichtungen in Laim.",
     "severity": 2,
@@ -69,5 +52,22 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1790932440000,
     "validTo": 1796956200000
+  },
+  "e460e86b3f17429e": {
+    "description": "**ℹ️ Zwischen Pasing (Carossastraße) und Laimer Platz (Bushaltestelle 57), haben wir einen Ersatzverkehr mit Bussen eingerichtet.**\n\n**Ab Laimer Platz besteht Anschluss zur U-Bahnlinie 5 zum Ostbahnhof.**\n\n**Die S-Bahnen verkehren abweichend der regulären Linienführung wie folgt:**\n\n**S 1 Freising / Flughafen**\n\nDie S-Bahnen verkehren in beide Richtungen **OHNE HALT** zwischen Moosach und Hauptbahnhof Gleis 32.\n\n**S 2 Petershausen / Altomünster - Markt Schwaben**\n\nDie S-Bahnen werden in beide Richtungen zwischen Riem und Obermenzing über den Ostbahnhof Gleis 7 - 13 (Fernbahn) umgeleitet und die Stammstrecke nicht angefahren. Die Halte Berg am Laim und Leuchtenbergring entfallen.\n\n**S 3 Mammendorf**\n\nDie S-Bahnen beginnen/enden in Pasing auf Gleis 7.\n\n**S 3 Holzkirchen**\n\nDie S-Bahnen beginnen/enden am Ostbahnhof.\n\n**S 4 Geltendorf**\n\nDie S-Bahnen beginnen/enden am Hauptbahnhof Gleis 35 ohne Halt zwischen Pasing und Hauptbahnhof.\n\n**S5 Kreuzstraße – Pasing**\n\nDie S-Bahnen zwischen Pasing und Ostbahnhof fallen aus.\n\n**S 6 Tutzing**\n\nDie S-Bahnen beginnen/enden in Gauting, und fahren nach Baustellenfahrplan.\n\n**S 6 Ebersberg**\n\nDie S-Bahnen beginnen/enden am Ostbahnhof Gleis 1 oder 2.\n\n**S 7 Wolfratshausen**\n\nDie S-Bahnen verkehren auf dem Regelweg.\n\n**S 8 Herrsching - Flughafen**\n\nDie S-Bahnen werden vom Ostbahnhof (Gleis 7 - 13) in Richtung Pasing umgeleitet und die Stammstrecke wird nicht angefahren. Der Halt Leuchtenbergring entfällt.\n\nVon Herrsching in Richtung Flughafen fahren die S-Bahnen auf Regelweg, mit Halt in Laim Gleis 2.\n\n**Die S-Bahnen des 10-Minuten-Takts entfallen morgen Früh (18.11.26)**\n\n**Bitte beachten Sie für mögliche Gleisänderungen die Ansagen und Anzeigen am Bahnsteig.**\n\n**Informieren sie sich über ihre Alternativen unter https://www.s-bahn-muenchen.de/fahren/betriebslage und im München Navigator.**",
+    "message_id": "1572310620135760108",
+    "severity": 3,
+    "stations": [
+      "München Hbf",
+      "Holzkirchen",
+      "Mammendorf",
+      "Ostbahnhof",
+      "Pasing",
+      "Laim"
+    ],
+    "title": "Kurzfristige Bauarbeiten auf der Stammstrecke in der Nacht vom 17.11.26 auf den 18.11.26 - Ab heute Abend, ca. 20 Uhr, kommt es wegen kurzfristig erforderlicher Bauarbeiten zu erheblichen Einschränkungen auf der Stammstrecke. Es ist mit umfangreichen Änderungen bei den Linienführungen und weiteren Abweichungen sowie mit hohen Verspätungen und Zugausfällen zu rechnen. Die Auswirkungen werden voraussichtlich auch am Mittwoch, 18. November 2026, während des morgendlichen Berufsverkehrs noch spürbar sein. Auch dann kann es weiterhin zu Einschränkungen, Taktlücken, Verspätungen und vereinzelten Zugausfällen kommen.  Fahrgäste sollten sich vor Fahrtantritt über Ihre Verbindung informieren und mehr Reisezeit einplanen. Die S-Bahn empfiehlt, auch MVG-Verkehrsmittel zu nutzen und am Vormittag, den 18. November 2026 auf vermeidbare Fahrten zu verzichten.",
+    "type": "INCIDENT",
+    "validFrom": 1794937080000,
+    "validTo": 1794978000000
   }
 }
