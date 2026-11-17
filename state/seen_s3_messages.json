@@ -1,17 +1,4 @@
 {
-  "0278268054ddbd3d": {
-    "description": "Auf Grund von Oberleitungsarbeiten besteht zwischen Ostbahnhof/Deisenhofen und Holzkirchen in den Nächten 15./16. und 16./17. November 2026 jeweils von 21:45 bis 3:30 Uhr ein 60-Minuten-Takt. In der Nacht 16./17. November 2026 finden gleichzeitig Bauarbeiten auf der Stammstrecke statt. Bitte beachten Sie hierzu die gesonderten Informationen.",
-    "severity": 3,
-    "stations": [
-      "Deisenhofen",
-      "Holzkirchen",
-      "Ostbahnhof"
-    ],
-    "title": "60-Minuten-Takt zwischen Ostbahnhof/Deisenhofen und Holzkirchen (Nächte 15./16. und 16./17. November 2026)",
-    "type": "SCHEDULE_CHANGE",
-    "validFrom": 1793530680000,
-    "validTo": 1794882600000
-  },
   "4e1e7061296b411c": {
     "description": "Ab dem 25. August 2026 ist aufgrund von Bauarbeiten am Bahnhof Laim bis Mitte 2028 mit Änderungen bei den Fahrten in Richtung Münchner Innenstadt zu rechnen. Diese Änderungen betreffen ausschließlich die Fahrten in Richtung Innenstadt. Bei den Fahrten aus der Stadt heraus halten alle S-Bahn-Züge weiterhin wie gewohnt in Laim. Fahrgäste, die aus Richtung Pasing kommen und mit den Linien S3, S4, S6 oder S8 nach Laim fahren: Diese Linien halten in Richtung Stadtzentrum nicht mehr am Bahnhof Laim. Fahrgäste, die nach Laim fahren möchten, werden gebeten, mit der S-Bahn bis Hirschgarten weiterzufahren, dort auf demselben Bahnsteig umzusteigen und dann mit der nächsten S-Bahn zurück nach Laim zu fahren.  Mit einem für Laim gültigen Fahrschein ist es möglich, bis Hirschgarten weiterzufahren und dann zurück nach Laim zu fahren. Durch den zusätzlichen Umstieg kann sich die Fahrzeit verlängern. Den Fahrgästen wird empfohlen, vor Fahrtantritt die Anschlussinformationen zu überprüfen, die aktuellen Fahrgastinformationen im Zug und am Bahnhof zu beachten und insbesondere zu Beginn des Schuljahres sowie in den ersten Tagen des Betriebs die zusätzliche Fahrzeit einzuplanen. Kurz zusammengefasst: Bauarbeiten am Bahnhof Laim vom 25.08.2026 bis voraussichtlich Mitte 2028 Die Linien S3, S4, S6 und S8 halten stadteinwärts nicht in Laim. Stadtauswärts ergeben sich keine Änderungen. Fahrgäste mit Ziel Laim fahren bitte bis Hirschgarten weiter, steigen dort um und fahren mit der nächsten S-Bahn zurück nach Laim. Kein zusätzliches Ticket erforderlich. Die Linien S1, S2 und S5 sind nicht betroffen und halten weiterhin in beiden Fahrtrichtungen in Laim.",
     "severity": 2,
@@ -24,6 +11,21 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1791553080000,
     "validTo": 1851371940000
+  },
+  "51d5c5f16e945b83": {
+    "description": "**S 3 Maisach → Deisenhofen / Ostbahnhof**\n\n- S 3 **(8351)** Maisach Abfahrt 06:20 Uhr → Ostbahnhof Ankunft 06:59 Uhr / Abfahrt 07:02 Uhr → Deisenhofen Ankunft 07:21 Uhr\n- S 3 **(8353)** Maisach Abfahrt 06:40 Uhr → Ostbahnhof Ankunft 07:19 Uhr / Abfahrt 07:22 Uhr → Deisenhofen Ankunft 07:41 Uhr\n- S 3 **(8355)** Maisach Abfahrt 07:00 Uhr → Ostbahnhof Ankunft 07:39 Uhr / Abfahrt 07:42 Uhr → Deisenhofen Ankunft 08:01 Uhr\n- S 3 **(8357)** Maisach Abfahrt 07:20 Uhr → Ostbahnhof Ankunft 07:59 Uhr / Abfahrt 08:02 Uhr → Deisenhofen Ankunft 08:21 Uhr\n- S 3 **(8359)** Maisach Abfahrt 07:40 Uhr → Ostbahnhof Ankunft 08:19 Uhr / Abfahrt 08:22 Uhr → Deisenhofen Ankunft 08:41 Uhr\n- S 3 **(8361)** Maisach Abfahrt 08:00 Uhr → Ostbahnhof Ankunft 08:39 Uhr\n- S 3 **(8363)** Maisach Abfahrt 08:20 Uhr → Ostbahnhof Ankunft 08:59 Uhr\n- S 3 **(8365)** Maisach Abfahrt 08:40 Uhr → Ostbahnhof Ankunft 09:19 Uhr\n- S 3 **(8367)** Maisach Abfahrt 09:00 Uhr → Ostbahnhof Ankunft 09:39 Uhr\n\n**S 3 Deisenhofen → Maisach / Pasing**\n\n- S 3 **(8350)** Deisenhofen Abfahrt 06:20 Uhr → Ostbahnhof Ankunft 06:35 Uhr / Abfahrt 06:37 Uhr → Maisach Ankunft 07:18 Uhr\n- S 3 **(8352)** Deisenhofen Abfahrt 06:40 Uhr → Ostbahnhof Ankunft 06:55 Uhr / Abfahrt 06:57 Uhr → Maisach Ankunft 07:38 Uhr\n- S 3 **(8354)** Deisenhofen Abfahrt 07:00 Uhr → Ostbahnhof Ankunft 07:15 Uhr / Abfahrt 07:17 Uhr → Maisach Ankunft 07:58 Uhr\n- S 3 **(8356)** Deisenhofen Abfahrt 07:20 Uhr → Ostbahnhof Ankunft 07:35 Uhr / Abfahrt 07:37 Uhr → Maisach Ankunft 08:18 Uhr\n- S 3 **(8358)** Deisenhofen Abfahrt 07:40 Uhr → Ostbahnhof Ankunft 07:55 Uhr / Abfahrt 07:57 Uhr → Maisach Ankunft 08:38 Uhr\n- S 3 **(8360)** Deisenhofen Abfahrt 08:00 Uhr → Pasing Ankunft 08:35 Uhr\n- S 3 **(8362)** Deisenhofen Abfahrt 08:20 Uhr → Pasing Ankunft 08:55 Uhr\n- S 3 **(8364)** Deisenhofen Abfahrt 08:40 Uhr → Pasing Ankunft 09:15 Uhr\n\nBitte beachten Sie, dass es heute Vormittag auf der Linie S 3 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.\n\nDer Grund hierfür ist eine Reparatur an der Strecke.",
+    "message_id": "1572144489185943636",
+    "severity": 3,
+    "stations": [
+      "Deisenhofen",
+      "Ostbahnhof",
+      "Maisach",
+      "Pasing"
+    ],
+    "title": "Reparatur an der Strecke - Heute Vormittag fallen folgende Züge der Linie S 3 des 10-Minuten-Takts aus:",
+    "type": "INCIDENT",
+    "validFrom": 1794895440000,
+    "validTo": 1794904200000
   },
   "54d53743425e240d": {
     "description": "Auf Grund von Weichenbauarbeiten kommt es zwischen Ostbahnhof/Deisenhofen und Holzkirchen in den Nächten Mittwoch/Donnerstag, 18./19. November, und Donnerstag/Freitag, 19./20. November 2026, jeweils von 22:05 Uhr bis 3:30 Uhr sowie in den Nächten Samstag/Sonntag, 21./22. November, und Sonntag/Montag, 22./23. November 2026, jeweils von 19:50 Uhr bis 3:40 Uhr zu Zugausfällen und einem 60-Minuten-Takt. Zusätzlich besteht Ersatzverkehr mit Bussen.",
@@ -51,21 +53,6 @@
     "validFrom": 1791550800000,
     "validTo": 1851371940000
   },
-  "970172b4fe597894": {
-    "description": "Auf Grund von Bauarbeiten in Pasing kommt es in der Nacht 16./17. November 2026 zwischen 22:10 und 4:40 Uhr zwischen Ostbahnhof und Pasing zu folgenden Fahrplanänderungen:\n\n- S1: Die Züge fahren grundsätzlich planmäßig. Die Züge mit planmäßiger Abfahrt um 3:31 und 4:01 Uhr fahren zwischen Leuchtenbergring und Moosach 5 Minuten früher.\n- S2: Die Züge fahren planmäßig.\n- S3: Die Züge in/aus Richtung Holzkirchen beginnen/enden an der Hackerbrücke. Die Züge in/aus Richtung Mammendorf beginnen/enden in Pasing.\n- S4: Die Züge in/aus Richtung Geltendorf beginnen/enden in Pasing. Die Züge in/aus Richtung Trudering fallen zwischen Pasing und Trudering aus.\n- S5: Die Züge in/aus Richtung Kreuzstraße beginnen/enden am Ostbahnhof. Die Züge in/aus Richtung Pasing fallen zwischen Ostbahnhof und Pasing aus.\n- S6: Die Züge in Richtung Tutzing erhalten zwischen Ostbahnhof und Pasing etwa 10 Minuten Verspätung. Die Züge in Richtung Ebersberg fahren planmäßig. Zwischen Pasing und Gauting besteht wegen gleichzeitiger Bauarbeiten Ersatzverkehr mit Bussen.\n- S7: Die Züge fahren planmäßig.\n- S8: Die Züge aus Richtung Flughafen fahren ab Daglfing ohne Halt zum Ostbahnhof und weiter ohne Halt bis Pasing nach Herrsching. Die Züge aus Richtung Herrsching fahren ab Pasing ohne Halt bis Ostbahnhof und weiter ohne Halt bis Daglfing zum Flughafen.",
-    "severity": 3,
-    "stations": [
-      "Hackerbrücke",
-      "Holzkirchen",
-      "Mammendorf",
-      "Ostbahnhof",
-      "Pasing"
-    ],
-    "title": "Zugausfälle, Umleitungen und Fahrplanänderungen zwischen Ostbahnhof und Pasing (Nacht 16./17. November 2026)",
-    "type": "SCHEDULE_CHANGE",
-    "validFrom": 1793653800000,
-    "validTo": 1794886800000
-  },
   "9b9bb84cd0583c03": {
     "description": "Wegen Oberleitungsarbeiten kommt es in verschiedenen Nächten zwischen dem 26.10. und 10.12.26 zu Ersatzzügen und einem 60-Minuten-Takt.\n\nBetroffen sind die Nächte Montag/Dienstag, 26./27.10. und Dienstag/Mittwoch, 27./28.10.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Mittwoch/Donnerstag, 28./29.10. und Donnerstag/Freitag, 29./30.10.2026 (jeweils 0:45 bis 3:30 Uhr), Nächte Montag/Dienstag, 2./3.11 bis Donnerstag/Freitag, 5./6.11.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Montag/Dienstag, 9./10.11. bis Donnerstag/Freitag, 12./13.11.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Dienstag/Mittwoch, 17./18.11. und Mittwoch/Donnerstag, 18./19.11.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Dienstag/Mittwoch, 24./25.11. und Mittwoch/Donnerstag, 25./26.11.2026 (jeweils 21:45 bis 3:30 Uhr) zwischen Ostbahnhof/Giesing und Holzkirchen, Nächte Montag/Dienstag, 30.11./1.12. bis Donnerstag/Freitag, 3./4.12.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Montag/Dienstag, 7./8.12. bis Donnerstag/Freitag, 10./11.12.2026 (jeweils 21:45 bis 3:30 Uhr).\n\nZusätzlich besteht in den Nächten 23./24.11., 25./26.11. und 26./27.11. jeweils von 21:45 Uhr bis 3:30 Uhr Ersatzverkehr mit Bussen zwischen Deisenhofen und Holzkirchen. Bitte beachten Sie dazu die gesonderten Informationen.",
     "severity": 3,
@@ -80,23 +67,5 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1790932440000,
     "validTo": 1796956200000
-  },
-  "eeb495ae64574064": {
-    "description": "Information: **Wir haben für Sie einen Ersatzverkehr mit Bussen zwischen Pasing Bahnhof Nord (Carossastr.) und Laimer Platz eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.**\n\nDie S-Bahnen fahren wie folgt:\n\n**S 1 Freising/Flughafen ↔ Leuchtenbergring**\n\n- Die S1 verkehrt nur **Hauptbahnhof Gleis 30** ↔ **Freising/Flughafen,** ohne Halt zwischen **Moosach** ↔ **Hauptbahnhof**.\n\n**Alternativen:**\n\n- Moosach ↔ Marienplatz: **U3**\n- Feldmoching ↔ Hauptbahnhof: **U2**\n- Moosach ↔ Pasing: **Bus 162**\n- Hauptbahnhof/Karlsplatz ↔ Ostbahnhof: **U5**; Ostbahnhof ↔ Flughafen: **S8**\n\n**S 2 Petershausen/Altomünster ↔ Erding**\n\n- Die S2 wird zwischen **Obermenzing** → **Ostbahnhof Gleis 12 (Fernbahn)** → **Riem** umgeleitet und die Stammstrecke wird nicht angefahren. Die Halte **Leuchtenbergring** und **Berg am Laim** entfallen.\n- Die S2 verkehrt zwischen **Riem** → **Ostbahnhof** → **Obermenzing** auf dem Regelweg durch die Stammstrecke mit allen geplanten Halten.\n\n**Alternativen:**\n\n- Ostbahnhof ↔ Leuchtenbergring: **S6**\n- Ostbahnhof ↔ Berg am Laim: **S6**\n\n**S 3 Mammendorf ↔ Holzkirchen**\n\n- Die S3 verkehrt nur **Mammendorf** ↔ **Pasing**.\n- Die S3 verkehrt nur **Holzkirchen** ↔ **Ostbahnhof**.\n\n**S 4 Geltendorf ↔ Trudering**\n\n- Die S4 verkehrt nur **Geltendorf** ↔ **Pasing.**\n\n**S 5 Kreuzstraße ↔ Pasing**\n\n- Die S5 verkehrt nur **Kreuzstraße** ↔ **Ostbahnhof**.\n\n**S 6 Tutzing ↔ Ebersberg**\n\n- Die S6 verkehrt nur **Tutzing** ↔ **Gauting**. Zwischen Gauting und Pasing besteht Ersatzverkehr mit Bussen wegen gleichzeitiger Bauarbeiten.\n- Die S6 verkehrt nur **Ebersberg** ↔ **Ostbahnhof Gleise 1/2.**\n\n**S 7 Wolfratshausen ↔ Hauptbahnhof Gleis 36**\n\n- Die S7 verkehrt auf dem Regelweg **Wolfratshausen ↔ Hauptbahnhof Gleis 36**\n\n**S 8 Herrsching ↔ Flughafen**\n\n- Züge aus Richtung Flughafen/Airport fahren ab Daglfing ohne Halt zum Ostbahnhof (Gleis 7) weiter ohne Halt bis Pasing nach Herrsching\n- Züge aus Richtung Herrsching fahren ab Pasing ohne Halt bis Ostbahnhof (Gleis 13) und weiter ohne Halt bis Daglfing zum Flughafen/Airport\n\n**Alternativen:**\n\n- Leuchtenbergring ↔ Ostbahnhof: **S6**\n\nWegen **Bauarbeiten** zur **U5** ist der **Fahrradtunnel (Wolkentunnel)** in **Pasing** vom **2.11.-23.12.26,** und vom **4.1.-6.2.27, gesperrt.** Der **Zugang** zu den **Bahnsteigen** ist **von Norden** weiterhin **möglich.** Details dazu ➡️ Bauste...",
-    "severity": 3,
-    "stations": [
-      "München Hbf",
-      "Marienplatz",
-      "Holzkirchen",
-      "Mammendorf",
-      "Karlsplatz (Stachus)",
-      "Ostbahnhof",
-      "Pasing",
-      "Laim"
-    ],
-    "title": "Kurzfristige Bauarbeiten - Wegen kurzfristig erforderlicher Bauarbeiten kommt es in der Nacht Montag/Dienstag 16./17.11.2026 zu erheblichen Einschränkungen auf der Stammstrecke.\nDie S-Bahnen verkehren abweichend der Linienführung. Es ist mit weiteren Abweichungen sowie mit hohen Verspätungen und Zugausfällen zu rechnen. Der Grund hierfür sind kurzfristige Bauarbeiten.",
-    "type": "SCHEDULE_CHANGE",
-    "validFrom": 1794852000000,
-    "validTo": 1794888000000
   }
 }
