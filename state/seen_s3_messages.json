@@ -12,20 +12,6 @@
     "validFrom": 1791553080000,
     "validTo": 1851371940000
   },
-  "51d5c5f16e945b83": {
-    "description": "**S 3 Maisach → Deisenhofen / Ostbahnhof**\n\n- S 3 **(8351)** Maisach Abfahrt 06:20 Uhr → Ostbahnhof Ankunft 06:59 Uhr / Abfahrt 07:02 Uhr → Deisenhofen Ankunft 07:21 Uhr\n- S 3 **(8353)** Maisach Abfahrt 06:40 Uhr → Ostbahnhof Ankunft 07:19 Uhr / Abfahrt 07:22 Uhr → Deisenhofen Ankunft 07:41 Uhr\n- S 3 **(8355)** Maisach Abfahrt 07:00 Uhr → Ostbahnhof Ankunft 07:39 Uhr / Abfahrt 07:42 Uhr → Deisenhofen Ankunft 08:01 Uhr\n- S 3 **(8357)** Maisach Abfahrt 07:20 Uhr → Ostbahnhof Ankunft 07:59 Uhr / Abfahrt 08:02 Uhr → Deisenhofen Ankunft 08:21 Uhr\n- S 3 **(8359)** Maisach Abfahrt 07:40 Uhr → Ostbahnhof Ankunft 08:19 Uhr / Abfahrt 08:22 Uhr → Deisenhofen Ankunft 08:41 Uhr\n- S 3 **(8361)** Maisach Abfahrt 08:00 Uhr → Ostbahnhof Ankunft 08:39 Uhr\n- S 3 **(8363)** Maisach Abfahrt 08:20 Uhr → Ostbahnhof Ankunft 08:59 Uhr\n- S 3 **(8365)** Maisach Abfahrt 08:40 Uhr → Ostbahnhof Ankunft 09:19 Uhr\n- S 3 **(8367)** Maisach Abfahrt 09:00 Uhr → Ostbahnhof Ankunft 09:39 Uhr\n\n**S 3 Deisenhofen → Maisach / Pasing**\n\n- S 3 **(8350)** Deisenhofen Abfahrt 06:20 Uhr → Ostbahnhof Ankunft 06:35 Uhr / Abfahrt 06:37 Uhr → Maisach Ankunft 07:18 Uhr\n- S 3 **(8352)** Deisenhofen Abfahrt 06:40 Uhr → Ostbahnhof Ankunft 06:55 Uhr / Abfahrt 06:57 Uhr → Maisach Ankunft 07:38 Uhr\n- S 3 **(8354)** Deisenhofen Abfahrt 07:00 Uhr → Ostbahnhof Ankunft 07:15 Uhr / Abfahrt 07:17 Uhr → Maisach Ankunft 07:58 Uhr\n- S 3 **(8356)** Deisenhofen Abfahrt 07:20 Uhr → Ostbahnhof Ankunft 07:35 Uhr / Abfahrt 07:37 Uhr → Maisach Ankunft 08:18 Uhr\n- S 3 **(8358)** Deisenhofen Abfahrt 07:40 Uhr → Ostbahnhof Ankunft 07:55 Uhr / Abfahrt 07:57 Uhr → Maisach Ankunft 08:38 Uhr\n- S 3 **(8360)** Deisenhofen Abfahrt 08:00 Uhr → Pasing Ankunft 08:35 Uhr\n- S 3 **(8362)** Deisenhofen Abfahrt 08:20 Uhr → Pasing Ankunft 08:55 Uhr\n- S 3 **(8364)** Deisenhofen Abfahrt 08:40 Uhr → Pasing Ankunft 09:15 Uhr\n\nBitte beachten Sie, dass es heute Vormittag auf der Linie S 3 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.\n\nDer Grund hierfür ist eine Reparatur an der Strecke.",
-    "severity": 3,
-    "stations": [
-      "Deisenhofen",
-      "Ostbahnhof",
-      "Maisach",
-      "Pasing"
-    ],
-    "title": "Reparatur an der Strecke - Heute Vormittag fallen folgende Züge der Linie S 3 des 10-Minuten-Takts aus:",
-    "type": "INCIDENT",
-    "validFrom": 1794895440000,
-    "validTo": 1794904200000
-  },
   "54d53743425e240d": {
     "description": "Auf Grund von Weichenbauarbeiten kommt es zwischen Ostbahnhof/Deisenhofen und Holzkirchen in den Nächten Mittwoch/Donnerstag, 18./19. November, und Donnerstag/Freitag, 19./20. November 2026, jeweils von 22:05 Uhr bis 3:30 Uhr sowie in den Nächten Samstag/Sonntag, 21./22. November, und Sonntag/Montag, 22./23. November 2026, jeweils von 19:50 Uhr bis 3:40 Uhr zu Zugausfällen und einem 60-Minuten-Takt. Zusätzlich besteht Ersatzverkehr mit Bussen.",
     "severity": 3,
