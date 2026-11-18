@@ -1,4 +1,20 @@
 {
+  "329c6d2787caeaad": {
+    "description": "Die Züge der Linie S 5 verkehren immer noch zwischen Kreuzstraße und Perlach.\n\n**S 5 Kreuzstraße ↔ Pasing**\n\n- Die S5 verkehrt nur **Kreuzstraße** ↔ **Perlach**.\n\n**Alternativen:**\n\n - Neuperlach Süd ↔ Ostbahnhof ↔ Karlsplatz ↔ Hauptbahnhof: **U5**\n\nAlle anderen Linien verkehren ohne Einschränkungen durch die Stammstrecke.\n\nInformieren Sie sich wegen eventueller Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.",
+    "message_id": "1572559684425097237",
+    "severity": 3,
+    "stations": [
+      "München Hbf",
+      "Karlsplatz (Stachus)",
+      "Ostbahnhof",
+      "Giesing",
+      "Pasing"
+    ],
+    "title": "Reparatur an einem Signal - Die Strecke ist zwischen Ostbahnhof und Giesing ist wieder befahrbar. Die S 3 verkehrt wieder planmäßig auf dem Regelweg mit allen Halten.",
+    "type": "INCIDENT",
+    "validFrom": 1794992820000,
+    "validTo": 1795003200000
+  },
   "4e1e7061296b411c": {
     "description": "Ab dem 25. August 2026 ist aufgrund von Bauarbeiten am Bahnhof Laim bis Mitte 2028 mit Änderungen bei den Fahrten in Richtung Münchner Innenstadt zu rechnen. Diese Änderungen betreffen ausschließlich die Fahrten in Richtung Innenstadt. Bei den Fahrten aus der Stadt heraus halten alle S-Bahn-Züge weiterhin wie gewohnt in Laim. Fahrgäste, die aus Richtung Pasing kommen und mit den Linien S3, S4, S6 oder S8 nach Laim fahren: Diese Linien halten in Richtung Stadtzentrum nicht mehr am Bahnhof Laim. Fahrgäste, die nach Laim fahren möchten, werden gebeten, mit der S-Bahn bis Hirschgarten weiterzufahren, dort auf demselben Bahnsteig umzusteigen und dann mit der nächsten S-Bahn zurück nach Laim zu fahren.  Mit einem für Laim gültigen Fahrschein ist es möglich, bis Hirschgarten weiterzufahren und dann zurück nach Laim zu fahren. Durch den zusätzlichen Umstieg kann sich die Fahrzeit verlängern. Den Fahrgästen wird empfohlen, vor Fahrtantritt die Anschlussinformationen zu überprüfen, die aktuellen Fahrgastinformationen im Zug und am Bahnhof zu beachten und insbesondere zu Beginn des Schuljahres sowie in den ersten Tagen des Betriebs die zusätzliche Fahrzeit einzuplanen. Kurz zusammengefasst: Bauarbeiten am Bahnhof Laim vom 25.08.2026 bis voraussichtlich Mitte 2028 Die Linien S3, S4, S6 und S8 halten stadteinwärts nicht in Laim. Stadtauswärts ergeben sich keine Änderungen. Fahrgäste mit Ziel Laim fahren bitte bis Hirschgarten weiter, steigen dort um und fahren mit der nächsten S-Bahn zurück nach Laim. Kein zusätzliches Ticket erforderlich. Die Linien S1, S2 und S5 sind nicht betroffen und halten weiterhin in beiden Fahrtrichtungen in Laim.",
     "severity": 2,
@@ -40,7 +56,6 @@
   },
   "7fa30f0d87f01b31": {
     "description": "Es kommt noch zu größeren Folgeverspätungen und Teilausfällen. Der Grund hierfür war eine Reparatur an der Oberleitung in Pasing.",
-    "message_id": "1572552162305904691",
     "severity": 2,
     "stations": [
       "Pasing"
@@ -49,22 +64,6 @@
     "type": "INCIDENT",
     "validFrom": 1794986580000,
     "validTo": 1795003200000
-  },
-  "88c9659afd88fa26": {
-    "description": "Die Züge der Linie S 5 verkehren immer noch zwischen Kreuzstraße und Perlach.\n\n**S 5 Kreuzstraße ↔ Pasing**\n\n- Die S5 verkehrt nur **Kreuzstraße** ↔ **Perlach**.\n\n**Alternativen:**\n\n - Neuperlach Süd ↔ Ostbahnhof ↔ Karlsplatz ↔ Hauptbahnhof: **U5**\n\nAlle anderen Linien verkehren ohne Einschränkungen durch die Stammstrecke.\n\nInformieren Sie sich wegen eventueller Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.",
-    "message_id": "1572552161186025573",
-    "severity": 3,
-    "stations": [
-      "München Hbf",
-      "Karlsplatz (Stachus)",
-      "Ostbahnhof",
-      "Giesing",
-      "Pasing"
-    ],
-    "title": "Reparatur an einem Signal - Die Strecke ist zwischen Ostbahnhof und Giesing ist wieder befahrbar. Die S 3 verkehrt wieder planmäßig auf dem Regelweg mit allen Halten.",
-    "type": "INCIDENT",
-    "validFrom": 1794992820000,
-    "validTo": 1794999600000
   },
   "9b9bb84cd0583c03": {
     "description": "Wegen Oberleitungsarbeiten kommt es in verschiedenen Nächten zwischen dem 26.10. und 10.12.26 zu Ersatzzügen und einem 60-Minuten-Takt.\n\nBetroffen sind die Nächte Montag/Dienstag, 26./27.10. und Dienstag/Mittwoch, 27./28.10.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Mittwoch/Donnerstag, 28./29.10. und Donnerstag/Freitag, 29./30.10.2026 (jeweils 0:45 bis 3:30 Uhr), Nächte Montag/Dienstag, 2./3.11 bis Donnerstag/Freitag, 5./6.11.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Montag/Dienstag, 9./10.11. bis Donnerstag/Freitag, 12./13.11.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Dienstag/Mittwoch, 17./18.11. und Mittwoch/Donnerstag, 18./19.11.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Dienstag/Mittwoch, 24./25.11. und Mittwoch/Donnerstag, 25./26.11.2026 (jeweils 21:45 bis 3:30 Uhr) zwischen Ostbahnhof/Giesing und Holzkirchen, Nächte Montag/Dienstag, 30.11./1.12. bis Donnerstag/Freitag, 3./4.12.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Montag/Dienstag, 7./8.12. bis Donnerstag/Freitag, 10./11.12.2026 (jeweils 21:45 bis 3:30 Uhr).\n\nZusätzlich besteht in den Nächten 23./24.11., 25./26.11. und 26./27.11. jeweils von 21:45 Uhr bis 3:30 Uhr Ersatzverkehr mit Bussen zwischen Deisenhofen und Holzkirchen. Bitte beachten Sie dazu die gesonderten Informationen.",
