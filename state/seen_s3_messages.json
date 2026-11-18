@@ -1,7 +1,6 @@
 {
   "329c6d2787caeaad": {
     "description": "Die Züge der Linie S 5 verkehren immer noch zwischen Kreuzstraße und Perlach.\n\n**S 5 Kreuzstraße ↔ Pasing**\n\n- Die S5 verkehrt nur **Kreuzstraße** ↔ **Perlach**.\n\n**Alternativen:**\n\n - Neuperlach Süd ↔ Ostbahnhof ↔ Karlsplatz ↔ Hauptbahnhof: **U5**\n\nAlle anderen Linien verkehren ohne Einschränkungen durch die Stammstrecke.\n\nInformieren Sie sich wegen eventueller Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.",
-    "message_id": "1572559684425097237",
     "severity": 3,
     "stations": [
       "München Hbf",
@@ -53,6 +52,21 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1791550800000,
     "validTo": 1851371940000
+  },
+  "63842e9640c8e1fe": {
+    "description": "Die S-Bahnen kommend von Mammendorf wenden in Giesing.\n\nEin Ersatzverkehr zwischen Giesing und Deisenhofen ist in Planung.\n\nEs kommt zu Verspätungen und Teilausfällen.\n\nDer Grund hierfür sind Gegenstände auf der Strecke bei Unterhaching.",
+    "message_id": "1572567269903569029",
+    "severity": 3,
+    "stations": [
+      "Unterhaching",
+      "Deisenhofen",
+      "Mammendorf",
+      "Giesing"
+    ],
+    "title": "Gegenstände auf der Strecke bei Unterhaching - Zwischen Giesing und Deisenhofen sind keine Zugfahrten möglich.",
+    "type": "INCIDENT",
+    "validFrom": 1794997680000,
+    "validTo": 1795005000000
   },
   "7fa30f0d87f01b31": {
     "description": "Es kommt noch zu größeren Folgeverspätungen und Teilausfällen. Der Grund hierfür war eine Reparatur an der Oberleitung in Pasing.",
