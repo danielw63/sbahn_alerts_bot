@@ -1,18 +1,4 @@
 {
-  "343f8f0527bd1355": {
-    "description": "Die S1 verkehrt nur zwischen Feldmoching ↔ Freising/Flughafen, die S 3 kommend von Mammendorf verkehrt nur zwischen Mammendorf und Giesing andere Linien verkehren auf dem Regelweg.\n\nEs kommt noch zu größeren Folgeverspätungen und Teilausfällen. Der Grund hierfür war eine Reparatur an der Oberleitung in Pasing.",
-    "severity": 3,
-    "stations": [
-      "Mammendorf",
-      "Ostbahnhof",
-      "Giesing",
-      "Pasing"
-    ],
-    "title": "Reparatur an der Oberleitung - ‼️ Die S6 kommend aus Ebersberg verkehrt wieder nach Baustellenfahrplan zwischen Ebersberg ↔ Pasing, die S5 verkehrt nur zwischen Kreuzstraße ↔ Ostbahnhof‼️",
-    "type": "INCIDENT",
-    "validFrom": 1794986580000,
-    "validTo": 1795008600000
-  },
   "4e1e7061296b411c": {
     "description": "Ab dem 25. August 2026 ist aufgrund von Bauarbeiten am Bahnhof Laim bis Mitte 2028 mit Änderungen bei den Fahrten in Richtung Münchner Innenstadt zu rechnen. Diese Änderungen betreffen ausschließlich die Fahrten in Richtung Innenstadt. Bei den Fahrten aus der Stadt heraus halten alle S-Bahn-Züge weiterhin wie gewohnt in Laim. Fahrgäste, die aus Richtung Pasing kommen und mit den Linien S3, S4, S6 oder S8 nach Laim fahren: Diese Linien halten in Richtung Stadtzentrum nicht mehr am Bahnhof Laim. Fahrgäste, die nach Laim fahren möchten, werden gebeten, mit der S-Bahn bis Hirschgarten weiterzufahren, dort auf demselben Bahnsteig umzusteigen und dann mit der nächsten S-Bahn zurück nach Laim zu fahren.  Mit einem für Laim gültigen Fahrschein ist es möglich, bis Hirschgarten weiterzufahren und dann zurück nach Laim zu fahren. Durch den zusätzlichen Umstieg kann sich die Fahrzeit verlängern. Den Fahrgästen wird empfohlen, vor Fahrtantritt die Anschlussinformationen zu überprüfen, die aktuellen Fahrgastinformationen im Zug und am Bahnhof zu beachten und insbesondere zu Beginn des Schuljahres sowie in den ersten Tagen des Betriebs die zusätzliche Fahrzeit einzuplanen. Kurz zusammengefasst: Bauarbeiten am Bahnhof Laim vom 25.08.2026 bis voraussichtlich Mitte 2028 Die Linien S3, S4, S6 und S8 halten stadteinwärts nicht in Laim. Stadtauswärts ergeben sich keine Änderungen. Fahrgäste mit Ziel Laim fahren bitte bis Hirschgarten weiter, steigen dort um und fahren mit der nächsten S-Bahn zurück nach Laim. Kein zusätzliches Ticket erforderlich. Die Linien S1, S2 und S5 sind nicht betroffen und halten weiterhin in beiden Fahrtrichtungen in Laim.",
     "severity": 2,
@@ -69,7 +55,6 @@
   },
   "be46c6c2fd07b59e": {
     "description": "‼️ Ab den folgenden Fahrten verkehren die Züge der Linie S 5 zwischen Kreuzstraße und Ostbahnhof. ‼️\n\n**S 5 Kreuzstraße ↔ Pasing**\n\n- S 5 Kreuzstraße Abfahrt 11:47 Uhr → Perlach 12:15 Uhr → Ostbahnhof Ankunft 12:21 Uhr\n- S 5 Ostbahnhof Abfahrt 12:36 Uhr → Perlach 12:46 Uhr → Kreuzstraße Ankunft 13:13 Uhr\n\nAlle anderen Linien verkehren ohne Einschränkungen durch die Stammstrecke.\n\nInformieren Sie sich wegen eventueller Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.",
-    "message_id": "1572597468770738227",
     "severity": 3,
     "stations": [
       "Ostbahnhof",
