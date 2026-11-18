@@ -1,7 +1,6 @@
 {
   "343f8f0527bd1355": {
     "description": "Die S1 verkehrt nur zwischen Feldmoching ↔ Freising/Flughafen, die S 3 kommend von Mammendorf verkehrt nur zwischen Mammendorf und Giesing andere Linien verkehren auf dem Regelweg.\n\nEs kommt noch zu größeren Folgeverspätungen und Teilausfällen. Der Grund hierfür war eine Reparatur an der Oberleitung in Pasing.",
-    "message_id": "1572582367091228785",
     "severity": 3,
     "stations": [
       "Mammendorf",
@@ -68,25 +67,23 @@
     "validFrom": 1790932440000,
     "validTo": 1796956200000
   },
-  "f8428dbfd9ed9fd6": {
-    "description": "Die S-Bahnen kommend aus Mammendorf wenden in Giesing.\n\nWir haben für Sie einen Ersatzverkehr mit Bussen und ‼️ Großraumtaxis zwischen Giesing und Deisenhofen eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.\n\n**‼️ Erste Ersatzverkehr Busse starten von Giesing und Deisenhofen:**\n\n- von Deisenhofen um 12:43 Uhr\n- von Giesing um 11:45 Uhr\n\n**Alternative:**\n\n- Zusätzlich halten die Züge der BRB in Otterfing, Sauerlach und Deisenhofen.\n\nEs kommt zu Verspätungen und Teilausfällen.\n\nDer Grund hierfür sind Gegenstände auf der Strecke bei Unterhaching.",
+  "df7411d850ba0ee7": {
+    "description": "**S 3 Mammendorf ↔ Holzkirchen**\n\n- S 3 Mammendorf Abfahrt 12:04 Uhr → Giesing 12:55 Uhr → Holzkirchen Ankunft 13:26 Uhr\n\nErsatzverkehr mit Bussen und Großraumtaxis läuft parallel bis 15 Uhr.\n\nEs kommt noch zu größeren Folgeverspätungen und Teilausfällen.\n\nDer Grund hierfür waren Gegenstände auf der Strecke bei Unterhaching.",
+    "message_id": "1572589886681129063",
     "severity": 3,
     "stations": [
       "Unterhaching",
-      "Deisenhofen",
+      "Holzkirchen",
       "Mammendorf",
-      "Sauerlach",
-      "Otterfing",
       "Giesing"
     ],
-    "title": "Gegenstände auf der Strecke bei Unterhaching - Zwischen Giesing und Deisenhofen sind keine Zugfahrten möglich.",
+    "title": "Gegenstände auf der Strecke bei Unterhaching - Ab den folgenden Fahrten verkehrt die S 3 wieder planmäßig zwischen Mammendorf und Holzkirchen.",
     "type": "INCIDENT",
     "validFrom": 1794997680000,
-    "validTo": 1795005000000
+    "validTo": 1795010400000
   },
   "ff3ab7c5f509b773": {
     "description": "‼️ Ab den folgenden Fahrten verkehren die Züge der Linie S 5 zwischen Kreuzstraße und Ostbahnhof. ‼️\n\n**S 5 Kreuzstraße ↔ Pasing**\n\n- S 5 Kreuzstraße Abfahrt 11:47 Uhr → Perlach 12:15 Uhr → Ostbahnhof Ankunft 12:21 Uhr\n- S 5 Ostbahnhof Abfahrt 12:36 Uhr → Perlach 12:46 Uhr → Kreuzstraße Ankunft 13:13 Uhr\n\nAlle anderen Linien verkehren ohne Einschränkungen durch die Stammstrecke.\n\nInformieren Sie sich wegen eventueller Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.",
-    "message_id": "1572582366042529924",
     "severity": 3,
     "stations": [
       "Ostbahnhof",
