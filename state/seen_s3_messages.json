@@ -1,4 +1,29 @@
 {
+  "21b65b1a59b3f70e": {
+    "description": "Die S-Bahnen fahren wie folgt:\n\n**S1 Freising / Flughafen** ↔ **Ostbahnhof / Leuchtenbergring**\n\n- Die S1 verkehrt nur zwischen **Feldmoching ↔ Freising/Flughafen.**\n\n**S2 Petershausen / Altomünster** ↔ **Erding**\n\n- Die S2 verkehrt auf dem Regelweg durch die Stammstrecke.\n\n**S3 Mammendorf ↔ Holzkirchen**\n\n- Die S3 verkehrt nur **Mammendorf** ↔ **Pasing**.\n- Die S3 verkehrt nur **Holzkirchen** ↔ **Ostbahnhof**.\n\n**S4 Geltendorf ↔ Trudering**\n\n- Die S4 verkehrt nur **Geltendorf** ↔ **Pasing**.\n\n**‼️ S5 Kreuzstraße ↔ Pasing**\n\n- Die S5 verkehrt nur **Kreuzstraße** ↔ **Perlach.**\n\n**S6 Tutzing ↔ Ebersberg**\n\n- Die S6 verkehrt nur **Tutzing** ↔ **Gauting**.\n- Die S6 verkehrt nur **Ebersberg** ↔ **Hackerbrücke**.\n\n**Alternative:**\n\n - Gauting ↔ Fürstenried West: **Bus 962;** Fürstenried West ↔ Marienplatz: **U3**\n - Gauting ↔ Fürstenried West: **Bus 962;** Fürstenried West ↔ Pasing: **Bus 56**\n\n**S7 Wolfratshausen ↔ Hauptbahnhof Gleis 36**\n\n- Die S7 verkehrt auf dem Regelweg **Wolfratshausen ↔ Hauptbahnhof Gleis 36.**\n\n**‼️ S8 Herrsching ↔ Flughafen**\n\n- Die S8 wird zwischen **Pasing** ↔ **Ostbahnhof Gleis 7-13 (Fernbahn)** umgeleitet und die Stammstrecke wird nicht angefahren. Der Halt **Leuchtenbergring** entfällt. ‼️\n- Die S8 verkehrt nur **Herrsching** ↔ **Pasing**\n\n**Alternativen zwischen Pasing und München Ostbahnhof für beide Richtungen:**\n\n - **Tram 16 mit Halten**: Donnersberger Brücke ↔ Hackerbrücke ↔ Hauptbahnhof ↔ Karlsplatz ↔ Isartor\n - **Tram 17 mit Halten**: Donnersberger Brücke ↔ Hackerbrücke ↔ Hauptbahnhof ↔ Karlsplatz\n - **Tram 18 mit Halten**: Hirschgarten(Lautensackstraße) ↔ Donnersbergerbrücke(Trappentreustraße) ↔ Hackerbrücke(Holzapfelstraße) ↔ Hauptbahnhof ↔ Karlsplatz ↔ Giesing\n - **Tram 19 mit Halten**: Pasing ↔ Laim(Fürstenrieder Straße) ↔ Hirschgarten(Lautensackstraße) ↔ Donnersbergerbrücke(Trappentreustraße) ↔ Hackerbrücke(Holzapfelstraße) ↔ Hauptbahnhof ↔ Karlsplatz ↔ Marienplatz ↔ Leuchtenbergring(Einsteinstraße) ↔ Berg am Laim\n - **Tram 20 mit Halten**: Hauptbahnhof ↔ Karlsplatz\n - **Tram 21 mit Halten**: Hauptbahnhof ↔ Karlsplatz ↔ Marienplatz ↔ Ostbahnhof ↔ Leuchtenbergring(Ampfingstraße)\n - **Tram 21 mit Halten**: Ostbahnhof ↔ Wörthstraße; **Tram 25 mit Halten**: Wörthstraße ↔ Rosenheimer Platz\n - **Tram 21 mit Halten**: Hauptbahnhof ↔ Karlsplatz ↔ Marienplatz �...",
+    "message_id": "1572537101516284061",
+    "severity": 3,
+    "stations": [
+      "Donnersbergerbrücke",
+      "Rosenheimer Platz",
+      "Hirschgarten",
+      "Hackerbrücke",
+      "München Hbf",
+      "Marienplatz",
+      "Ostbahnhof",
+      "Holzkirchen",
+      "Mammendorf",
+      "Karlsplatz (Stachus)",
+      "Isartor",
+      "Giesing",
+      "Pasing",
+      "Laim"
+    ],
+    "title": "Reparatur an der Oberleitung - ‼️Pasing Gleis 7+8 sind gesperrt und die Züge verkehren abweichend der Linienführung. Es kommt zu größeren Verspätungen und Teilausfällen. Der Grund hierfür ist eine Reparatur an der Oberleitung in Pasing.",
+    "type": "INCIDENT",
+    "validFrom": 1794986580000,
+    "validTo": 1794996000000
+  },
   "4e1e7061296b411c": {
     "description": "Ab dem 25. August 2026 ist aufgrund von Bauarbeiten am Bahnhof Laim bis Mitte 2028 mit Änderungen bei den Fahrten in Richtung Münchner Innenstadt zu rechnen. Diese Änderungen betreffen ausschließlich die Fahrten in Richtung Innenstadt. Bei den Fahrten aus der Stadt heraus halten alle S-Bahn-Züge weiterhin wie gewohnt in Laim. Fahrgäste, die aus Richtung Pasing kommen und mit den Linien S3, S4, S6 oder S8 nach Laim fahren: Diese Linien halten in Richtung Stadtzentrum nicht mehr am Bahnhof Laim. Fahrgäste, die nach Laim fahren möchten, werden gebeten, mit der S-Bahn bis Hirschgarten weiterzufahren, dort auf demselben Bahnsteig umzusteigen und dann mit der nächsten S-Bahn zurück nach Laim zu fahren.  Mit einem für Laim gültigen Fahrschein ist es möglich, bis Hirschgarten weiterzufahren und dann zurück nach Laim zu fahren. Durch den zusätzlichen Umstieg kann sich die Fahrzeit verlängern. Den Fahrgästen wird empfohlen, vor Fahrtantritt die Anschlussinformationen zu überprüfen, die aktuellen Fahrgastinformationen im Zug und am Bahnhof zu beachten und insbesondere zu Beginn des Schuljahres sowie in den ersten Tagen des Betriebs die zusätzliche Fahrzeit einzuplanen. Kurz zusammengefasst: Bauarbeiten am Bahnhof Laim vom 25.08.2026 bis voraussichtlich Mitte 2028 Die Linien S3, S4, S6 und S8 halten stadteinwärts nicht in Laim. Stadtauswärts ergeben sich keine Änderungen. Fahrgäste mit Ziel Laim fahren bitte bis Hirschgarten weiter, steigen dort um und fahren mit der nächsten S-Bahn zurück nach Laim. Kein zusätzliches Ticket erforderlich. Die Linien S1, S2 und S5 sind nicht betroffen und halten weiterhin in beiden Fahrtrichtungen in Laim.",
     "severity": 2,
@@ -52,19 +77,5 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1790932440000,
     "validTo": 1796956200000
-  },
-  "f88bb39149bd0868": {
-    "description": "**S 3 Maisach → Deisenhofen / Ostbahnhof**\n\n- S 3 Maisach Abfahrt 06:20 Uhr → Ostbahnhof Ankunft 06:59 Uhr / Abfahrt 07:02 Uhr → Deisenhofen Ankunft 07:21 Uhr\n- S 3 Maisach Abfahrt 06:40 Uhr → Ostbahnhof Ankunft 07:19 Uhr / Abfahrt 07:22 Uhr → Deisenhofen Ankunft 07:41 Uhr\n- S 3 Maisach Abfahrt 07:00 Uhr → Ostbahnhof Ankunft 07:39 Uhr / Abfahrt 07:42 Uhr → Deisenhofen Ankunft 08:01 Uhr\n- S 3 Maisach Abfahrt 07:20 Uhr → Ostbahnhof Ankunft 07:59 Uhr / Abfahrt 08:02 Uhr → Deisenhofen Ankunft 08:21 Uhr\n- S 3 Maisach Abfahrt 07:40 Uhr → Ostbahnhof Ankunft 08:19 Uhr / Abfahrt 08:22 Uhr → Deisenhofen Ankunft 08:41 Uhr\n- S 3 Maisach Abfahrt 08:00 Uhr → Ostbahnhof Ankunft 08:39 Uhr\n- S 3 Maisach Abfahrt 08:20 Uhr → Ostbahnhof Ankunft 08:59 Uhr\n- S 3 Maisach Abfahrt 08:40 Uhr → Ostbahnhof Ankunft 09:19 Uhr\n- S 3 Maisach Abfahrt 09:00 Uhr → Ostbahnhof Ankunft 09:39 Uhr\n\n**S 3 Deisenhofen → Maisach / Pasing**\n\n- S 3 Deisenhofen Abfahrt 06:20 Uhr → Ostbahnhof Ankunft 06:35 Uhr / Abfahrt 06:37 Uhr → Maisach Ankunft 07:18 Uhr\n- S 3 Deisenhofen Abfahrt 06:40 Uhr → Ostbahnhof Ankunft 06:55 Uhr / Abfahrt 06:57 Uhr → Maisach Ankunft 07:38 Uhr\n- S 3 Deisenhofen Abfahrt 07:00 Uhr → Ostbahnhof Ankunft 07:15 Uhr / Abfahrt 07:17 Uhr → Maisach Ankunft 07:58 Uhr\n- S 3 Deisenhofen Abfahrt 07:20 Uhr → Ostbahnhof Ankunft 07:35 Uhr / Abfahrt 07:37 Uhr → Maisach Ankunft 08:18 Uhr\n- S 3 Deisenhofen Abfahrt 07:40 Uhr → Ostbahnhof Ankunft 07:55 Uhr / Abfahrt 07:57 Uhr → Maisach Ankunft 08:38 Uhr\n- S 3 Deisenhofen Abfahrt 08:00 Uhr → Pasing Ankunft 08:35 Uhr **entfällt zwischen Deisenhofen und Ostbahnhof**\n- S 3 Deisenhofen Abfahrt 08:20 Uhr → Pasing Ankunft 08:55 Uhr **entfällt zwischen Deisenhofen und Ostbahnhof**\n- S 3 Deisenhofen Abfahrt 08:40 Uhr → Pasing Ankunft 09:15 Uhr **entfällt zwischen Ostbahnhof und Maisach**\n\nBitte beachten Sie, dass es heute Vormittag auf der Linie S 3 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.\n\nDer Grund hierfür ist eine Reparatur an der Strecke.",
-    "severity": 3,
-    "stations": [
-      "Deisenhofen",
-      "Ostbahnhof",
-      "Maisach",
-      "Pasing"
-    ],
-    "title": "Reparatur an der Strecke - Heute Vormittag fallen folgende Züge der Linie S 3 des 10-Minuten-Takts aus:",
-    "type": "INCIDENT",
-    "validFrom": 1794974400000,
-    "validTo": 1794992400000
   }
 }
