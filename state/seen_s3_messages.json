@@ -52,5 +52,18 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1790932440000,
     "validTo": 1796956200000
+  },
+  "d39c159ea3a71f1e": {
+    "description": "- S3 München Ost Abfahrt 15:37 Uhr - Maisach Ankunft 16:18 Uhr ✅\n- S3 München Ost Abfahrt 15:57 Uhr - Maisach Ankunft 16:38 Uhr ✅",
+    "message_id": "1572627726890700884",
+    "severity": 3,
+    "stations": [
+      "Ostbahnhof",
+      "Maisach"
+    ],
+    "title": "Ausfall des 10-Minuten-Takts  - Aufgrund der Reparatur einer Weiche entfallen heute Nachmittag auf der Linie S3 bis auf folgende Fahrten die S-Bahnen des 10-Minuten-Takts:",
+    "type": "INCIDENT",
+    "validFrom": 1795011660000,
+    "validTo": 1795015800000
   }
 }
