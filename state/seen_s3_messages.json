@@ -52,32 +52,5 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1790932440000,
     "validTo": 1796956200000
-  },
-  "be46c6c2fd07b59e": {
-    "description": "‼️ Ab den folgenden Fahrten verkehren die Züge der Linie S 5 zwischen Kreuzstraße und Ostbahnhof. ‼️\n\n**S 5 Kreuzstraße ↔ Pasing**\n\n- S 5 Kreuzstraße Abfahrt 11:47 Uhr → Perlach 12:15 Uhr → Ostbahnhof Ankunft 12:21 Uhr\n- S 5 Ostbahnhof Abfahrt 12:36 Uhr → Perlach 12:46 Uhr → Kreuzstraße Ankunft 13:13 Uhr\n\nAlle anderen Linien verkehren ohne Einschränkungen durch die Stammstrecke.\n\nInformieren Sie sich wegen eventueller Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.",
-    "severity": 3,
-    "stations": [
-      "Ostbahnhof",
-      "Giesing",
-      "Pasing"
-    ],
-    "title": "Reparatur an einem Signal - Die Strecke ist zwischen Ostbahnhof und Giesing ist wieder befahrbar. Die S 3 verkehrt wieder planmäßig auf dem Regelweg mit allen Halten.",
-    "type": "INCIDENT",
-    "validFrom": 1794992820000,
-    "validTo": 1795010400000
-  },
-  "df7411d850ba0ee7": {
-    "description": "**S 3 Mammendorf ↔ Holzkirchen**\n\n- S 3 Mammendorf Abfahrt 12:04 Uhr → Giesing 12:55 Uhr → Holzkirchen Ankunft 13:26 Uhr\n\nErsatzverkehr mit Bussen und Großraumtaxis läuft parallel bis 15 Uhr.\n\nEs kommt noch zu größeren Folgeverspätungen und Teilausfällen.\n\nDer Grund hierfür waren Gegenstände auf der Strecke bei Unterhaching.",
-    "severity": 3,
-    "stations": [
-      "Unterhaching",
-      "Holzkirchen",
-      "Mammendorf",
-      "Giesing"
-    ],
-    "title": "Gegenstände auf der Strecke bei Unterhaching - Ab den folgenden Fahrten verkehrt die S 3 wieder planmäßig zwischen Mammendorf und Holzkirchen.",
-    "type": "INCIDENT",
-    "validFrom": 1794997680000,
-    "validTo": 1795010400000
   }
 }
