@@ -53,28 +53,17 @@
     "validFrom": 1791550800000,
     "validTo": 1851371940000
   },
-  "63842e9640c8e1fe": {
-    "description": "Die S-Bahnen kommend von Mammendorf wenden in Giesing.\n\nEin Ersatzverkehr zwischen Giesing und Deisenhofen ist in Planung.\n\nEs kommt zu Verspätungen und Teilausfällen.\n\nDer Grund hierfür sind Gegenstände auf der Strecke bei Unterhaching.",
-    "message_id": "1572567269903569029",
+  "8893602dbe7bf73a": {
+    "description": "Die S1 verkehrt nur zwischen Feldmoching ↔ Freising/Flughafen, die S5 verkehrt nur zwischen Kreuzstraße ↔ Perlach, die S 3 kommend von Mammendorf verkehrt nur zwischen Mammendorf und Giesing andere Linien verkehren auf dem Regelweg. ‼️\n\nEs kommt noch zu größeren Folgeverspätungen und Teilausfällen.\n\nDer Grund hierfür war eine Reparatur an der Oberleitung in Pasing.",
+    "message_id": "1572574783026110595",
     "severity": 3,
     "stations": [
-      "Unterhaching",
-      "Deisenhofen",
+      "Hackerbrücke",
       "Mammendorf",
-      "Giesing"
-    ],
-    "title": "Gegenstände auf der Strecke bei Unterhaching - Zwischen Giesing und Deisenhofen sind keine Zugfahrten möglich.",
-    "type": "INCIDENT",
-    "validFrom": 1794997680000,
-    "validTo": 1795005000000
-  },
-  "7fa30f0d87f01b31": {
-    "description": "Es kommt noch zu größeren Folgeverspätungen und Teilausfällen. Der Grund hierfür war eine Reparatur an der Oberleitung in Pasing.",
-    "severity": 2,
-    "stations": [
+      "Giesing",
       "Pasing"
     ],
-    "title": "Reparatur an der Oberleitung - ‼️Pasing Gleise 7 + 8 sind wieder frei. Die S-Bahnen verkehren wieder auf Regelweg mit allen Halten.",
+    "title": "Reparatur an der Oberleitung - Pasing Gleise 7 + 8 sind wieder frei. ‼️ Die S6 kommend von Ebersberg wendet bis auf weiteres an der Hackerbrücke.",
     "type": "INCIDENT",
     "validFrom": 1794986580000,
     "validTo": 1795003200000
@@ -93,5 +82,22 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1790932440000,
     "validTo": 1796956200000
+  },
+  "f8428dbfd9ed9fd6": {
+    "description": "Die S-Bahnen kommend aus Mammendorf wenden in Giesing.\n\nWir haben für Sie einen Ersatzverkehr mit Bussen und ‼️ Großraumtaxis zwischen Giesing und Deisenhofen eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.\n\n**‼️ Erste Ersatzverkehr Busse starten von Giesing und Deisenhofen:**\n\n- von Deisenhofen um 12:43 Uhr\n- von Giesing um 11:45 Uhr\n\n**Alternative:**\n\n- Zusätzlich halten die Züge der BRB in Otterfing, Sauerlach und Deisenhofen.\n\nEs kommt zu Verspätungen und Teilausfällen.\n\nDer Grund hierfür sind Gegenstände auf der Strecke bei Unterhaching.",
+    "message_id": "1572574781671342122",
+    "severity": 3,
+    "stations": [
+      "Unterhaching",
+      "Deisenhofen",
+      "Mammendorf",
+      "Sauerlach",
+      "Otterfing",
+      "Giesing"
+    ],
+    "title": "Gegenstände auf der Strecke bei Unterhaching - Zwischen Giesing und Deisenhofen sind keine Zugfahrten möglich.",
+    "type": "INCIDENT",
+    "validFrom": 1794997680000,
+    "validTo": 1795005000000
   }
 }
