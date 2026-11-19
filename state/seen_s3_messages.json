@@ -38,9 +38,9 @@
     "validFrom": 1791550800000,
     "validTo": 1851371940000
   },
-  "73579e3eddc942b3": {
-    "description": "Es kommt zu Verspätungen und Zugausfällen.\n\nℹ️ Die S-Bahnen aus Richtung Holzkirchen verkehren bis Deisenhofen und enden dort vorzeitig. Die S-Bahnen aus Richtung Ostbahnhof verkehren bis Giesing und enden vorzeitig.\n\nAktuell arbeiten wir daran, schnellstmöglich einen Ersatzverkehr für Sie einzurichten. Wir werden Sie informieren, sobald dieser den Betrieb aufnimmt.\n\nGrund für diese Beeinträchtigungen ist ein Notarzteinsatz auf der Strecke im Bereich Fasanenpark.\n\nGenaue Informationen zur Dauer der Sperrung liegen noch nicht vor. Erfahrungsgemäß ist jedoch mit Einschränkungen von circa 2 Stunden zu rechnen.",
-    "message_id": "1572997571004076123",
+  "7875ee3c5ad772e3": {
+    "description": "Es kommt zu Verspätungen und Zugausfällen.\n\nℹ️ Die S-Bahnen aus Richtung Holzkirchen verkehren bis Deisenhofen und enden dort vorzeitig. Die S-Bahnen aus Richtung Ostbahnhof verkehren bis Giesing und enden vorzeitig.\n\nWir haben einen **Ersatzverkehr mit Großraumtaxis und Bus** für Sie eingerichtet. Bitte nutzen Sie nur die mit \"Ersatzverkehr\" gekennzeichneten Fahrzeuge.\n\nGrund für diese Beeinträchtigungen ist ein Notarzteinsatz auf der Strecke im Bereich Fasanenpark.\n\nGenaue Informationen zur Dauer der Sperrung liegen noch nicht vor. Erfahrungsgemäß ist jedoch mit Einschränkungen von circa 2 Stunden zu rechnen.",
+    "message_id": "1573005144256282766",
     "severity": 3,
     "stations": [
       "Unterhaching",
