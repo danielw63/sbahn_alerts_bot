@@ -52,20 +52,5 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1790932440000,
     "validTo": 1796956200000
-  },
-  "ac682c5a230c317b": {
-    "description": "**Der Ersatzverkehr mit Großraumtaxis und Bus wird um 17:30 Uhr eingestellt**. Bitte nutzen Sie nur die mit \"Ersatzverkehr\" gekennzeichneten Fahrzeuge.\n\nDer Notarzteinsatz auf der Strecke im Bereich Fasanenpark wurde beendet.",
-    "message_id": "1573012695127429312",
-    "severity": 3,
-    "stations": [
-      "Unterhaching",
-      "Fasanenpark",
-      "Deisenhofen",
-      "Giesing"
-    ],
-    "title": "Deisenhofen: Notarzteinsatz auf der Strecke - Die Streckensperrung zwischen Giesing und Unterhaching wurde aufgehoben. Einige S-Bahnen des 10-Minuten-Takts fallen aus ❗",
-    "type": "INCIDENT",
-    "validFrom": 1795099980000,
-    "validTo": 1795107600000
   }
 }
