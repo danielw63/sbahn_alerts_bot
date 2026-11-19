@@ -38,23 +38,6 @@
     "validFrom": 1791550800000,
     "validTo": 1851371940000
   },
-  "7875ee3c5ad772e3": {
-    "description": "Es kommt zu Verspätungen und Zugausfällen.\n\nℹ️ Die S-Bahnen aus Richtung Holzkirchen verkehren bis Deisenhofen und enden dort vorzeitig. Die S-Bahnen aus Richtung Ostbahnhof verkehren bis Giesing und enden vorzeitig.\n\nWir haben einen **Ersatzverkehr mit Großraumtaxis und Bus** für Sie eingerichtet. Bitte nutzen Sie nur die mit \"Ersatzverkehr\" gekennzeichneten Fahrzeuge.\n\nGrund für diese Beeinträchtigungen ist ein Notarzteinsatz auf der Strecke im Bereich Fasanenpark.\n\nGenaue Informationen zur Dauer der Sperrung liegen noch nicht vor. Erfahrungsgemäß ist jedoch mit Einschränkungen von circa 2 Stunden zu rechnen.",
-    "message_id": "1573005144256282766",
-    "severity": 3,
-    "stations": [
-      "Unterhaching",
-      "Fasanenpark",
-      "Deisenhofen",
-      "Holzkirchen",
-      "Ostbahnhof",
-      "Giesing"
-    ],
-    "title": "Deisenhofen: Notarzteinsatz auf der Strecke - Die Strecke zwischen Giesing und Unterhaching ist aktuell gesperrt.",
-    "type": "INCIDENT",
-    "validFrom": 1795099980000,
-    "validTo": 1795107600000
-  },
   "9b9bb84cd0583c03": {
     "description": "Wegen Oberleitungsarbeiten kommt es in verschiedenen Nächten zwischen dem 26.10. und 10.12.26 zu Ersatzzügen und einem 60-Minuten-Takt.\n\nBetroffen sind die Nächte Montag/Dienstag, 26./27.10. und Dienstag/Mittwoch, 27./28.10.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Mittwoch/Donnerstag, 28./29.10. und Donnerstag/Freitag, 29./30.10.2026 (jeweils 0:45 bis 3:30 Uhr), Nächte Montag/Dienstag, 2./3.11 bis Donnerstag/Freitag, 5./6.11.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Montag/Dienstag, 9./10.11. bis Donnerstag/Freitag, 12./13.11.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Dienstag/Mittwoch, 17./18.11. und Mittwoch/Donnerstag, 18./19.11.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Dienstag/Mittwoch, 24./25.11. und Mittwoch/Donnerstag, 25./26.11.2026 (jeweils 21:45 bis 3:30 Uhr) zwischen Ostbahnhof/Giesing und Holzkirchen, Nächte Montag/Dienstag, 30.11./1.12. bis Donnerstag/Freitag, 3./4.12.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Montag/Dienstag, 7./8.12. bis Donnerstag/Freitag, 10./11.12.2026 (jeweils 21:45 bis 3:30 Uhr).\n\nZusätzlich besteht in den Nächten 23./24.11., 25./26.11. und 26./27.11. jeweils von 21:45 Uhr bis 3:30 Uhr Ersatzverkehr mit Bussen zwischen Deisenhofen und Holzkirchen. Bitte beachten Sie dazu die gesonderten Informationen.",
     "severity": 3,
@@ -69,5 +52,20 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1790932440000,
     "validTo": 1796956200000
+  },
+  "ac682c5a230c317b": {
+    "description": "**Der Ersatzverkehr mit Großraumtaxis und Bus wird um 17:30 Uhr eingestellt**. Bitte nutzen Sie nur die mit \"Ersatzverkehr\" gekennzeichneten Fahrzeuge.\n\nDer Notarzteinsatz auf der Strecke im Bereich Fasanenpark wurde beendet.",
+    "message_id": "1573012695127429312",
+    "severity": 3,
+    "stations": [
+      "Unterhaching",
+      "Fasanenpark",
+      "Deisenhofen",
+      "Giesing"
+    ],
+    "title": "Deisenhofen: Notarzteinsatz auf der Strecke - Die Streckensperrung zwischen Giesing und Unterhaching wurde aufgehoben. Einige S-Bahnen des 10-Minuten-Takts fallen aus ❗",
+    "type": "INCIDENT",
+    "validFrom": 1795099980000,
+    "validTo": 1795107600000
   }
 }
