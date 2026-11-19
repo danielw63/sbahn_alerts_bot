@@ -53,16 +53,16 @@
     "validFrom": 1790932440000,
     "validTo": 1796956200000
   },
-  "e3b4bba659071f9b": {
-    "description": "Grund für diese Beeinträchtigungen ist ein Polizeieinsatz in Giesing.",
-    "message_id": "1573027822090453144",
+  "f45f51e233b187e0": {
+    "description": "Grund für diese Beeinträchtigungen war ein Polizeieinsatz in Giesing.",
+    "message_id": "1573035405308076176",
     "severity": 3,
     "stations": [
       "Giesing"
     ],
-    "title": "Polizeieinsatz  - Derzeit kommt es auf den Linien S3 und S5 in beide Richtungen zu Verspätungen von 5 bis 10 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen.",
+    "title": "Polizeieinsatz  - Auf der Linie S3 kommt es zu keinen Beeinträchtigungen mehr. Die S-Bahnen der Linie S5 fahren noch in beide Richtungen mit Folgeverspätungen von 20 bis 25 Minuten. Durch vorzeitige Zugwenden kommt es auch weiterhin zu Teilausfällen.",
     "type": "INCIDENT",
     "validFrom": 1795107360000,
-    "validTo": 1795110960000
+    "validTo": 1795114800000
   }
 }
