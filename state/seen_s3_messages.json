@@ -52,5 +52,20 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1790932440000,
     "validTo": 1796956200000
+  },
+  "a934cb238c7a4ed9": {
+    "description": "**S 3 Maisach → Deisenhofen / Ostbahnhof**\n\n- S 3 Maisach Abfahrt 06:20 Uhr → Ostbahnhof Ankunft 06:59 Uhr / Abfahrt 07:02 Uhr → Deisenhofen Ankunft 07:21 Uhr\n- S 3 Maisach Abfahrt 07:20 Uhr → Ostbahnhof Ankunft 07:59 Uhr / Abfahrt 08:02 Uhr → Deisenhofen Ankunft 08:21 Uhr\n\n**S 3 Deisenhofen → Maisach / Pasing**\n\n- S 3 Deisenhofen Abfahrt 07:40 Uhr → Ostbahnhof Ankunft 07:55 Uhr / Abfahrt 07:57 Uhr → Maisach Ankunft 08:38 Uhr\n\nBitte beachten Sie, dass es heute Vormittag zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.\n\nDer Grund hierfür ist eine technische Störung am Zug.",
+    "message_id": "1573231674509234307",
+    "severity": 3,
+    "stations": [
+      "Deisenhofen",
+      "Ostbahnhof",
+      "Maisach",
+      "Pasing"
+    ],
+    "title": "Technische Störung an einem Zug - Heute Vormittag fallen folgende Züge des 10-Minuten-Takts aus:",
+    "type": "INCIDENT",
+    "validFrom": 1795147500000,
+    "validTo": 1795160400000
   }
 }
