@@ -39,5 +39,18 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1790932440000,
     "validTo": 1796956200000
+  },
+  "fec6736e121e6b79": {
+    "description": "Der Grund hierfür sind unbefugte Personen auf der Strecke.",
+    "message_id": "1574522617518624839",
+    "severity": 2,
+    "stations": [
+      "Donnersbergerbrücke",
+      "Hackerbrücke"
+    ],
+    "title": "Unbefugte Personen auf der Strecke - Zwischen Hackerbrücke und Donnersbergerbrücke kommt es zu Verspätungen von 5 bis 10 Minuten.",
+    "type": "INCIDENT",
+    "validFrom": 1795464660000,
+    "validTo": 1795466700000
   }
 }
