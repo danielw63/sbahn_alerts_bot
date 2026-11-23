@@ -25,16 +25,16 @@
     "validFrom": 1791550800000,
     "validTo": 1851371940000
   },
-  "90cd42fd860fa01c": {
-    "description": "Grund für diese Beeinträchtigungen sind unbefugte Personen auf der Strecke zwischen Olching und Lochhausen.",
-    "message_id": "1574349022641258527",
+  "80a95cb3bc463682": {
+    "description": "Die unbefugte Personen auf der Strecke zwischen Olching und Lochhausen wurden von der Bundespolizei aufgegriffen.",
+    "message_id": "1574356530470461563",
     "severity": 2,
     "stations": [
       "Lochhausen",
       "Olching",
       "Pasing"
     ],
-    "title": "Pasing: Unbefugte Personen auf der Strecke  - Zwischen Olching und Lochhausen sind wieder Zugfahrten möglich, allerdings nur mit reduzierter Geschwindigkeit ❗ Zusätzlich kommt es zu Verspätungen von 5 bis 10 Minuten.",
+    "title": "Pasing: Unbefugte Personen auf der Strecke  - Zwischen Olching und Lochhausen sind wieder uneingeschränkt Zugfahrten möglich.",
     "type": "INCIDENT",
     "validFrom": 1795421880000,
     "validTo": 1795428000000
