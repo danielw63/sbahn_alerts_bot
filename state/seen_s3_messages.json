@@ -25,6 +25,19 @@
     "validFrom": 1791550800000,
     "validTo": 1851371940000
   },
+  "7578fb88a2f9952b": {
+    "description": "Der Grund hierfür waren unbefugte Personen auf der Strecke.",
+    "message_id": "1574537721785876584",
+    "severity": 3,
+    "stations": [
+      "Ostbahnhof",
+      "Pasing"
+    ],
+    "title": "Unbefugte Personen auf der Strecke - Zwischen Ostbahnhof und Pasing kommt es weiterhin zu Folgeverspätungen von 15 bis 20 Minuten und vereinzelt vorzeitigen Zugwenden auf den Außenästen in beiden Richtungen.",
+    "type": "INCIDENT",
+    "validFrom": 1795464660000,
+    "validTo": 1795473900000
+  },
   "9b9bb84cd0583c03": {
     "description": "Wegen Oberleitungsarbeiten kommt es in verschiedenen Nächten zwischen dem 26.10. und 10.12.26 zu Ersatzzügen und einem 60-Minuten-Takt.\n\nBetroffen sind die Nächte Montag/Dienstag, 26./27.10. und Dienstag/Mittwoch, 27./28.10.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Mittwoch/Donnerstag, 28./29.10. und Donnerstag/Freitag, 29./30.10.2026 (jeweils 0:45 bis 3:30 Uhr), Nächte Montag/Dienstag, 2./3.11 bis Donnerstag/Freitag, 5./6.11.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Montag/Dienstag, 9./10.11. bis Donnerstag/Freitag, 12./13.11.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Dienstag/Mittwoch, 17./18.11. und Mittwoch/Donnerstag, 18./19.11.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Dienstag/Mittwoch, 24./25.11. und Mittwoch/Donnerstag, 25./26.11.2026 (jeweils 21:45 bis 3:30 Uhr) zwischen Ostbahnhof/Giesing und Holzkirchen, Nächte Montag/Dienstag, 30.11./1.12. bis Donnerstag/Freitag, 3./4.12.2026 (jeweils 21:45 bis 3:30 Uhr), Nächte Montag/Dienstag, 7./8.12. bis Donnerstag/Freitag, 10./11.12.2026 (jeweils 21:45 bis 3:30 Uhr).\n\nZusätzlich besteht in den Nächten 23./24.11., 25./26.11. und 26./27.11. jeweils von 21:45 Uhr bis 3:30 Uhr Ersatzverkehr mit Bussen zwischen Deisenhofen und Holzkirchen. Bitte beachten Sie dazu die gesonderten Informationen.",
     "severity": 3,
@@ -39,18 +52,5 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1790932440000,
     "validTo": 1796956200000
-  },
-  "a73893ae97baf946": {
-    "description": "Der Grund hierfür sind unbefugte Personen auf der Strecke.",
-    "message_id": "1574530195518521567",
-    "severity": 3,
-    "stations": [
-      "Ostbahnhof",
-      "Pasing"
-    ],
-    "title": "Unbefugte Personen auf der Strecke - Zwischen Ostbahnhof und Pasing kommt es zu Verspätungen von 15 bis 20 Minuten in beiden Richtungen.",
-    "type": "INCIDENT",
-    "validFrom": 1795464660000,
-    "validTo": 1795469400000
   }
 }
