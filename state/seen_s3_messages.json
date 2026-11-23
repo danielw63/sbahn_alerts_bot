@@ -40,17 +40,17 @@
     "validFrom": 1790932440000,
     "validTo": 1796956200000
   },
-  "fec6736e121e6b79": {
+  "a73893ae97baf946": {
     "description": "Der Grund hierfür sind unbefugte Personen auf der Strecke.",
-    "message_id": "1574522617518624839",
-    "severity": 2,
+    "message_id": "1574530195518521567",
+    "severity": 3,
     "stations": [
-      "Donnersbergerbrücke",
-      "Hackerbrücke"
+      "Ostbahnhof",
+      "Pasing"
     ],
-    "title": "Unbefugte Personen auf der Strecke - Zwischen Hackerbrücke und Donnersbergerbrücke kommt es zu Verspätungen von 5 bis 10 Minuten.",
+    "title": "Unbefugte Personen auf der Strecke - Zwischen Ostbahnhof und Pasing kommt es zu Verspätungen von 15 bis 20 Minuten in beiden Richtungen.",
     "type": "INCIDENT",
     "validFrom": 1795464660000,
-    "validTo": 1795466700000
+    "validTo": 1795469400000
   }
 }
