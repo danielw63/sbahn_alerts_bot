@@ -39,5 +39,15 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1790932440000,
     "validTo": 1796956200000
+  },
+  "f50fc82bd3979cd3": {
+    "description": "Der Grund hierfür ist eine Reparatur an einem Signal.",
+    "message_id": "1574824605091102833",
+    "severity": 3,
+    "stations": [],
+    "title": "Reparatur an einem Signal - Auf der Stammstrecke kommt es in beiden Richtungen Verspätungen von bis zu 20 Minuten teilweise auch höher, sowie zu vorzeitigen Zugwenden auf den Außenbereichen der S-Bahn..",
+    "type": "INCIDENT",
+    "validFrom": 1795536600000,
+    "validTo": 1795543200000
   }
 }
