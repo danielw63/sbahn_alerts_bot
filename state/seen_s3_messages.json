@@ -40,13 +40,14 @@
     "validFrom": 1790932440000,
     "validTo": 1796956200000
   },
-  "e3eaceb2fc7d3c10": {
+  "eb7fd0895fa9b852": {
     "description": "Die Reparatur an einem Signal wurde beendet.",
+    "message_id": "1574847294459748363",
     "severity": 3,
     "stations": [],
-    "title": "Reparatur an einem Signal - Auf der Stammstrecke kommt es in beiden Richtungen noch zu Folgeverspätungen von bis zu 20 Minuten teilweise auch höher, sowie zu vorzeitigen Zugwenden auf den Außenbereichen der S-Bahn..",
+    "title": "Reparatur an einem Signal - Auf der Stammstrecke in beiden Richtungen normalisiert sich der S-Bahnverkehr allmählich es kommt noch zu Folgeverspätungen von bis zu 10 Minuten nur vereinzelt noch höher, zusätzlich kommt es vereinzelt noch zu vorzeitige Zugwenden auf den Außenbereichen der S-Bahn..",
     "type": "INCIDENT",
     "validFrom": 1795536600000,
-    "validTo": 1795543200000
+    "validTo": 1795545000000
   }
 }
