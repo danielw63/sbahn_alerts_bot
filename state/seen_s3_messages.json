@@ -25,20 +25,8 @@
     "validFrom": 1791550800000,
     "validTo": 1851371940000
   },
-  "5df58438bf87428f": {
-    "description": "Durch vorzeitige Zugwenden im Außenbereich kommt es auch zu Teilausfällen.\n\nGrund für diese Beeinträchtigungen war die ärztliche Versorgung eines Fahrgastes am Hauptbahnhof.",
-    "severity": 2,
-    "stations": [
-      "München Hbf"
-    ],
-    "title": "Ärztliche Versorgung eines Fahrgastes  - Derzeit kommt es auf der Stammstrecke in beide Richtungen zu Verspätungen von 10 bis 15 Minuten.",
-    "type": "INCIDENT",
-    "validFrom": 1795500000000,
-    "validTo": 1795509000000
-  },
   "778bd09fd28dc8a6": {
     "description": "Der Feuerwehreinsatz wurde beendet.",
-    "message_id": "1574696312329347073",
     "severity": 2,
     "stations": [
       "Karlsplatz (Stachus)",
