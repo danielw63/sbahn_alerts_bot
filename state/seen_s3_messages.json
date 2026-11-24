@@ -39,15 +39,5 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1790932440000,
     "validTo": 1796956200000
-  },
-  "fe9197e746326450": {
-    "description": "Die Reparatur an einem Signal wurde beendet.",
-    "message_id": "1574862392452583495",
-    "severity": 3,
-    "stations": [],
-    "title": "Reparatur an einem Signal - Auf der Stammstrecke in beiden Richtungen normalisiert sich der S-Bahnverkehr allmählich es kommt noch zu Folgeverspätungen von bis zu 10 Minuten nur vereinzelt noch höher, zusätzlich kommt es vereinzelt noch zu vorzeitige Zugwenden auf den Außenbereichen der S-Bahn..",
-    "type": "SCHEDULE_CHANGE",
-    "validFrom": 1795536600000,
-    "validTo": 1795548600000
   }
 }
