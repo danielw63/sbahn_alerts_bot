@@ -27,7 +27,6 @@
   },
   "5df58438bf87428f": {
     "description": "Durch vorzeitige Zugwenden im Außenbereich kommt es auch zu Teilausfällen.\n\nGrund für diese Beeinträchtigungen war die ärztliche Versorgung eines Fahrgastes am Hauptbahnhof.",
-    "message_id": "1574681191213301823",
     "severity": 2,
     "stations": [
       "München Hbf"
