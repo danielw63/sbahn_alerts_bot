@@ -1,4 +1,19 @@
 {
+  "48b50a4008451f21": {
+    "description": "**S 5 Kreuzstraße – Pasing**\n\nZüge fahren nur zwischen Kreuzstraße und Giesing.\n\n**Alternativen:**\n\n- U 2 zwischen Hauptbahnhof und Giesing.\n- U 5 zwischen Hauptbahnhof und Innsbrucker Ring, U 2 zwischen Innsbrucker Ring und Giesing.\n- Bus 54 zwischen Ostbahnhof und Giesing.\n\n**✅ Alle anderen Linien verkehren auf dem Regelweg.**\n\n**Die S-Bahnen des 10-Minuten-Takts entfallen auf allen Linien.**\n\n**Bitte beachten Sie für mögliche Gleisänderungen die Ansagen und Anzeigen am Bahnsteig.**\n\n**Informieren Sie sich wegen eventueller Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.**",
+    "message_id": "1575572073546260592",
+    "severity": 3,
+    "stations": [
+      "München Hbf",
+      "Ostbahnhof",
+      "Giesing",
+      "Pasing"
+    ],
+    "title": "Reparatur an einem Signal - Am Ostbahnhof sind wieder eingeschränkt Zugfahrten möglich. Die Reparatur an einem Signal ist beendet. Bitte rechnen Sie mit Folgeverspätungen von bis zu 20 Minuten. Zudem kommt es auch weiterhin zu Zugausfällen.\n \nDie S-Bahnen der Linie S5 verkehren abweichend der regulären Linienführung wie folgt:",
+    "type": "INCIDENT",
+    "validFrom": 1795705560000,
+    "validTo": 1795719600000
+  },
   "4e1e7061296b411c": {
     "description": "Ab dem 25. August 2026 ist aufgrund von Bauarbeiten am Bahnhof Laim bis Mitte 2028 mit Änderungen bei den Fahrten in Richtung Münchner Innenstadt zu rechnen. Diese Änderungen betreffen ausschließlich die Fahrten in Richtung Innenstadt. Bei den Fahrten aus der Stadt heraus halten alle S-Bahn-Züge weiterhin wie gewohnt in Laim. Fahrgäste, die aus Richtung Pasing kommen und mit den Linien S3, S4, S6 oder S8 nach Laim fahren: Diese Linien halten in Richtung Stadtzentrum nicht mehr am Bahnhof Laim. Fahrgäste, die nach Laim fahren möchten, werden gebeten, mit der S-Bahn bis Hirschgarten weiterzufahren, dort auf demselben Bahnsteig umzusteigen und dann mit der nächsten S-Bahn zurück nach Laim zu fahren.  Mit einem für Laim gültigen Fahrschein ist es möglich, bis Hirschgarten weiterzufahren und dann zurück nach Laim zu fahren. Durch den zusätzlichen Umstieg kann sich die Fahrzeit verlängern. Den Fahrgästen wird empfohlen, vor Fahrtantritt die Anschlussinformationen zu überprüfen, die aktuellen Fahrgastinformationen im Zug und am Bahnhof zu beachten und insbesondere zu Beginn des Schuljahres sowie in den ersten Tagen des Betriebs die zusätzliche Fahrzeit einzuplanen. Kurz zusammengefasst: Bauarbeiten am Bahnhof Laim vom 25.08.2026 bis voraussichtlich Mitte 2028 Die Linien S3, S4, S6 und S8 halten stadteinwärts nicht in Laim. Stadtauswärts ergeben sich keine Änderungen. Fahrgäste mit Ziel Laim fahren bitte bis Hirschgarten weiter, steigen dort um und fahren mit der nächsten S-Bahn zurück nach Laim. Kein zusätzliches Ticket erforderlich. Die Linien S1, S2 und S5 sind nicht betroffen und halten weiterhin in beiden Fahrtrichtungen in Laim.",
     "severity": 2,
@@ -39,20 +54,5 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1790932440000,
     "validTo": 1796956200000
-  },
-  "ecb82137b66edc3a": {
-    "description": "**S 1 Freising / Flughafen**\n\nZüge beginnen/enden in Moosach.\n\n**Alternative:**\n\n- U 2 ab Hauptbahnhof bis Feldmoching oder U 3 ab Marienplatz bis Moosach und dort Umstieg zur S 1. Die Gegenrichtung gilt sinngemäß.\n- Bus 162 zwischen Pasing und Moosach.\n\n**S 5 Kreuzstraße – Pasing**\n\nZüge fahren nur zwischen Kreuzstraße und Giesing.\n\n**Alternativen:**\n\n- U 2 zwischen Hauptbahnhof und Giesing.\n- U 5 zwischen Hauptbahnhof und Innsbrucker Ring, U 2 zwischen Innsbrucker Ring und Giesing.\n- Bus 54 zwischen Ostbahnhof und Giesing.\n\n**✅ Alle anderen Linien verkehren auf dem Regelweg.**\n\n**Die S-Bahnen des 10-Minuten-Takts entfallen auf allen Linien.**\n\n**Bitte beachten Sie für mögliche Gleisänderungen die Ansagen und Anzeigen am Bahnsteig.**\n\n**Informieren Sie sich wegen eventueller Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.**",
-    "severity": 3,
-    "stations": [
-      "München Hbf",
-      "Marienplatz",
-      "Ostbahnhof",
-      "Giesing",
-      "Pasing"
-    ],
-    "title": "Reparatur an einem Signal - Am Ostbahnhof sind wieder eingeschränkt Zugfahrten möglich. Die Reparatur an einem Signal ist beendet. Bitte rechnen Sie mit Folgeverspätungen von bis zu 20 Minuten. Zudem kommt es auch weiterhin zu Zugausfällen.\n \nDie S-Bahnen der Linien S1 und S5 verkehren abweichend der regulären Linienführung wie folgt:",
-    "type": "INCIDENT",
-    "validFrom": 1795705560000,
-    "validTo": 1795716000000
   }
 }
