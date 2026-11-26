@@ -1,4 +1,25 @@
 {
+  "16e2ef67e6d274c1": {
+    "description": "**S 1 Freising / Flughafen**\n\nZüge beginnen/enden in Moosach.\n\n**Alternative:**\n\n- U 2 ab Hauptbahnhof bis Feldmoching oder U 3 ab Marienplatz bis Moosach und dort Umstieg zur S 1. Die Gegenrichtung gilt sinngemäß.\n- Bus 162 zwischen Pasing und Moosach.\n\n**S 2 Petershausen / Altomünster**\n\nZüge beginnen/enden am Heimeranplatz Gleis 11.\n\n**Alternativen:**\n\n- Von/nach Petershausen die U 5 ab Hauptbahnhof, Karlsplatz und Ostbahnhof bis Heimeranplatz nutzen.\n\n**S 2 Erding**\n\nZüge fahren nur zwischen Erding und Berg am Laim.\n\n**Alternative:**\n\n- U2 ab Hauptbahnhof von/nach Messestadt West und dann Bus 190 / 263 von/nach Riem.\n- U2 zwischen Hauptbahnhof und Trudering, Bus 194 (Mo-Fr) zwischen Trudering und Riem.\n\n**✅ S 3 Mammendorf - Holzkirchen**\n\nDie Züge fahren auf dem Regelweg.\n\n**Alternativen:**\n\n- Bus 54 vom/zum Ostbahnhof.\n- U 2 ab Hauptbahnhof.\n- U 5 ab Hauptbahnhof, Karlsplatz, Ostbahnhof bis Innsbrucker Ring und dann die U 2 bis Giesing.\n\n**S 4 Geltendorf**\n\nZüge beginnen/enden am Hauptbahnhof Nord Gleis 27 - 36. Der Halt **Hackerbrücke** entfällt.\n\n**S 5 Kreuzstraße – Pasing**\n\nZüge fahren nur zwischen Kreuzstraße und Giesing.\n\n**Alternativen:**\n\n- U 2 zwischen Hauptbahnhof und Giesing.\n- U 5 zwischen Hauptbahnhof und Innsbrucker Ring, U 2 zwischen Innsbrucker Ring und Giesing.\n- Bus 54 zwischen Ostbahnhof und Giesing.\n\n**✅ S 6 Tutzing - Ebersberg**\n\nDie Züge fahren auf dem Regelweg. ℹ️ Beachten Sie bitte die Beeinträchtigungen wegen der Reparatur einer Weiche in Grafing Bahnhof (separate Meldung)❗\n\n**✅ S 7 Wolfratshausen**\n\nZüge verkehren auf dem Regelweg.\n\n**✅ S 8 Herrsching - Flughafen**\n\nDie Züge verkehren auf dem Regelweg.\n\n**Die S-Bahnen des 10-Minuten-Takts entfallen auf allen Linien.**\n\n**Bitte beachten Sie für mögliche Gleisänderungen die Ansagen und Anzeigen am Bahnsteig.**\n\n**Fahrgästen zwischen Pasing und Hauptbahnhof / Ostbahnhof empfehlen wir folgende Alternativen:**\n\n- Zwischen Pasing und Hauptbahnhof nutzen Sie die Züge des Regionalverkehrs von Gleis 3 und 9 (Pasing).\n- Fahrgäste ab Pasing in Richtung Innenstadt können den Bus 57 bis Laimer Platz und von dort die U 5 nutzen. Mit der U 5 können Sie weiter zum Ostbahnhof fahren.\n- Fahrgäste in/aus Richtung Laim und in/aus Richtung Sendling können auch den Bus 130 von/nach Harras nutzen. Am Harras fährt die U 6 Richtung Marienplatz oder Großhadern.\n\n**Informieren Sie sich wegen eventueller Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.**",
+    "message_id": "1575541883827134508",
+    "severity": 3,
+    "stations": [
+      "Hackerbrücke",
+      "München Hbf",
+      "Marienplatz",
+      "Holzkirchen",
+      "Mammendorf",
+      "Karlsplatz (Stachus)",
+      "Ostbahnhof",
+      "Giesing",
+      "Pasing",
+      "Laim"
+    ],
+    "title": "Reparatur an einem Signal - Am Ostbahnhof sind wieder eingeschränkt Zugfahrten möglich. Die Reparatur an einem Signal ist beendet. Bitte rechnen Sie mit Folgeverspätungen von bis zu 20 Minuten. Zudem kommt es auch weiterhin zu Zugausfällen.\n \nDie S-Bahnen verkehren abweichend der regulären Linienführung wie folgt:",
+    "type": "INCIDENT",
+    "validFrom": 1795705560000,
+    "validTo": 1795714200000
+  },
   "4e1e7061296b411c": {
     "description": "Ab dem 25. August 2026 ist aufgrund von Bauarbeiten am Bahnhof Laim bis Mitte 2028 mit Änderungen bei den Fahrten in Richtung Münchner Innenstadt zu rechnen. Diese Änderungen betreffen ausschließlich die Fahrten in Richtung Innenstadt. Bei den Fahrten aus der Stadt heraus halten alle S-Bahn-Züge weiterhin wie gewohnt in Laim. Fahrgäste, die aus Richtung Pasing kommen und mit den Linien S3, S4, S6 oder S8 nach Laim fahren: Diese Linien halten in Richtung Stadtzentrum nicht mehr am Bahnhof Laim. Fahrgäste, die nach Laim fahren möchten, werden gebeten, mit der S-Bahn bis Hirschgarten weiterzufahren, dort auf demselben Bahnsteig umzusteigen und dann mit der nächsten S-Bahn zurück nach Laim zu fahren.  Mit einem für Laim gültigen Fahrschein ist es möglich, bis Hirschgarten weiterzufahren und dann zurück nach Laim zu fahren. Durch den zusätzlichen Umstieg kann sich die Fahrzeit verlängern. Den Fahrgästen wird empfohlen, vor Fahrtantritt die Anschlussinformationen zu überprüfen, die aktuellen Fahrgastinformationen im Zug und am Bahnhof zu beachten und insbesondere zu Beginn des Schuljahres sowie in den ersten Tagen des Betriebs die zusätzliche Fahrzeit einzuplanen. Kurz zusammengefasst: Bauarbeiten am Bahnhof Laim vom 25.08.2026 bis voraussichtlich Mitte 2028 Die Linien S3, S4, S6 und S8 halten stadteinwärts nicht in Laim. Stadtauswärts ergeben sich keine Änderungen. Fahrgäste mit Ziel Laim fahren bitte bis Hirschgarten weiter, steigen dort um und fahren mit der nächsten S-Bahn zurück nach Laim. Kein zusätzliches Ticket erforderlich. Die Linien S1, S2 und S5 sind nicht betroffen und halten weiterhin in beiden Fahrtrichtungen in Laim.",
     "severity": 2,
@@ -39,27 +60,5 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1790932440000,
     "validTo": 1796956200000
-  },
-  "f8981aca039389ef": {
-    "description": "**S 1 Freising / Flughafen**\n\nZüge beginnen/enden in Moosach.\n\n**Alternative:**\n\n- U 2 ab Hauptbahnhof bis Feldmoching oder U 3 ab Marienplatz bis Moosach und dort Umstieg zur S 1. Die Gegenrichtung gilt sinngemäß.\n- Bus 162 zwischen Pasing und Moosach.\n\n**S 2 Petershausen / Altomünster**\n\nZüge beginnen/enden am Heimeranplatz Gleis 11.\n\n**Alternativen:**\n\n- Von/nach Petershausen die U 5 ab Hauptbahnhof, Karlsplatz und Ostbahnhof bis Heimeranplatz nutzen.\n\n**S 2 Erding**\n\nZüge fahren nur zwischen Erding und Berg am Laim.\n\n**Alternative:**\n\n- U2 ab Hauptbahnhof von/nach Messestadt West und dann Bus 190 / 263 von/nach Riem.\n- U2 zwischen Hauptbahnhof und Trudering, Bus 194 (Mo-Fr) zwischen Trudering und Riem.\n\n**S 3 Mammendorf**\n\nZüge beginnen/enden am Isartor.\n\n**S 3 Holzkirchen**\n\nZüge beginnen/enden in Giesing.\n\n**Alternativen:**\n\n- Bus 54 vom/zum Ostbahnhof.\n- U 2 ab Hauptbahnhof.\n- U 5 ab Hauptbahnhof, Karlsplatz, Ostbahnhof bis Innsbrucker Ring und dann die U 2 bis Giesing.\n\n**S 4 Geltendorf**\n\nZüge beginnen/enden am Hauptbahnhof Nord Gleis 27 - 36. Der Halt **Hackerbrücke** entfällt.\n\n**S 5 Kreuzstraße – Pasing**\n\nZüge fahren nur zwischen Kreuzstraße und Giesing.\n\n**Alternativen:**\n\n- U 2 zwischen Hauptbahnhof und Giesing.\n- U 5 zwischen Hauptbahnhof und Innsbrucker Ring, U 2 zwischen Innsbrucker Ring und Giesing.\n- Bus 54 zwischen Ostbahnhof und Giesing.\n\n**S 6 Tutzing**\n\nZüge beginnen/enden an der Hackerbrücke.\n\n**S 6 Ebersberg**\n\nZüge beginnen/enden Trudering.\n\n**Alternativen:**\n\n- Vom/zum Hauptbahnhof auf die U 2 ausweichen.\n- Bus 185 von Trudering nach Berg am Laim.\n- Bus 190/191 zwischen Berg am Laim und Ostbahnhof.\n\n**S 7 Wolfratshausen**\n\nZüge verkehren auf dem Regelweg.\n\n**S 8 Herrsching**\n\nZüge beginnen/enden in Pasing.\n\n**S 8 Flughafen**\n\nZüge beginnen/enden am Leuchtenbergring.\n\n**Die S-Bahnen des 10-Minuten-Takts entfallen auf allen Linien.**\n\n**Bitte beachten Sie für mögliche Gleisänderungen die Ansagen und Anzeigen am Bahnsteig.**\n\n**Fahrgästen zwischen Pasing und Hauptbahnhof / Ostbahnhof empfehlen wir folgende Alternativen:**\n\n- Zwischen Pasing und Hauptbahnhof nutzen Sie die Züge des Regionalverkehrs von Gleis 3 und 9 (Pasing).\n- Fahrgäste ab Pasing in Richtung Innenstadt können den Bus 57 bis Laimer Platz und von dort die U 5 nutzen. Mit der U 5 können Sie weiter zum Ostbahnhof fahren.\n- Fahrgäste in/aus Richtung Laim und in/aus Richtung Sendling können auch den Bus 130 von/nach Harras nutzen. Am Harras fährt die U 6 Richtung Marienplatz oder Großhadern.\n\n**Informieren Sie sich wegen eventueller Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.**",
-    "message_id": "1575534327880491186",
-    "severity": 3,
-    "stations": [
-      "Hackerbrücke",
-      "München Hbf",
-      "Marienplatz",
-      "Holzkirchen",
-      "Mammendorf",
-      "Karlsplatz (Stachus)",
-      "Ostbahnhof",
-      "Isartor",
-      "Giesing",
-      "Pasing",
-      "Laim"
-    ],
-    "title": "Reparatur an einer Weiche - am Ostbahnhof sind derzeit alle Gleise aufgrund einer Reparatur an einer Weiche gesperrt ‼️ Bitte rechnen Sie mit Verspätungen von bis zu 10 Minuten. Zudem kommt es zu Zugausfällen.\n \nDie S-Bahnen verkehren abweichend der regulären Linienführung wie folgt:",
-    "type": "INCIDENT",
-    "validFrom": 1795705560000,
-    "validTo": 1795714200000
   }
 }
