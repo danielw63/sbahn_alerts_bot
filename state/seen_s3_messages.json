@@ -1,13 +1,13 @@
 {
-  "10e56f98651ec9e8": {
-    "description": "Die S-Bahnen wenden in Deisenhofen.\n\nWir haben für Sie einen Ersatzverkehr mit Bussen zwischen Deisenhofen und Holzkirchen eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.\n\nEs kommt zu Verspätungen und Teilausfällen.\n\nDer Grund hierfür ist die Reparatur an einer Weiche.",
-    "message_id": "1575436167174950969",
+  "23f7c61ce7ccc1df": {
+    "description": "Zur Sicherheit bleibt der Ersatzverkehr vorerst parallel bestehen, bis die Fahrten stabil laufen.\n\nEs kommt zu Verspätungen und Teilausfällen.\n\nDie Reparatur an einer Weiche wurde beendet.",
+    "message_id": "1575443694100676699",
     "severity": 1,
     "stations": [
       "Deisenhofen",
       "Holzkirchen"
     ],
-    "title": "Reparatur an einer Weiche - Zwischen Deisenhofen und Holzkirchen sind keine Zugfahrten möglich.",
+    "title": "Reparatur an einer Weiche - Die Züge können wieder zwischen Deisenhofen und Holzkirchen fahren.",
     "type": "INCIDENT",
     "validFrom": 1795682160000,
     "validTo": 1795687200000
