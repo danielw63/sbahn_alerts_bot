@@ -39,17 +39,5 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1790932440000,
     "validTo": 1796956200000
-  },
-  "d06f95adaa4be70a": {
-    "description": "Der Grund hierfür ist eine technische Störung am Zug.",
-    "message_id": "1575624914449203321",
-    "severity": 3,
-    "stations": [
-      "Ostbahnhof"
-    ],
-    "title": "Technische Störung an einem Zug - Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von bis zu 20 Minuten, Zugausfällen, Umleitungen und vorzeitigen Zugwenden.",
-    "type": "INCIDENT",
-    "validFrom": 1795727040000,
-    "validTo": 1795732200000
   }
 }
