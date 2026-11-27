@@ -39,5 +39,18 @@
     "type": "SCHEDULE_CHANGE",
     "validFrom": 1790932440000,
     "validTo": 1796956200000
+  },
+  "ca156d844caac8bd": {
+    "description": "Grund für diese Beeinträchtigungen ist eine technische Störung an einer S-Bahn am Marienplatz.",
+    "message_id": "1575896734507339879",
+    "severity": 2,
+    "stations": [
+      "Marienplatz",
+      "Pasing"
+    ],
+    "title": "Technische Störung an einem Zug  - Auf der Stammstrecke in Richtung Pasing sind bis auf weiteres keine Zugfahrten möglich ‼️ Zusätzlich kommt es zu Verspätungen von 10 bis 15 Minuten.",
+    "type": "INCIDENT",
+    "validFrom": 1795792500000,
+    "validTo": 1795796100000
   }
 }
